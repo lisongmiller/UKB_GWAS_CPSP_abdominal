@@ -1,0 +1,2033 @@
+drug_name	status	ptr_approved
+4Head sticks (Dendron Ltd)	n	
+ACUPAN tablets 30mg [3M]	y	yes_approved
+ALGIPAN cream [WYETH CONS]	n	
+ALGIPAN spray [WYETH CONS]	n	
+AMITRIPTYLINE tablets 25mg [CROSS-PHAR]	y	
+APSIFEN tablets 400mg [APS]	y	yes_approved
+ARJUN cream 0.5% [ARJUN]	n	
+ARJUN cream 1% [ARJUN]	n	
+ARJUN cream 2% [ARJUN]	n	
+ASPELLIN liniment [RPR/FISONS]	n	
+ASPIRIN tablets 300mg [CO-OPERATI]	y	yes_approved
+ATIVAN tablets 1mg [WYETH PHAR]	n	
+Abstral 100microgram sublingual tablets (ProStrakan Ltd)	y	yes_approved
+Abstral 200microgram sublingual tablets (ProStrakan Ltd)	y	yes_approved
+Abstral 300microgram sublingual tablets (ProStrakan Ltd)	y	yes_approved
+Abstral 400microgram sublingual tablets (ProStrakan Ltd)	y	yes_approved
+Abstral 600microgram sublingual tablets (ProStrakan Ltd)	y	yes_approved
+Aceclofenac 100mg tablets	y	yes_approved
+Acemetacin 60mg capsules	y	yes_approved
+Actiq 200microgram lozenges with integral oromucosal applicator (Teva UK Ltd)	y	yes_approved
+Acupan 30mg tablets (Meda Pharmaceuticals Ltd)	y	yes_approved
+Agomelatine 25mg tablets	n	
+Alfentanil 1mg/2ml solution for injection ampoules	y	yes_approved
+Alfentanil 5mg/10ml solution for injection ampoules	y	yes_approved
+Alfentanil 5mg/1ml solution for injection ampoules	y	yes_approved
+Algesal cream (Thornton & Ross Ltd)	n	
+Alimemazine 10mg tablets	n	
+Alimemazine 30mg/5ml oral solution	n	
+Alka-Seltzer XS effervescent tablets (Bayer Plc)	y	yes_approved
+Allegron 10mg tablets (King Pharmaceuticals Ltd)	y	
+Allegron 25mg tablets (King Pharmaceuticals Ltd)	y	
+Almogran 12.5mg tablets (Almirall Ltd)	n	
+Almotriptan 12.5mg tablets	n	
+Alzain 150mg capsules (Dr Reddy's Laboratories (UK) Ltd)	y	
+Alzain 25mg capsules (Dr Reddy's Laboratories (UK) Ltd)	y	
+Alzain 50mg capsules (Dr Reddy's Laboratories (UK) Ltd)	y	
+Alzain 75mg capsules (Dr Reddy's Laboratories (UK) Ltd)	y	
+Amitriptyline 10mg tablets	y	
+Amitriptyline 10mg tablets (A A H Pharmaceuticals Ltd)	y	
+Amitriptyline 10mg tablets (Actavis UK Ltd)	y	
+Amitriptyline 10mg tablets (IVAX Pharmaceuticals UK Ltd)	y	
+Amitriptyline 10mg tablets (Kent Pharmaceuticals Ltd)	y	
+Amitriptyline 10mg tablets (Teva UK Ltd)	y	
+Amitriptyline 10mg tablets (Wockhardt UK Ltd)	y	
+Amitriptyline 10mg/5ml oral solution sugar free	y	
+Amitriptyline 25mg modified-release capsules	y	
+Amitriptyline 25mg tablets	y	
+Amitriptyline 25mg tablets (Actavis UK Ltd)	y	
+Amitriptyline 25mg tablets (Almus Pharmaceuticals Ltd)	y	
+Amitriptyline 25mg tablets (Sandoz Ltd)	y	
+Amitriptyline 25mg tablets (Teva UK Ltd)	y	
+Amitriptyline 25mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)	y	
+Amitriptyline 25mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)	y	
+Amitriptyline 50mg modified-release capsules	y	
+Amitriptyline 50mg tablets (Actavis UK Ltd)	y	
+Amitriptyline 50mg tablets (Almus Pharmaceuticals Ltd)	y	
+Amitriptyline 50mg tablets (Wockhardt UK Ltd)	y	
+Amitriptyline 50mg/5ml oral solution sugar free	y	
+Amitriptyline 50mg/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)	y	
+Amoxapine 50mg tablets	n	
+Anafranil 10mg capsules (Novartis Pharmaceuticals UK Ltd)	n	
+Anafranil 25mg capsules (Novartis Pharmaceuticals UK Ltd)	n	
+Anafranil 25mg/5ml syrup (Novartis Pharmaceuticals UK Ltd)	n	
+Anafranil 50mg capsules (Novartis Pharmaceuticals UK Ltd)	n	
+Anafranil SR 75mg tablets (Novartis Pharmaceuticals UK Ltd)	n	
+AquaSoothe 1% cream (Ennogen Healthcare Ltd)	n	
+Arcoxia 120mg tablets (Grunenthal Ltd)	y	yes_approved
+Arcoxia 30mg tablets (Grunenthal Ltd)	y	yes_approved
+Arcoxia 60mg tablets (Grunenthal Ltd)	y	yes_approved
+Arcoxia 90mg tablets (Grunenthal Ltd)	y	yes_approved
+Arjun 1% cream (Arjun Products Ltd)	n	
+Arthrofen 200 tablets (Ashbourne Pharmaceuticals Ltd)	y	yes_approved
+Arthrofen 400 tablets (Ashbourne Pharmaceuticals Ltd)	y	yes_approved
+Arthrofen 600 tablets (Ashbourne Pharmaceuticals Ltd)	y	yes_approved
+Arthrosin 250 tablets (Ashbourne Pharmaceuticals Ltd)	y	yes_approved
+Arthrotec 50 gastro-resistant tablets (Pfizer Ltd)	y	yes_approved
+Arthrotec 75 gastro-resistant tablets (Pfizer Ltd)	y	yes_approved
+Aspav dispersible tablets (Actavis UK Ltd)	y	yes_approved
+Aspirin 150mg suppositories	y	yes_approved
+Aspirin 300mg dispersible tablets (Actavis UK Ltd)	y	yes_approved
+Aspirin 300mg dispersible tablets (Aspar Pharmaceuticals Ltd)	y	yes_approved
+Aspirin 300mg gastro-resistant tablets	y	yes_approved
+Aspirin 300mg gastro-resistant tablets (Sandoz Ltd)	y	yes_approved
+Aspirin 300mg suppositories	y	yes_approved
+Aspirin 300mg tablets	y	yes_approved
+Aspirin 300mg tablets (Aspar Pharmaceuticals Ltd)	y	yes_approved
+Aspirin 300mg tablets (Sigma Pharmaceuticals Plc)	y	yes_approved
+Aspirin 325mg / Caffeine 15mg tablets	y	yes_approved
+Aspirin 500mg / Codeine 8mg dispersible tablets sugar free	y	yes_approved
+Aspirin 500mg / Papaveretum 7.71mg dispersible tablets sugar free	y	yes_approved
+Axsain 0.075% cream (Teva UK Ltd)	n	
+Azapropazone 600mg tablets	y	yes_approved
+BENORILATE suspension 2g/5ml [APS]	y	yes_approved
+BOLVIDON tablets 10mg [ORGANON]	n	
+BRUFEN retard tablets 800mg [BGP PROD]	y	yes_approved
+Balmosa cream (Galen Consumer Ltd)	n	
+Benoral 2g/5ml oral suspension (Sanofi-Synthelabo Ltd)	n	
+Benoral 750mg tablets (Sanofi-Synthelabo Ltd)	n	
+Benorilate 2g granules sachets sugar free	y	yes_approved
+Benorilate 2g/5ml oral suspension sugar free	y	yes_approved
+Benorilate 2g/5ml oral suspension sugar free (Mylan Ltd)	y	yes_approved
+Benorilate 750mg tablets	y	yes_approved
+Benzydamine 3% cream	n	
+Beta-Prograne 160mg modified-release capsules (Teva UK Ltd)	n	
+Bextra 10mg tablets (Pfizer Ltd)	y	yes_approved
+Bextra 20mg tablets (Pfizer Ltd)	y	yes_approved
+Bextra 40mg tablets (Pfizer Ltd)	y	yes_approved
+Brexidol 20mg tablets (Chiesi Ltd)	y	yes_approved
+Brufen 100mg/5ml syrup (BGP Products Ltd)	y	yes_approved
+Brufen 200mg tablets (Abbott Laboratories Ltd)	y	yes_approved
+Brufen 400mg tablets (BGP Products Ltd)	y	yes_approved
+Brufen 600mg effervescent granules sachets (BGP Products Ltd)	y	yes_approved
+Brufen 600mg tablets (BGP Products Ltd)	y	yes_approved
+Brufen Retard 800mg tablets (BGP Products Ltd)	y	yes_approved
+BuTrans 10micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd)	y	yes_approved
+BuTrans 15micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd)	y	yes_approved
+BuTrans 20micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd)	y	yes_approved
+BuTrans 5micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd)	y	yes_approved
+Buccolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes (Shire Pharmaceuticals Ltd)	n	
+Buprenorphine 10micrograms/hour transdermal patches	y	yes_approved
+Buprenorphine 15micrograms/hour transdermal patches	y	yes_approved
+Buprenorphine 200microgram sublingual tablets sugar free	y	yes_approved
+Buprenorphine 20micrograms/hour transdermal patches	y	yes_approved
+Buprenorphine 2mg / Naloxone 500microgram sublingual tablets sugar free	y	yes_approved
+Buprenorphine 2mg sublingual tablets sugar free	y	yes_approved
+Buprenorphine 2mg sublingual tablets sugar free (A A H Pharmaceuticals Ltd)	y	yes_approved
+Buprenorphine 35micrograms/hour transdermal patches	y	yes_approved
+Buprenorphine 400microgram sublingual tablets sugar free	y	yes_approved
+Buprenorphine 400microgram sublingual tablets sugar free (A A H Pharmaceuticals Ltd)	y	yes_approved
+Buprenorphine 400microgram sublingual tablets sugar free (Actavis UK Ltd)	y	yes_approved
+Buprenorphine 400microgram sublingual tablets sugar free (Arrow Generics Ltd)	y	yes_approved
+Buprenorphine 400microgram sublingual tablets sugar free (Teva UK Ltd)	y	yes_approved
+Buprenorphine 52.5micrograms/hour transdermal patches	y	yes_approved
+Buprenorphine 5micrograms/hour transdermal patches	y	yes_approved
+Buprenorphine 70micrograms/hour transdermal patches	y	yes_approved
+Buprenorphine 8mg / Naloxone 2mg sublingual tablets sugar free	y	yes_approved
+Buprenorphine 8mg sublingual tablets sugar free	y	yes_approved
+Buprenorphine 8mg sublingual tablets sugar free (Actavis UK Ltd)	y	yes_approved
+Butec 10micrograms/hour transdermal patches (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Butec 20micrograms/hour transdermal patches (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Butec 5micrograms/hour transdermal patches (Qdem Pharmaceuticals Ltd)	y	yes_approved
+CALPOL PAEDIATRIC suspension 120mg/5ml [PFIZER]	y	yes_approved
+CARBAMAZEPINE SR tablets 200mg [IVAX]	y	
+CARBAMAZEPINE tablets 100mg [IVAX]	y	
+CARBAMAZEPINE tablets 200mg [IVAX]	y	
+CARE IBUPROFEN tablets 200mg [T & R]	y	yes_approved
+CARE IBUPROFEN tablets 400mg [T & R]	y	yes_approved
+CLOMIPRAMINE capsules 50mg [SANDOZ]	n	
+CLOTAM capsules 200mg [THAMES]	y	yes_approved
+CO-CODAMOL dispersible tablet 8mg+500mg [RHONE]	y	yes_approved
+CO-CODAMOL tablets 8mg+500mg [NUCARE]	y	yes_approved
+CO-DYDRAMOL suspension 10mg + 500mg/5ml [ROSEMONT]	y	yes_approved
+CO-DYDRAMOL tablets 10mg+500mg [BERK]	y	yes_approved
+CO-DYDRAMOL tablets 10mg+500mg [CELLTECH]	y	yes_approved
+CO-DYDRAMOL tablets 10mg+500mg [DF]	y	yes_approved
+CO-DYDRAMOL tablets 10mg+500mg [M&A PHARM]	y	yes_approved
+CO-PROXAMOL tablets (DISTA) 32.5/325 [DISTA]	y	yes_approved
+CO-PROXAMOL tablets 32.5/325 [BERK]	y	yes_approved
+CO-PROXAMOL tablets 32.5/325 [CP PHARM]	y	yes_approved
+CO-PROXAMOL tablets 32.5/325 [DISTA]	y	yes_approved
+CO-PROXAMOL tablets 32.5mg + 325mg [M&A PHARM]	y	yes_approved
+CODEINE linctus [CO-OPERATI]	n	
+CONCORDIN 10 tablets [M S D]	n	
+CONDROTEC tablets 500mg+200mcg [PHARMACIA]	y	yes_approved
+Cafergot suppositories (Alliance Pharmaceuticals Ltd)	n	
+Cafergot tablets (Alliance Pharmaceuticals Ltd)	n	
+Calpol Paediatric 120mg/5ml oral suspension sugar free (McNeil Products Ltd)	y	yes_approved
+Caprin 300mg gastro-resistant tablets (Pinewood Healthcare)	y	yes_approved
+Capsaicin 0.025% cream	n	
+Capsaicin 0.075% cream	n	
+Capsicum 2.466% ointment	n	
+Carbagen 200mg tablets (Mylan Ltd)	y	
+Carbagen SR 400mg tablets (Mylan Ltd)	y	
+Carbamazepine 100mg chewable tablets sugar free	y	
+Carbamazepine 100mg tablets (A A H Pharmaceuticals Ltd)	y	
+Carbamazepine 100mg tablets (Actavis UK Ltd)	y	
+Carbamazepine 100mg/5ml oral suspension sugar free (Actavis UK Ltd)	y	
+Carbamazepine 200mg chewable tablets sugar free	y	
+Carbamazepine 200mg modified-release tablets	y	
+Carbamazepine 200mg modified-release tablets (A A H Pharmaceuticals Ltd)	y	
+Carbamazepine 200mg tablets	y	
+Carbamazepine 200mg tablets (Actavis UK Ltd)	y	
+Carbamazepine 200mg tablets (Mylan Ltd)	y	
+Carbamazepine 250mg suppositories	y	
+Carbamazepine 400mg tablets	y	
+Celebrex 100mg capsules (Pfizer Ltd)	y	yes_approved
+Celebrex 200mg capsules (Pfizer Ltd)	y	yes_approved
+Celecoxib 100mg capsules	y	yes_approved
+Celecoxib 100mg capsules (Actavis UK Ltd)	y	yes_approved
+Celecoxib 200mg capsules	y	yes_approved
+Clinoril 200mg tablets (Merck Sharp & Dohme Ltd)	y	yes_approved
+Clobazam 10mg tablets	n	
+Clobazam 10mg tablets (Teva UK Ltd)	n	
+Clobazam 10mg/5ml oral suspension sugar free	n	
+Clobazam 5mg/5ml oral solution	n	
+Clomipramine 10mg capsules	n	
+Clomipramine 25mg capsules	n	
+Clomipramine 25mg capsules (Actavis UK Ltd)	n	
+Clomipramine 25mg capsules (Almus Pharmaceuticals Ltd)	n	
+Clomipramine 25mg/5ml oral solution	n	
+Clomipramine 50mg capsules	n	
+Clomipramine 75mg modified-release tablets	n	
+Clonazepam 2.5mg/ml drops	n	
+Clonazepam 250micrograms/5ml oral solution	n	
+Clonazepam 2mg tablets	n	
+Clonazepam 2mg tablets (A A H Pharmaceuticals Ltd)	n	
+Clonazepam 2mg tablets (Alliance Healthcare (Distribution) Ltd)	n	
+Clonazepam 2mg/5ml oral solution sugar free	n	
+Clonazepam 500microgram tablets	n	
+Clonazepam 500microgram tablets (A A H Pharmaceuticals Ltd)	n	
+Clonazepam 500microgram tablets (Alliance Healthcare (Distribution) Ltd)	n	
+Clonazepam 500microgram tablets (Almus Pharmaceuticals Ltd)	n	
+Clonazepam 500micrograms/5ml oral solution sugar free	n	
+Clonazepam 500micrograms/5ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)	n	
+Clonazepam 500micrograms/5ml oral suspension	n	
+Clotam Rapid 200mg tablets (Galen Ltd)	y	yes_approved
+Co-codamol 12.8mg/500mg tablets	y	yes_approved
+Co-codamol 15mg/500mg capsules	y	yes_approved
+Co-codamol 15mg/500mg effervescent tablets sugar free	y	yes_approved
+Co-codamol 15mg/500mg tablets	y	yes_approved
+Co-codamol 15mg/500mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 30mg/500mg caplets (Actavis UK Ltd)	y	yes_approved
+Co-codamol 30mg/500mg caplets (Wockhardt UK Ltd)	y	yes_approved
+Co-codamol 30mg/500mg capsules	y	yes_approved
+Co-codamol 30mg/500mg capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 30mg/500mg capsules (AMCo)	y	yes_approved
+Co-codamol 30mg/500mg capsules (Actavis UK Ltd)	y	yes_approved
+Co-codamol 30mg/500mg capsules (Teva UK Ltd)	y	yes_approved
+Co-codamol 30mg/500mg capsules (Zentiva)	y	yes_approved
+Co-codamol 30mg/500mg effervescent powder sachets sugar free	y	yes_approved
+Co-codamol 30mg/500mg effervescent tablets	y	yes_approved
+Co-codamol 30mg/500mg effervescent tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 30mg/500mg effervescent tablets (Actavis UK Ltd)	y	yes_approved
+Co-codamol 30mg/500mg effervescent tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 30mg/500mg effervescent tablets (Fannin UK Ltd)	y	yes_approved
+Co-codamol 30mg/500mg effervescent tablets (Mylan Ltd)	y	yes_approved
+Co-codamol 30mg/500mg effervescent tablets (Teva UK Ltd)	y	yes_approved
+Co-codamol 30mg/500mg effervescent tablets (Zentiva)	y	yes_approved
+Co-codamol 30mg/500mg tablets	y	yes_approved
+Co-codamol 30mg/500mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 30mg/500mg tablets (Actavis UK Ltd)	y	yes_approved
+Co-codamol 30mg/500mg tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 30mg/500mg tablets (IVAX Pharmaceuticals UK Ltd)	y	yes_approved
+Co-codamol 30mg/500mg tablets (Sandoz Ltd)	y	yes_approved
+Co-codamol 30mg/500mg tablets (Teva UK Ltd)	y	yes_approved
+Co-codamol 30mg/500mg tablets (Wockhardt UK Ltd)	y	yes_approved
+Co-codamol 30mg/500mg tablets (Zentiva)	y	yes_approved
+Co-codamol 8mg/500mg caplets (Actavis UK Ltd)	y	yes_approved
+Co-codamol 8mg/500mg caplets (Vantage)	y	yes_approved
+Co-codamol 8mg/500mg capsules	y	yes_approved
+Co-codamol 8mg/500mg effervescent tablets	y	yes_approved
+Co-codamol 8mg/500mg effervescent tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 8mg/500mg effervescent tablets (Actavis UK Ltd)	y	yes_approved
+Co-codamol 8mg/500mg effervescent tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 8mg/500mg effervescent tablets (Bayer Plc)	y	yes_approved
+Co-codamol 8mg/500mg effervescent tablets (Fannin UK Ltd)	y	yes_approved
+Co-codamol 8mg/500mg effervescent tablets (Sandoz Ltd)	y	yes_approved
+Co-codamol 8mg/500mg effervescent tablets (Teva UK Ltd)	y	yes_approved
+Co-codamol 8mg/500mg effervescent tablets (Zentiva)	y	yes_approved
+Co-codamol 8mg/500mg tablets	y	yes_approved
+Co-codamol 8mg/500mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 8mg/500mg tablets (Actavis UK Ltd)	y	yes_approved
+Co-codamol 8mg/500mg tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 8mg/500mg tablets (Aspar Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 8mg/500mg tablets (Kent Pharmaceuticals Ltd)	y	yes_approved
+Co-codamol 8mg/500mg tablets (Teva UK Ltd)	y	yes_approved
+Co-codamol 8mg/500mg tablets (Tillomed Laboratories Ltd)	y	yes_approved
+Co-codamol 8mg/500mg tablets (Vantage)	y	yes_approved
+Co-codamol 8mg/500mg tablets (Wockhardt UK Ltd)	y	yes_approved
+Co-codamol 8mg/500mg tablets (Zentiva)	y	yes_approved
+Co-codaprin 8mg/400mg dispersible tablets	y	yes_approved
+Co-codaprin 8mg/400mg dispersible tablets (Actavis UK Ltd)	y	yes_approved
+Co-dydramol 10mg/500mg tablets	y	yes_approved
+Co-dydramol 10mg/500mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Co-dydramol 10mg/500mg tablets (Actavis UK Ltd)	y	yes_approved
+Co-dydramol 10mg/500mg tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Co-dydramol 10mg/500mg tablets (Ranbaxy (UK) Ltd)	y	yes_approved
+Co-dydramol 10mg/500mg tablets (Teva UK Ltd)	y	yes_approved
+Co-dydramol 10mg/500mg tablets (Wockhardt UK Ltd)	y	yes_approved
+Co-dydramol 10mg/500mg tablets (Zentiva)	y	yes_approved
+Co-dydramol 10mg/500mg/5ml oral suspension	y	yes_approved
+Co-proxamol 32.5mg/325mg tablets	y	yes_approved
+Co-proxamol 32.5mg/325mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Co-proxamol 32.5mg/325mg tablets (Meda Pharmaceuticals Ltd)	y	yes_approved
+Co-proxamol 32.5mg/325mg tablets (Sigma Pharmaceuticals Plc)	y	yes_approved
+Co-proxamol 32.5mg/325mg tablets (Zentiva)	y	yes_approved
+Codafen Continus tablets (Napp Pharmaceuticals Ltd)	y	
+Codeine 15mg tablets	y	yes_approved
+Codeine 15mg/5ml linctus	n	
+Codeine 15mg/5ml linctus (Thornton & Ross Ltd)	n	
+Codeine 15mg/5ml linctus sugar free (Pinewood Healthcare)	n	
+Codeine 25mg/5ml oral solution (Thornton & Ross Ltd)	y	yes_approved
+Codeine 30mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Codeine 30mg tablets (Kent Pharmaceuticals Ltd)	y	yes_approved
+Codeine 3mg/5ml linctus paediatric sugar free	n	
+Codeine 60mg tablets (Sandoz Ltd)	y	yes_approved
+Codipar 15mg/500mg capsules (AMCo)	y	yes_approved
+Codipar 15mg/500mg tablets (AMCo)	y	yes_approved
+Corgard 80mg tablets (Sanofi)	n	
+Cuprofen 200mg tablets (SSL International Plc)	y	yes_approved
+Cuprofen 5% gel (SSL International Plc)	n	
+Cuprofen Maximum Strength 400mg tablets (SSL International Plc)	y	yes_approved
+Cuprofen PLUS tablets (SSL International Plc)	y	yes_approved
+DEEP RELIEF IBUPROFEN gel 5% [MENTHOLA]	n	
+DF 118 Forte 40mg tablets (Martindale Pharmaceuticals Ltd)	y	yes_approved
+DF118 forte tablets 40mg [MARTINDALE]	y	yes_approved
+DF118 tablets 30mg [MARTINDALE]	y	yes_approved
+DHC Continus 120mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+DHC Continus 60mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+DHC Continus 90mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+DIAZEPAM tablets 2mg [CROSS-PHAR]	n	
+DICLOFENAC enteric coated tablets 25mg [ALMUS]	y	yes_approved
+DICLOFENAC modified release capsules 100mg [SANDOZ]	y	yes_approved
+DICLOFENAC modified release tablet 100mg [ACTAVIS]	y	yes_approved
+DICLOFENAC modified release tablet 75mg [GALEN]	y	yes_approved
+DICLOFLEX enteric coated tablets 50mg [RATIOPHARM]	y	yes_approved
+DIHYDROCODEINE tablets 30mg [BERK]	y	yes_approved
+DISPROL PAEDIATRIC suspension sugar-free 120mg/5ml [RECKITT B]	y	yes_approved
+DYSMAN capsules 250mg [ASHBOURNE]	y	yes_approved
+Day & Night Nurse capsules (GlaxoSmithKline Consumer Healthcare)	n	
+Deep Freeze Cold Gel 2% (The Mentholatum Company Ltd)	n	
+Deep Freeze spray (The Mentholatum Company Ltd)	n	
+Deep Heat Maximum Strength cream (The Mentholatum Company Ltd)	n	
+Deep Heat spray (The Mentholatum Company Ltd)	n	
+Deep Relief gel (The Mentholatum Company Ltd)	n	
+Depakote 250mg gastro-resistant tablets (Sanofi)	n	
+Depakote 500mg gastro-resistant tablets (Sanofi)	n	
+Depefex XL 150mg capsules (Chiesi Ltd)	y	
+Depefex XL 75mg capsules (Chiesi Ltd)	y	
+Dermacool 0.5% cream (Pern Consumer Products Ltd)	n	
+Dermacool 1% cream (Pern Consumer Products Ltd)	n	
+Dermacool 2% cream (Pern Consumer Products Ltd)	n	
+Deseril 1mg tablets (Alliance Pharmaceuticals Ltd)	n	
+Dexibuprofen 300mg tablets	y	yes_approved
+Dexibuprofen 400mg tablets	y	yes_approved
+Dexketoprofen 25mg tablets	y	yes_approved
+Dextromoramide 10mg tablets	y	yes_approved
+Dextromoramide 5mg tablets	y	yes_approved
+Dextropropoxyphene 60mg capsules	y	yes_approved
+Diamorphine 100mg powder for solution for injection ampoules	y	yes_approved
+Diamorphine 100mg powder for solution for injection vials (Teva UK Ltd)	y	yes_approved
+Diamorphine 10mg powder for solution for injection ampoules	y	yes_approved
+Diamorphine 10mg powder for solution for injection ampoules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Diamorphine 10mg powder for solution for injection ampoules (ViroPharma Ltd)	y	yes_approved
+Diamorphine 10mg powder for solution for injection ampoules (Wockhardt UK Ltd)	y	yes_approved
+Diamorphine 10mg powder for solution for injection vials (Teva UK Ltd)	y	yes_approved
+Diamorphine 10mg tablets	y	yes_approved
+Diamorphine 30mg powder for solution for injection ampoules	y	yes_approved
+Diamorphine 30mg powder for solution for injection ampoules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Diamorphine 30mg powder for solution for injection ampoules (ViroPharma Ltd)	y	yes_approved
+Diamorphine 30mg powder for solution for injection ampoules (Wockhardt UK Ltd)	y	yes_approved
+Diamorphine 30mg powder for solution for injection vials (Teva UK Ltd)	y	yes_approved
+Diamorphine 5mg powder for solution for injection ampoules	y	yes_approved
+Diamorphine 5mg powder for solution for injection ampoules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Diamorphine 5mg powder for solution for injection ampoules (ViroPharma Ltd)	y	yes_approved
+Diamorphine 5mg powder for solution for injection ampoules (Wockhardt UK Ltd)	y	yes_approved
+Diamorphine 5mg powder for solution for injection vials (Teva UK Ltd)	y	yes_approved
+Diazepam 10mg/5ml oral suspension	n	
+Diazepam 2.5mg/1.25ml rectal solution tube	n	
+Diazepam 2mg tablets (Teva UK Ltd)	n	
+Diazepam 2mg/5ml oral solution (Sandoz Ltd)	n	
+Diazepam 5mg tablets (Actavis UK Ltd)	n	
+Diazepam 5mg tablets (Almus Pharmaceuticals Ltd)	n	
+Diazepam 5mg tablets (Teva UK Ltd)	n	
+Diazepam 5mg/5ml oral solution	n	
+Diclofenac 1% transdermal patches	n	
+Diclofenac 1.16% gel	n	
+Diclofenac 100mg suppositories	y	yes_approved
+Diclofenac 100mg suppositories (A A H Pharmaceuticals Ltd)	y	yes_approved
+Diclofenac 10mg dispersible tablets	y	yes_approved
+Diclofenac 12.5mg suppositories	y	yes_approved
+Diclofenac 16mg/ml topical solution	n	
+Diclofenac 2.32% gel	n	
+Diclofenac 4% cutaneous spray	n	
+Diclofenac 50mg dispersible tablets sugar free	y	yes_approved
+Diclofenac 50mg suppositories	y	yes_approved
+Diclofenac 75mg/2ml solution for injection vials	y	yes_approved
+Diclofenac potassium 50mg tablets (Actavis UK Ltd)	y	yes_approved
+Diclofenac sodium 100mg modified-release capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Diclofenac sodium 100mg modified-release tablets	y	yes_approved
+Diclofenac sodium 25mg gastro-resistant tablets (Sandoz Ltd)	y	yes_approved
+Diclofenac sodium 25mg gastro-resistant tablets (Teva UK Ltd)	y	yes_approved
+Diclofenac sodium 50mg gastro-resistant / Misoprostol 200microgram tablets	y	yes_approved
+Diclofenac sodium 50mg gastro-resistant tablets	y	yes_approved
+Diclofenac sodium 50mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Diclofenac sodium 50mg gastro-resistant tablets (Sandoz Ltd)	y	yes_approved
+Diclofenac sodium 50mg gastro-resistant tablets (Teva UK Ltd)	y	yes_approved
+Diclofenac sodium 75mg gastro-resistant / Misoprostol 200microgram tablets	y	yes_approved
+Diclofenac sodium 75mg gastro-resistant modified-release capsules	y	yes_approved
+Diclofenac sodium 75mg modified-release capsules	y	yes_approved
+Diclofenac sodium 75mg modified-release capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Diclofenac sodium 75mg modified-release capsules (Actavis UK Ltd)	y	yes_approved
+Dicloflex 50mg gastro-resistant tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Dicloflex 75mg SR tablets (Dexcel-Pharma Ltd)	y	yes_approved
+Diclomax SR 75mg capsules (Galen Ltd)	y	yes_approved
+Diethylamine salicylate 10% cream	n	
+Difflam 3% cream (Meda Pharmaceuticals Ltd)	n	
+Difflam-P 3% cream (Meda Pharmaceuticals Ltd)	n	
+Diflunisal 250mg tablets	y	yes_approved
+Diflunisal 500mg tablets	y	yes_approved
+Dihydrocodeine 10mg/5ml oral solution	y	yes_approved
+Dihydrocodeine 10mg/5ml oral solution (Martindale Pharmaceuticals Ltd)	y	yes_approved
+Dihydrocodeine 120mg modified-release tablets	y	yes_approved
+Dihydrocodeine 30mg tablets	y	yes_approved
+Dihydrocodeine 30mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Dihydrocodeine 30mg tablets (Actavis UK Ltd)	y	yes_approved
+Dihydrocodeine 30mg tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Dihydrocodeine 30mg tablets (Mylan Ltd)	y	yes_approved
+Dihydrocodeine 30mg tablets (Teva UK Ltd)	y	yes_approved
+Dihydrocodeine 30mg tablets (Wockhardt UK Ltd)	y	yes_approved
+Dihydrocodeine 30mg tablets (Zentiva)	y	yes_approved
+Dihydrocodeine 40mg tablets	y	yes_approved
+Dihydrocodeine 50mg/1ml solution for injection ampoules	y	yes_approved
+Dihydrocodeine 60mg modified-release tablets	y	yes_approved
+Dihydrocodeine 90mg modified-release tablets	y	yes_approved
+Distalgesic 32.5mg/325mg tablets (Meda Pharmaceuticals Ltd)	y	yes_approved
+Dolobid 250mg tablets (Merck Sharp & Dohme Ltd)	y	yes_approved
+Dolobid 500mg tablets (Merck Sharp & Dohme Ltd)	y	yes_approved
+Dosulepin 25mg capsules	n	
+Dosulepin 25mg capsules (A A H Pharmaceuticals Ltd)	n	
+Dosulepin 25mg capsules (Actavis UK Ltd)	n	
+Dosulepin 25mg capsules (Almus Pharmaceuticals Ltd)	n	
+Dosulepin 25mg capsules (Mylan Ltd)	n	
+Dosulepin 25mg capsules (Sandoz Ltd)	n	
+Dosulepin 25mg capsules (Sovereign Medical Ltd)	n	
+Dosulepin 25mg capsules (Teva UK Ltd)	n	
+Dosulepin 25mg/5ml oral solution	n	
+Dosulepin 25mg/5ml oral suspension	n	
+Dosulepin 75mg tablets	n	
+Dosulepin 75mg tablets (A A H Pharmaceuticals Ltd)	n	
+Dosulepin 75mg tablets (Almus Pharmaceuticals Ltd)	n	
+Dosulepin 75mg tablets (Sandoz Ltd)	n	
+Dosulepin 75mg tablets (Sovereign Medical Ltd)	n	
+Dosulepin 75mg tablets (Teva UK Ltd)	n	
+Dothapax 25 capsules (Ashbourne Pharmaceuticals Ltd)	n	
+Dothapax 75 tablets (Ashbourne Pharmaceuticals Ltd)	n	
+Doxepin 10mg capsules	n	
+Doxepin 25mg capsules	n	
+Doxepin 50mg capsules	n	
+Doxepin 75mg capsules	n	
+Dromadol SR 100mg tablets (Teva UK Ltd)	y	yes_approved
+Dromadol SR 150mg tablets (Teva UK Ltd)	y	yes_approved
+Dromadol SR 200mg tablets (Teva UK Ltd)	y	yes_approved
+Duloxetine 20mg gastro-resistant capsules	y	
+Duloxetine 30mg gastro-resistant capsules	y	
+Duloxetine 60mg gastro-resistant capsules (Dr Reddy's Laboratories (UK) Ltd)	y	
+Durogesic 100micrograms transdermal patches (Janssen-Cilag Ltd)	y	yes_approved
+Durogesic 25micrograms transdermal patches (Janssen-Cilag Ltd)	y	yes_approved
+Durogesic 50micrograms transdermal patches (Janssen-Cilag Ltd)	y	yes_approved
+Durogesic DTrans 100micrograms transdermal patches (Janssen-Cilag Ltd)	y	yes_approved
+Durogesic DTrans 12micrograms transdermal patches (Janssen-Cilag Ltd)	y	yes_approved
+Durogesic DTrans 25micrograms transdermal patches (Janssen-Cilag Ltd)	y	yes_approved
+Durogesic DTrans 50micrograms transdermal patches (Janssen-Cilag Ltd)	y	yes_approved
+Durogesic DTrans 75micrograms transdermal patches (Janssen-Cilag Ltd)	y	yes_approved
+Dutonin 100mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	n	
+Dutonin 200mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	n	
+Dutonin tablets treatment initiation pack (Bristol-Myers Squibb Pharmaceuticals Ltd)	n	
+Dysman 500 tablets (Ashbourne Pharmaceuticals Ltd)	y	yes_approved
+EQUAGESIC tablets [WYETH PHAR]	y	yes_approved
+Eccoxolac 300mg capsules (Meda Pharmaceuticals Ltd)	y	yes_approved
+Edronax 4mg tablets (Pfizer Ltd)	n	
+Efexor 37.5mg tablets (Wyeth Pharmaceuticals)	y	
+Efexor 50mg tablets (Wyeth Pharmaceuticals)	y	
+Efexor 75mg tablets (Wyeth Pharmaceuticals)	y	
+Efexor XL 150mg capsules (Pfizer Ltd)	y	
+Efexor XL 75mg capsules (Pfizer Ltd)	y	
+Effentora 100microgram buccal tablets (Teva UK Ltd)	y	yes_approved
+Eletriptan 20mg tablets	n	
+Eletriptan 40mg tablets	n	
+Emflex 60mg capsules (Merck Serono Ltd)	y	yes_approved
+Epanutin 100mg capsules (Pfizer Ltd)	n	
+Epanutin 25mg capsules (Pfizer Ltd)	n	
+Epanutin 300mg capsules (Pfizer Ltd)	n	
+Epanutin 30mg/5ml oral suspension (Pfizer Ltd)	n	
+Epanutin 50mg capsules (Pfizer Ltd)	n	
+Epanutin Infatabs 50mg chewable tablets (Pfizer Ltd)	n	
+Epilim 200 gastro-resistant tablets (Sanofi)	n	
+Epilim Chrono 300 tablets (Sanofi)	n	
+Epilim Chronosphere MR 100mg granules sachets (Sanofi)	n	
+Epilim Chronosphere MR 50mg granules sachets (Sanofi)	n	
+Epilim Intravenous 400mg powder and solvent for solution for injection vials (Sanofi)	n	
+Episenta 150mg modified-release capsules (Desitin Pharma Ltd)	n	
+Ergotamine 1mg / Caffeine 100mg tablets	n	
+Ergotamine tartrate 2mg / Caffeine 100mg suppositories	n	
+Eslicarbazepine 800mg tablets	n	
+Ethosuximide 250mg capsules	n	
+Ethosuximide 250mg/5ml oral solution	n	
+Etodolac 200mg capsules	y	yes_approved
+Etodolac 300mg capsules	y	yes_approved
+Etodolac 600mg modified-release tablets	y	yes_approved
+Etodolac 600mg modified-release tablets (Zentiva)	y	yes_approved
+Etoricoxib 120mg tablets	y	yes_approved
+Etoricoxib 30mg tablets	y	yes_approved
+Etoricoxib 60mg tablets	y	yes_approved
+Etoricoxib 90mg tablets	y	yes_approved
+FELDENE melt tablets 20mg [PFIZER]	y	yes_approved
+FELDENE sports gel 0.5% [PFIZER]	n	
+FENTANYL patch 100micrograms/hour [SANDOZ]	y	yes_approved
+FENTANYL patch 12micrograms/hour [HILLCROSS]	y	yes_approved
+FENTANYL patch 25micrograms/hour [SANDOZ]	y	yes_approved
+FENTANYL patch 50micrograms/hour [SANDOZ]	y	yes_approved
+FENTANYL patch 75micrograms/hour [SANDOZ]	y	yes_approved
+FLAMRASE SR tablets 75mg [APS BERK]	y	yes_approved
+FORTRAL capsules 50mg [SANOFI S]	y	yes_approved
+FROBEN SR capsules 200mg [ABBOTT]	y	yes_approved
+Felbinac 3% gel	n	
+Felbinac 3.17% foam	n	
+Feldene 0.5% gel (Pfizer Ltd)	n	
+Feldene 10mg capsules (Pfizer Ltd)	y	yes_approved
+Feldene 10mg dispersible tablets (Pfizer Ltd)	y	yes_approved
+Feldene 20 capsules (Pfizer Ltd)	y	yes_approved
+Feldene 20mg dispersible tablets (Pfizer Ltd)	y	yes_approved
+Feldene Melt 20mg tablets (Pfizer Ltd)	y	yes_approved
+Feldene P 0.5% gel (Pfizer Ltd)	n	
+Fenbid 300mg Spansules (Mercury Pharma Group Ltd)	y	yes_approved
+Fenbid 5% gel (AMCo)	n	
+Fenbid Forte 10% gel (AMCo)	n	
+Fenbufen 300mg capsules	y	yes_approved
+Fenbufen 300mg tablets	y	yes_approved
+Fenbufen 450mg tablets	y	yes_approved
+Fencino 100micrograms/hour transdermal patches (DB Ashbourne Ltd)	y	yes_approved
+Fencino 12micrograms/hour transdermal patches (DB Ashbourne Ltd)	y	yes_approved
+Fencino 25micrograms/hour transdermal patches (DB Ashbourne Ltd)	y	yes_approved
+Fencino 50micrograms/hour transdermal patches (DB Ashbourne Ltd)	y	yes_approved
+Fencino 75micrograms/hour transdermal patches (DB Ashbourne Ltd)	y	yes_approved
+Fenoprofen 300mg tablets	y	yes_approved
+Fenoprofen 600mg tablets	y	yes_approved
+Fenopron 300 tablets (Typharm Ltd)	y	yes_approved
+Fenopron 600 tablets (Typharm Ltd)	y	yes_approved
+Fentalis Reservoir 100micrograms/hour transdermal patches (Sandoz Ltd)	y	yes_approved
+Fentalis Reservoir 25micrograms/hour transdermal patches (Sandoz Ltd)	y	yes_approved
+Fentalis Reservoir 50micrograms/hour transdermal patches (Sandoz Ltd)	y	yes_approved
+Fentalis Reservoir 75micrograms/hour transdermal patches (Sandoz Ltd)	y	yes_approved
+Fentanyl 1.2mg lozenges	y	yes_approved
+Fentanyl 1.6mg lozenges	y	yes_approved
+Fentanyl 100microgram buccal tablets sugar free	y	yes_approved
+Fentanyl 100microgram sublingual tablets sugar free	y	yes_approved
+Fentanyl 100micrograms/hour transdermal patches	y	yes_approved
+Fentanyl 100micrograms/hour transdermal patches (A A H Pharmaceuticals Ltd)	y	yes_approved
+Fentanyl 100micrograms/hour transdermal patches (Actavis UK Ltd)	y	yes_approved
+Fentanyl 12micrograms/hour transdermal patches	y	yes_approved
+Fentanyl 200microgram buccal films sugar free	y	yes_approved
+Fentanyl 200microgram buccal tablets sugar free	y	yes_approved
+Fentanyl 200microgram lozenges	y	yes_approved
+Fentanyl 200microgram sublingual tablets sugar free	y	yes_approved
+Fentanyl 25micrograms/hour transdermal patches	y	yes_approved
+Fentanyl 25micrograms/hour transdermal patches (A A H Pharmaceuticals Ltd)	y	yes_approved
+Fentanyl 25micrograms/hour transdermal patches (Actavis UK Ltd)	y	yes_approved
+Fentanyl 300microgram sublingual tablets sugar free	y	yes_approved
+Fentanyl 37.5microgram/hour transdermal patches	y	yes_approved
+Fentanyl 400microgram buccal tablets sugar free	y	yes_approved
+Fentanyl 400microgram lozenges	y	yes_approved
+Fentanyl 400microgram sublingual tablets sugar free	y	yes_approved
+Fentanyl 400micrograms/dose nasal spray	y	yes_approved
+Fentanyl 50micrograms/dose nasal spray	y	yes_approved
+Fentanyl 50micrograms/hour transdermal patches	y	yes_approved
+Fentanyl 50micrograms/hour transdermal patches (A A H Pharmaceuticals Ltd)	y	yes_approved
+Fentanyl 50micrograms/hour transdermal patches (Actavis UK Ltd)	y	yes_approved
+Fentanyl 600microgram buccal tablets sugar free	y	yes_approved
+Fentanyl 600microgram lozenges	y	yes_approved
+Fentanyl 75micrograms/hour transdermal patches	y	yes_approved
+Fentanyl 75micrograms/hour transdermal patches (A A H Pharmaceuticals Ltd)	y	yes_approved
+Fentanyl 75micrograms/hour transdermal patches (Actavis UK Ltd)	y	yes_approved
+Fentanyl 800microgram lozenges	y	yes_approved
+Filnarine SR 100mg tablets (Teva UK Ltd)	y	yes_approved
+Filnarine SR 10mg tablets (Teva UK Ltd)	y	yes_approved
+Filnarine SR 30mg tablets (Teva UK Ltd)	y	yes_approved
+Filnarine SR 60mg tablets (Teva UK Ltd)	y	yes_approved
+Flamrase 25 EC tablets (Teva UK Ltd)	y	yes_approved
+Fluanxol 1mg tablets (Lundbeck Ltd)	n	
+Fluanxol 500microgram tablets (Lundbeck Ltd)	n	
+Flunarizine 5mg capsules	n	
+Flupentixol 1mg tablets	n	
+Flupentixol 500microgram tablets	n	
+Flurbiprofen 100mg tablets	y	yes_approved
+Flurbiprofen 200mg modified-release capsules	y	yes_approved
+Flurbiprofen 50mg tablets	y	yes_approved
+Flurbiprofen 8.75mg lozenges	y	yes_approved
+Froben 100mg suppositories (Abbott Laboratories Ltd)	y	yes_approved
+Froben 100mg tablets (Abbott Laboratories Ltd)	y	yes_approved
+Froben 50mg tablets (Abbott Laboratories Ltd)	y	yes_approved
+Froben SR 200mg capsules (Abbott Laboratories Ltd)	y	yes_approved
+Frovatriptan 2.5mg tablets	n	
+Fycompa 2mg tablets (Eisai Ltd)	n	
+Fycompa 4mg tablets (Eisai Ltd)	n	
+Fycompa 6mg tablets (Eisai Ltd)	n	
+GABAPENTIN oral solution 250mg/5ml [BCM]	y	
+Gabapentin 100mg capsules	y	
+Gabapentin 100mg capsules (A A H Pharmaceuticals Ltd)	y	
+Gabapentin 100mg capsules (Actavis UK Ltd)	y	
+Gabapentin 100mg capsules (Almus Pharmaceuticals Ltd)	y	
+Gabapentin 100mg capsules (Mylan Ltd)	y	
+Gabapentin 100mg capsules (Sandoz Ltd)	y	
+Gabapentin 100mg capsules (Teva UK Ltd)	y	
+Gabapentin 100mg capsules (Wockhardt UK Ltd)	y	
+Gabapentin 250mg/5ml oral solution	y	
+Gabapentin 250mg/5ml oral suspension	y	
+Gabapentin 300mg capsules	y	
+Gabapentin 300mg capsules (A A H Pharmaceuticals Ltd)	y	
+Gabapentin 300mg capsules (Actavis UK Ltd)	y	
+Gabapentin 300mg capsules (Almus Pharmaceuticals Ltd)	y	
+Gabapentin 300mg capsules (Mylan Ltd)	y	
+Gabapentin 300mg capsules (Sandoz Ltd)	y	
+Gabapentin 300mg capsules (Teva UK Ltd)	y	
+Gabapentin 400mg capsules	y	
+Gabapentin 400mg capsules (Mylan Ltd)	y	
+Gabapentin 400mg capsules (Sandoz Ltd)	y	
+Gabapentin 400mg capsules (Teva UK Ltd)	y	
+Gabapentin 400mg/5ml oral suspension	y	
+Gabapentin 50mg/ml oral solution sugar free	y	
+Gabapentin 50mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)	y	
+Gabapentin 600mg tablets	y	
+Gabapentin 600mg tablets (A A H Pharmaceuticals Ltd)	y	
+Gabapentin 600mg tablets (Actavis UK Ltd)	y	
+Gabapentin 600mg tablets (Teva UK Ltd)	y	
+Gabapentin 600mg tablets and Gabapentin 300mg capsules	y	
+Gabapentin 800mg tablets	y	
+Gabapentin 800mg tablets (A A H Pharmaceuticals Ltd)	y	
+Gabapentin 800mg tablets (Actavis UK Ltd)	y	
+Gabapentin 800mg tablets (Teva UK Ltd)	y	
+Galcodine 15mg/5ml linctus (Thornton & Ross Ltd)	n	
+Gamanil 70mg tablets (Merck Serono Ltd)	n	
+HALF-BETADUR CR capsules 80mg [MONMOUTH]	n	
+Half Beta-Prograne 80mg modified-release capsules (Tillomed Laboratories Ltd)	n	
+Half Inderal LA 80mg capsules (AstraZeneca UK Ltd)	n	
+Hapoctasin 52.5micrograms/hour transdermal patches (Actavis UK Ltd)	y	yes_approved
+Hapoctasin 70micrograms/hour transdermal patches (Actavis UK Ltd)	y	yes_approved
+Hydromorphone 1.3mg capsules	y	yes_approved
+Hydromorphone 16mg modified-release capsules	y	yes_approved
+Hydromorphone 2.6mg capsules	y	yes_approved
+Hydromorphone 24mg modified-release capsules	y	yes_approved
+Hydromorphone 2mg modified-release capsules	y	yes_approved
+Hydromorphone 4mg modified-release capsules	y	yes_approved
+Hydromorphone 8mg modified-release capsules	y	yes_approved
+Hydroxyethyl salicylate 6% / Methyl nicotinate 1.6% spray	n	
+IBUPROFEN liquid capsules 400mg [DEXCEL]	y	yes_approved
+IBUPROFEN oral suspension 100mg/5ml [NEOLAB]	y	yes_approved
+IBUPROFEN tablets 400mg [CP PHARM]	y	yes_approved
+IBUPROFEN tablets 400mg [NUCARE]	y	yes_approved
+IBUPROFEN tablets 400mg [T & R]	y	yes_approved
+IBUPROFEN tablets 600mg [SOVEREIGN]	y	yes_approved
+IMBRILON capsules 25mg [BERK]	y	yes_approved
+IMIGRAN SUBJECT subcutaneous injection 6mg/syringe [GLAXSK PHA]	n	
+INDOMAX capsules 25mg [ASHBOURNE]	y	yes_approved
+Ibugel 5% gel (Dermal Laboratories Ltd)	n	
+Ibugel Forte 10% gel (Dermal Laboratories Ltd)	n	
+Ibuleve 5% Mousse (Dendron Ltd)	n	
+Ibuleve 5% gel (Dendron Ltd)	n	
+Ibuleve 5% spray (Dendron Ltd)	n	
+Ibuleve Maximum Strength 10% gel (Dendron Ltd)	n	
+Ibuleve Speed Relief 5% gel (Dendron Ltd)	n	
+Ibuleve Speed Relief 5% spray (Dendron Ltd)	n	
+Ibuleve Speed Relief Max Strength 10% gel (Dendron Ltd)	n	
+Ibuleve Sports 5% gel (Dendron Ltd)	n	
+Ibumousse 5% (Dermal Laboratories Ltd)	n	
+Ibuprofen 10% gel	n	
+Ibuprofen 10% gel (A A H Pharmaceuticals Ltd)	n	
+Ibuprofen 10% gel (Thornton & Ross Ltd)	n	
+Ibuprofen 100mg/5ml oral suspension	y	yes_approved
+Ibuprofen 100mg/5ml oral suspension sugar free	y	yes_approved
+Ibuprofen 100mg/5ml oral suspension sugar free (Sandoz Ltd)	y	yes_approved
+Ibuprofen 100mg/5ml oral suspension sugar free (Teva UK Ltd)	y	yes_approved
+Ibuprofen 200mg / Codeine 12.8mg tablets	y	yes_approved
+Ibuprofen 200mg / Pseudoephedrine hydrochloride 30mg tablets	n	
+Ibuprofen 200mg caplets (Wockhardt UK Ltd)	y	yes_approved
+Ibuprofen 200mg capsules	y	yes_approved
+Ibuprofen 200mg effervescent tablets	y	yes_approved
+Ibuprofen 200mg modified-release capsules	y	yes_approved
+Ibuprofen 200mg orodispersible tablets sugar free	y	yes_approved
+Ibuprofen 200mg tablets	y	yes_approved
+Ibuprofen 200mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Ibuprofen 200mg tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Ibuprofen 200mg tablets (Boston Healthcare Ltd)	y	yes_approved
+Ibuprofen 200mg tablets (Galpharm International Ltd)	y	yes_approved
+Ibuprofen 200mg tablets (Ranbaxy (UK) Ltd)	y	yes_approved
+Ibuprofen 200mg tablets (Sandoz Ltd)	y	yes_approved
+Ibuprofen 200mg tablets (Thornton & Ross Ltd)	y	yes_approved
+Ibuprofen 200mg tablets (Vantage)	y	yes_approved
+Ibuprofen 200mg tablets (Wockhardt UK Ltd)	y	yes_approved
+Ibuprofen 200mg tablets film coated (Actavis UK Ltd)	y	yes_approved
+Ibuprofen 300mg modified-release / Codeine 20mg tablets	y	yes_approved
+Ibuprofen 300mg modified-release capsules	y	yes_approved
+Ibuprofen 400mg capsules	y	yes_approved
+Ibuprofen 400mg tablets	y	yes_approved
+Ibuprofen 400mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Ibuprofen 400mg tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Ibuprofen 400mg tablets (Aspar Pharmaceuticals Ltd)	y	yes_approved
+Ibuprofen 400mg tablets (Boston Healthcare Ltd)	y	yes_approved
+Ibuprofen 400mg tablets (Galpharm International Ltd)	y	yes_approved
+Ibuprofen 400mg tablets (IVAX Pharmaceuticals UK Ltd)	y	yes_approved
+Ibuprofen 400mg tablets (Kent Pharmaceuticals Ltd)	y	yes_approved
+Ibuprofen 400mg tablets (Ranbaxy (UK) Ltd)	y	yes_approved
+Ibuprofen 400mg tablets (Vantage)	y	yes_approved
+Ibuprofen 400mg tablets (Wockhardt UK Ltd)	y	yes_approved
+Ibuprofen 400mg tablets film coated (Actavis UK Ltd)	y	yes_approved
+Ibuprofen 400mg tablets sugar coated (Actavis UK Ltd)	y	yes_approved
+Ibuprofen 5% / Levomenthol 3% gel	n	
+Ibuprofen 5% cream	n	
+Ibuprofen 5% foam	n	
+Ibuprofen 5% gel	n	
+Ibuprofen 5% gel (A A H Pharmaceuticals Ltd)	n	
+Ibuprofen 5% gel (Galpharm International Ltd)	n	
+Ibuprofen 5% gel (Thornton & Ross Ltd)	n	
+Ibuprofen 5% spray	y	
+Ibuprofen 600mg effervescent granules sachets	y	yes_approved
+Ibuprofen 600mg tablets	y	yes_approved
+Ibuprofen 600mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Ibuprofen 600mg tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Ibuprofen 600mg tablets (Boston Healthcare Ltd)	y	yes_approved
+Ibuprofen 600mg tablets (Fannin UK Ltd)	y	yes_approved
+Ibuprofen 600mg tablets (IVAX Pharmaceuticals UK Ltd)	y	yes_approved
+Ibuprofen 600mg tablets (Ranbaxy (UK) Ltd)	y	yes_approved
+Ibuprofen 600mg tablets (Sandoz Ltd)	y	yes_approved
+Ibuprofen 800mg modified-release tablets	y	yes_approved
+Ibuprofen 800mg tablets	y	yes_approved
+Ibuprofen lysine 200mg tablets	y	yes_approved
+Ibuprofen lysine 400mg tablets	y	yes_approved
+Ibuprofen sodium dihydrate 200mg tablets	y	yes_approved
+Ibuprofen sodium dihydrate 400mg tablets	y	yes_approved
+Ibuspray 5% spray (Dermal Laboratories Ltd)	n	
+Ibutop Ralgex Ibuprofen 5% gel (SSL International Plc)	n	
+Imigran 100mg tablets (GlaxoSmithKline UK Ltd)	n	
+Imigran 10mg nasal spray (GlaxoSmithKline UK Ltd)	n	
+Imigran 20mg nasal spray (GlaxoSmithKline UK Ltd)	n	
+Imigran 50mg tablets (GlaxoSmithKline UK Ltd)	n	
+Imigran Radis 100mg tablets (GlaxoSmithKline UK Ltd)	n	
+Imigran Radis 50mg tablets (GlaxoSmithKline UK Ltd)	n	
+Imigran Recovery 50mg tablets (Forest Laboratories UK Ltd)	n	
+Imigran Subject 6mg/0.5ml solution for injection pre-filled syringes with device (GlaxoSmithKline UK Ltd)	n	
+Imigran Subject 6mg/0.5ml solution for injection syringe refill pack (GlaxoSmithKline UK Ltd)	n	
+Imipramine 10mg tablets (A A H Pharmaceuticals Ltd)	n	
+Imipramine 10mg tablets (Actavis UK Ltd)	n	
+Imipramine 25mg tablets	n	
+Imipramine 25mg tablets (Actavis UK Ltd)	n	
+Inderal LA 160mg capsules (AstraZeneca UK Ltd)	n	
+Indocid 25mg capsules (Merck Sharp & Dohme Ltd)	y	yes_approved
+Indocid R 75mg capsules (Merck Sharp & Dohme Ltd)	y	yes_approved
+Indolar SR 75mg capsules (Sandoz Ltd)	y	yes_approved
+Indometacin 100mg suppositories	y	yes_approved
+Indometacin 100mg suppositories (A A H Pharmaceuticals Ltd)	y	yes_approved
+Indometacin 100mg suppositories (Actavis UK Ltd)	y	yes_approved
+Indometacin 25mg capsules	y	yes_approved
+Indometacin 25mg modified-release tablets	y	yes_approved
+Indometacin 50mg modified-release tablets	y	yes_approved
+Indometacin 75mg modified-release capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Indomod 25mg modified-release capsules (Pfizer Ltd)	y	yes_approved
+Instanyl 50micrograms/dose nasal spray (Takeda UK Ltd)	n	
+Instillagel gel (CliniMed Ltd)	n	
+Intralgin gel (3M Health Care Ltd)	n	
+KETAMINE oral solution 100mg/5ml [MARTINDALE]	y	
+KETOPROFEN CR capsules 200mg [BMS]	y	yes_approved
+KETOPROFEN gel 2.5% [WOCKHARDT]	n	
+Kaolin poultices	n	
+Kapake 15mg/500mg tablets (Galen Ltd)	y	yes_approved
+Kapake 30mg/500mg capsules (Galen Ltd)	y	yes_approved
+Kapake 30mg/500mg effervescent tablets (Galen Ltd)	y	yes_approved
+Kapake 30mg/500mg tablets (Galen Ltd)	y	yes_approved
+Kapake Insts 30mg/500mg effervescent powder sachets (Galen Ltd)	y	yes_approved
+Keppra 100mg/ml oral solution (UCB Pharma Ltd)	n	
+Keppra 1g tablets (UCB Pharma Ltd)	n	
+Keppra 250mg tablets (UCB Pharma Ltd)	n	
+Keppra 500mg tablets (UCB Pharma Ltd)	n	
+Keppra 500mg/5ml concentrate for solution for infusion vials (UCB Pharma Ltd)	n	
+Keppra 750mg tablets (UCB Pharma Ltd)	n	
+Keral 25mg tablets (A. Menarini Farmaceutica Internazionale SRL)	y	yes_approved
+Ketamine 100mg/5ml oral solution	y	
+Ketamine 1g/10ml solution for injection vials	y	
+Ketamine 200mg/20ml solution for injection vials	y	
+Ketamine 500mg/10ml solution for injection vials	y	
+Ketamine 50mg/5ml oral solution	y	
+Ketamine 50mg/5ml oral suspension	y	
+Ketocid 200 modified-release capsules (Chiesi Ltd)	y	yes_approved
+Ketoprofen 100mg capsules	y	yes_approved
+Ketoprofen 100mg/2ml solution for injection ampoules	y	yes_approved
+Ketoprofen 150mg modified-release capsules	y	yes_approved
+Ketoprofen 2.5% gel	n	
+Ketoprofen 2.5% gel (A A H Pharmaceuticals Ltd)	n	
+Ketoprofen 2.5% gel (Almus Pharmaceuticals Ltd)	n	
+Ketoprofen 2.5% gel (PLIVA Pharma Ltd)	n	
+Ketoprofen 2.5% gel (Pinewood Healthcare)	n	
+Ketoprofen 2.5% gel (Teva UK Ltd)	n	
+Ketoprofen 200mg modified-release capsules	y	yes_approved
+Ketoprofen 50mg capsules	y	yes_approved
+Ketorolac 10mg tablets	y	yes_approved
+Ketorolac 10mg/1ml solution for injection ampoules	y	yes_approved
+Ketorolac 30mg/1ml solution for injection ampoules	y	yes_approved
+LEDERFEN F tablets 450mg [WYETH PHAR]	y	yes_approved
+LEDERFEN capsules 300mg [WYETH PHAR]	y	yes_approved
+LEDERFEN tablets 300mg [WYETH PHAR]	y	yes_approved
+LEDERFEN tablets 450mg [WYETH PHAR]	y	yes_approved
+LIDOCAINE HYDROCHLORIDE injection 1% [AMCO]	n	
+LIDOCAINE HYDROCHLORIDE injection 1% [MERCURY]	n	
+LIDOCAINE HYDROCHLORIDE injection 2% [AMCO]	n	
+LIDOCAINE HYDROCHLORIDE injection 2% [MERCURY]	n	
+LIDOCAINE injection 1% [PHOENIX]	n	
+LIGNOSTAB injection 2% w/v [ASTRAZENEC]	n	
+LINGRAINE sublingual tablets 2mg [SANOFI S]	n	
+LMX4 cream 4% [FERNDALE]	n	
+LODINE SR tablets 600mg [SHIRE]	y	yes_approved
+LODINE capsules 200mg [SHIRE]	y	yes_approved
+LODINE capsules 300mg [SHIRE]	y	yes_approved
+LODINE tablets 200mg [SHIRE]	y	yes_approved
+LOFEPRAMINE tablets 70mg [TEVA]	n	
+Lacosamide 100mg tablets	n	
+Lacosamide 150mg tablets	n	
+Lacosamide 200mg tablets	n	
+Lacosamide 50mg tablets	n	
+Lamictal 100mg dispersible tablets (GlaxoSmithKline UK Ltd)	n	
+Lamictal 100mg tablets (GlaxoSmithKline UK Ltd)	n	
+Lamictal 200mg tablets (GlaxoSmithKline UK Ltd)	n	
+Lamictal 25mg dispersible tablets (GlaxoSmithKline UK Ltd)	n	
+Lamictal 25mg tablets (GlaxoSmithKline UK Ltd)	n	
+Lamictal 50mg tablets (GlaxoSmithKline UK Ltd)	n	
+Lamotrigine 100mg dispersible tablets sugar free	n	
+Lamotrigine 100mg tablets	n	
+Lamotrigine 100mg tablets (Actavis UK Ltd)	n	
+Lamotrigine 200mg tablets	n	
+Lamotrigine 200mg tablets (Actavis UK Ltd)	n	
+Lamotrigine 200mg tablets (Consilient Health Ltd)	n	
+Lamotrigine 200mg tablets (Teva UK Ltd)	n	
+Lamotrigine 25mg dispersible tablets sugar free	n	
+Lamotrigine 25mg tablets	n	
+Lamotrigine 25mg tablets (A A H Pharmaceuticals Ltd)	n	
+Lamotrigine 25mg tablets (Actavis UK Ltd)	n	
+Lamotrigine 25mg tablets (Arrow Generics Ltd)	n	
+Lamotrigine 25mg tablets (Teva UK Ltd)	n	
+Lamotrigine 2mg dispersible tablets sugar free	n	
+Lamotrigine 50mg dispersible tablets sugar free	n	
+Lamotrigine 50mg tablets	n	
+Lamotrigine 50mg tablets (Actavis UK Ltd)	n	
+Lamotrigine 50mg tablets (Arrow Generics Ltd)	n	
+Lamotrigine 50mg tablets (Teva UK Ltd)	n	
+Lamotrigine 5mg dispersible tablets sugar free	n	
+Lamotrigine 5mg dispersible tablets sugar free (Actavis UK Ltd)	n	
+Lamotrigine 5mg dispersible tablets sugar free (Teva UK Ltd)	n	
+Lederfen 300mg capsules (Mercury Pharma Group Ltd)	y	yes_approved
+Lederfen 300mg tablets (Mercury Pharma Group Ltd)	y	yes_approved
+Lederfen 450mg tablets (Mercury Pharma Group Ltd)	y	yes_approved
+Lentizol 25mg modified-release capsules (Pfizer Ltd)	y	
+Levetiracetam 100mg/ml oral solution sugar free	n	
+Levetiracetam 100mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd)	n	
+Levetiracetam 100mg/ml oral solution sugar free (Actavis UK Ltd)	n	
+Levetiracetam 1g tablets	n	
+Levetiracetam 1g tablets (A A H Pharmaceuticals Ltd)	n	
+Levetiracetam 1g tablets (Actavis UK Ltd)	n	
+Levetiracetam 250mg granules sachets sugar free	n	
+Levetiracetam 250mg tablets	n	
+Levetiracetam 250mg tablets (A A H Pharmaceuticals Ltd)	n	
+Levetiracetam 250mg tablets (Actavis UK Ltd)	n	
+Levetiracetam 250mg tablets (Teva UK Ltd)	n	
+Levetiracetam 250mg tablets (Wockhardt UK Ltd)	n	
+Levetiracetam 500mg tablets	n	
+Levetiracetam 500mg tablets (A A H Pharmaceuticals Ltd)	n	
+Levetiracetam 500mg tablets (Actavis UK Ltd)	n	
+Levetiracetam 500mg tablets (Teva UK Ltd)	n	
+Levetiracetam 750mg tablets	n	
+Levetiracetam 750mg tablets (A A H Pharmaceuticals Ltd)	n	
+Levomenthol sticks	n	
+Lidocaine 1% and Chlorhexidine gel	n	
+Lidocaine 10% spray sugar free	n	
+Lidocaine 100mg/10ml (1%) solution for injection Sure-Amp ampoules (AMCo)	n	
+Lidocaine 100mg/10ml (1%) solution for injection ampoules (AMCo)	n	
+Lidocaine 100mg/10ml (1%) solution for injection pre-filled syringes (Martindale Pharmaceuticals Ltd)	n	
+Lidocaine 100mg/20ml (0.5%) / Adrenaline (base) 100micrograms/20ml (1 in 200,000) solution for injection vials	n	
+Lidocaine 100mg/5ml (2%) solution for injection Sure-Amp ampoules (AMCo)	n	
+Lidocaine 100mg/5ml (2%) solution for injection ampoules (AMCo)	n	
+Lidocaine 100mg/5ml (2%) solution for injection pre-filled syringes (Martindale Pharmaceuticals Ltd)	n	
+Lidocaine 2% and Chlorhexidine gel	n	
+Lidocaine 200mg/10ml (2%) solution for injection Mini-Plasco ampoules (B.Braun Medical Ltd)	n	
+Lidocaine 200mg/20ml (1%) / Adrenaline (base) 100micrograms/20ml (1 in 200,000) solution for injection vials	n	
+Lidocaine 200mg/20ml (1%) solution for injection vials	n	
+Lidocaine 200mg/20ml (1%) solution for injection vials (Hameln Pharmaceuticals Ltd)	n	
+Lidocaine 20mg/2ml (1%) solution for injection ampoules (AMCo)	n	
+Lidocaine 4% cream	n	
+Lidocaine 4% solution	n	
+Lidocaine 400mg/20ml (2%) / Adrenaline (base) 100micrograms/20ml (1 in 200,000) solution for injection vials	n	
+Lidocaine 400mg/20ml (2%) solution for injection ampoules (AMCo)	n	
+Lidocaine 400mg/20ml (2%) solution for injection vials	n	
+Lidocaine 400mg/20ml (2%) solution for injection vials (Hameln Pharmaceuticals Ltd)	n	
+Lidocaine 40mg/2ml (2%) solution for injection ampoules (AMCo)	n	
+Lidocaine 44mg/2.2ml (2%) / Adrenaline (base) 27.5micrograms/2.2ml (1 in 80,000) solution for injection cartridges	n	
+Lidocaine 5% medicated plasters	n	
+Lidocaine 50mg/5ml (1%) solution for injection Sure-Amp ampoules (AMCo)	n	
+Lidocaine 50mg/5ml (1%) solution for injection ampoules (AMCo)	n	
+Lidocaine 70mg / Tetracaine 70mg medicated plasters	n	
+Lidoderm 5% patches (Teikoku Seiyaku)	n	
+Lignospan Special 2% injection 2.2ml cartridges (Kent Pharmaceuticals Ltd)	n	
+Lignostab-A 2% 1 in 80,000 injection 2.2ml cartridges (Dentsply Ltd)	n	
+Lodine SR 600mg tablets (Almirall Ltd)	y	yes_approved
+Lofensaid 50mg gastro-resistant tablets (Opus Pharmaceuticals Ltd)	y	yes_approved
+Lofensaid Retard 75 tablets (Opus Pharmaceuticals Ltd)	y	yes_approved
+Lofepramine 70mg tablets	n	
+Lofepramine 70mg tablets (Actavis UK Ltd)	n	
+Lofepramine 70mg tablets (Almus Pharmaceuticals Ltd)	n	
+Lofepramine 70mg tablets (Mylan Ltd)	n	
+Lofepramine 70mg tablets (Teva UK Ltd)	n	
+Lofepramine 70mg/5ml oral suspension sugar free	n	
+Lofexidine 200microgram tablets	n	
+Longtec 10mg modified-release tablets (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Longtec 120mg modified-release tablets (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Longtec 15mg modified-release tablets (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Longtec 20mg modified-release tablets (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Longtec 30mg modified-release tablets (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Longtec 40mg modified-release tablets (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Longtec 5mg modified-release tablets (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Longtec 60mg modified-release tablets (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Longtec 80mg modified-release tablets (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Lorazepam 1mg tablets (Arrow Generics Ltd)	n	
+Lorazepam 1mg tablets (Teva UK Ltd)	n	
+Lorazepam 500micrograms/5ml oral suspension	n	
+Ludiomil 25mg tablets (Novartis Pharmaceuticals UK Ltd)	n	
+Ludiomil 50mg tablets (Novartis Pharmaceuticals UK Ltd)	n	
+Ludiomil 75mg tablets (Novartis Pharmaceuticals UK Ltd)	n	
+Lumiracoxib 100mg tablets	y	yes_approved
+Lumiracoxib 400mg tablets	y	yes_approved
+Lynlor 10mg capsules (Actavis UK Ltd)	y	yes_approved
+Lynlor 20mg capsules (Actavis UK Ltd)	y	yes_approved
+Lyrica 100mg capsules (Pfizer Ltd)	y	
+Lyrica 150mg capsules (Pfizer Ltd)	y	
+Lyrica 200mg capsules (Pfizer Ltd)	y	
+Lyrica 20mg/ml oral solution (Pfizer Ltd)	y	
+Lyrica 225mg capsules (Pfizer Ltd)	y	
+Lyrica 25mg capsules (Pfizer Ltd)	y	
+Lyrica 300mg capsules (Pfizer Ltd)	y	
+Lyrica 50mg capsules (Pfizer Ltd)	y	
+Lyrica 75mg capsules (Pfizer Ltd)	y	
+MEDIHALER ERGOTAMINE aerosol inhaler 360micrograms/inhalation [3M]	n	
+MEPTID tablets 200mg [SHIRE]	y	yes_approved
+MIDRID (RPR) capsules [RHONE]	n	
+MIGRALEVE - 1 tablets [PFIZER]	n	
+MIGRALEVE - 2 tablets 8mg+500mg [PFIZER]	n	
+MOBIFLEX tablets 20mg [ROCHE]	y	yes_approved
+MOTRIN tablets 200mg [PHARMACIA]	y	yes_approved
+MST Continus 100mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MST Continus 10mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MST Continus 15mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MST Continus 200mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MST Continus 30mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MST Continus 5mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MST Continus 60mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MST Continus Suspension 100mg granules sachets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MST Continus Suspension 200mg granules sachets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MST Continus Suspension 20mg granules sachets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MST Continus Suspension 30mg granules sachets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MST Continus Suspension 60mg granules sachets (Napp Pharmaceuticals Ltd)	y	yes_approved
+MXL 120mg capsules (Napp Pharmaceuticals Ltd)	y	yes_approved
+MXL 150mg capsules (Napp Pharmaceuticals Ltd)	y	yes_approved
+MXL 30mg capsules (Napp Pharmaceuticals Ltd)	y	yes_approved
+MXL 60mg capsules (Napp Pharmaceuticals Ltd)	y	yes_approved
+MXL 90mg capsules (Napp Pharmaceuticals Ltd)	y	yes_approved
+Mabron 100mg modified-release tablets (Morningside Healthcare Ltd)	y	yes_approved
+Mabron 200mg modified-release tablets (Morningside Healthcare Ltd)	y	yes_approved
+Mandanol 500mg caplets (M & A Pharmachem Ltd)	y	yes_approved
+Mandanol 500mg tablets (M & A Pharmachem Ltd)	y	yes_approved
+Maprotiline 10mg tablets	n	
+Maprotiline 25mg tablets	n	
+Maprotiline 50mg tablets	n	
+Maprotiline 75mg tablets	n	
+Marol 100mg modified-release tablets (Morningside Healthcare Ltd)	y	yes_approved
+Marol 100mg modified-release tablets (Teva UK Ltd)	y	yes_approved
+Marol 150mg modified-release tablets (Morningside Healthcare Ltd)	y	yes_approved
+Marol 150mg modified-release tablets (Teva UK Ltd)	y	yes_approved
+Marol 200mg modified-release tablets (Morningside Healthcare Ltd)	y	yes_approved
+Marol 200mg modified-release tablets (Teva UK Ltd)	y	yes_approved
+Matrifen 100micrograms/hour transdermal patches (Teva UK Ltd)	y	yes_approved
+Matrifen 12micrograms/hour transdermal patches (Teva UK Ltd)	y	yes_approved
+Matrifen 25micrograms/hour transdermal patches (Teva UK Ltd)	y	yes_approved
+Matrifen 50micrograms/hour transdermal patches (Teva UK Ltd)	y	yes_approved
+Matrifen 75micrograms/hour transdermal patches (Teva UK Ltd)	y	yes_approved
+Maxalt 10mg tablets (Merck Sharp & Dohme Ltd)	n	
+Maxalt 5mg tablets (Merck Sharp & Dohme Ltd)	n	
+Maxalt Melt 10mg oral lyophilisates (Merck Sharp & Dohme Ltd)	n	
+Maxitram SR 100mg capsules (Chiesi Ltd)	y	yes_approved
+Maxitram SR 150mg capsules (Chiesi Ltd)	y	yes_approved
+Maxitram SR 200mg capsules (Chiesi Ltd)	y	yes_approved
+Maxitram SR 50mg capsules (Chiesi Ltd)	y	yes_approved
+Mefenamic acid 250mg capsules	y	yes_approved
+Mefenamic acid 250mg capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Mefenamic acid 250mg capsules (Arrow Generics Ltd)	y	yes_approved
+Mefenamic acid 250mg capsules (Essential Generics Ltd)	y	yes_approved
+Mefenamic acid 500mg tablets	y	yes_approved
+Mefenamic acid 500mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Mefenamic acid 500mg tablets (Actavis UK Ltd)	y	yes_approved
+Mefenamic acid 500mg tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Mefenamic acid 500mg tablets (Essential Generics Ltd)	y	yes_approved
+Mefenamic acid 500mg tablets (Teva UK Ltd)	y	yes_approved
+Mefenamic acid 50mg/5ml oral suspension	y	yes_approved
+Meloxicam 15mg orodispersible tablets sugar free	y	yes_approved
+Meloxicam 15mg suppositories	y	yes_approved
+Meloxicam 15mg tablets	y	yes_approved
+Meloxicam 15mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Meloxicam 15mg tablets (Actavis UK Ltd)	y	yes_approved
+Meloxicam 15mg tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Meloxicam 15mg tablets (Mylan Ltd)	y	yes_approved
+Meloxicam 15mg tablets (Niche Generics Ltd)	y	yes_approved
+Meloxicam 15mg tablets (Sovereign Medical Ltd)	y	yes_approved
+Meloxicam 15mg tablets (Teva UK Ltd)	y	yes_approved
+Meloxicam 7.5mg suppositories	y	yes_approved
+Meloxicam 7.5mg tablets	y	yes_approved
+Meloxicam 7.5mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Meloxicam 7.5mg tablets (Mylan Ltd)	y	yes_approved
+Meloxicam 7.5mg tablets (Niche Generics Ltd)	y	yes_approved
+Meloxicam 7.5mg tablets (Sovereign Medical Ltd)	y	yes_approved
+Meloxicam 7.5mg tablets (Teva UK Ltd)	y	yes_approved
+Menthol 0.5% in Aqueous cream	n	
+Menthol 1% in Aqueous cream	n	
+Menthol 2% gel	n	
+Menthol 2% in Aqueous cream	n	
+Mentholatum Vapour Rub (The Mentholatum Company Ltd)	n	
+Meptazinol 100mg/1ml solution for injection ampoules	y	yes_approved
+Meptazinol 200mg tablets	y	yes_approved
+Meptid 100mg/1ml solution for injection ampoules (Almirall Ltd)	y	yes_approved
+Meptid 200mg tablets (Almirall Ltd)	y	yes_approved
+Methadone 10mg/1ml solution for injection ampoules	y	yes_approved
+Methadone 10mg/1ml solution for injection ampoules (Martindale Pharmaceuticals Ltd)	y	yes_approved
+Methadone 10mg/1ml solution for injection ampoules (Wockhardt UK Ltd)	y	yes_approved
+Methadone 10mg/ml oral solution sugar free	y	yes_approved
+Methadone 1mg/ml oral solution	y	yes_approved
+Methadone 1mg/ml oral solution sugar free	y	yes_approved
+Methadone 1mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd)	y	yes_approved
+Methadone 20mg/2ml solution for injection ampoules	y	yes_approved
+Methadone 50mg/1ml solution for injection ampoules	y	yes_approved
+Methadone 50mg/5ml solution for injection ampoules	y	yes_approved
+Methadone 5mg tablets	y	yes_approved
+Methadone 5mg/ml oral solution	y	yes_approved
+Methyl salicylate 25% liniment	n	
+Methyl salicylate 30% / Menthol 8% cream	n	
+Methyl salicylate 50% ointment	n	
+Methysergide 1mg tablets	n	
+Mezolar Matrix 100micrograms/hour transdermal patches (Sandoz Ltd)	y	yes_approved
+Mezolar Matrix 12micrograms/hour transdermal patches (Sandoz Ltd)	y	yes_approved
+Mezolar Matrix 25micrograms/hour transdermal patches (Sandoz Ltd)	y	yes_approved
+Mezolar Matrix 37.5microgram/hour transdermal patches (Sandoz Ltd)	y	yes_approved
+Mezolar Matrix 50micrograms/hour transdermal patches (Sandoz Ltd)	y	yes_approved
+Mezolar Matrix 75micrograms/hour transdermal patches (Sandoz Ltd)	y	yes_approved
+Mianserin 10mg tablets	n	
+Mianserin 20mg tablets	n	
+Mianserin 30mg tablets	n	
+Midazolam 10mg/1ml oromucosal solution pre-filled oral syringes	n	
+Midazolam 10mg/2ml solution for injection ampoules	n	
+Midazolam 10mg/2ml solution for injection ampoules (AMCo)	n	
+Midazolam 10mg/2ml solution for injection ampoules (Accord Healthcare Ltd)	n	
+Midazolam 10mg/2ml solution for injection ampoules (Hameln Pharmaceuticals Ltd)	n	
+Midazolam 10mg/2ml solution for injection ampoules (Wockhardt UK Ltd)	n	
+Midazolam 10mg/5ml solution for injection ampoules	n	
+Midazolam 10mg/5ml solution for injection ampoules (AMCo)	n	
+Midazolam 2.5mg/0.5ml oromucosal solution pre-filled oral syringes	n	
+Midazolam 2mg/2ml solution for injection ampoules	n	
+Midazolam 50mg/10ml solution for injection ampoules	n	
+Midazolam 5mg/5ml solution for injection ampoules	n	
+Midazolam 5mg/5ml solution for injection ampoules (AMCo)	n	
+Midrid 325mg/65mg capsules (DHP Healthcare Ltd)	n	
+Migard 2.5mg tablets (A. Menarini Farmaceutica Internazionale SRL)	n	
+Migraleve Pink tablets (McNeil Products Ltd)	n	
+Migraleve Yellow tablets (McNeil Products Ltd)	n	
+Migraleve tablets (McNeil Products Ltd)	n	
+Migril tablets (Wockhardt UK Ltd)	n	
+Mirtazapine 15mg orodispersible tablets	n	
+Mirtazapine 15mg orodispersible tablets (Actavis UK Ltd)	n	
+Mirtazapine 15mg orodispersible tablets (Aurobindo Pharma Ltd)	n	
+Mirtazapine 15mg orodispersible tablets (Mylan Ltd)	n	
+Mirtazapine 15mg orodispersible tablets (Teva UK Ltd)	n	
+Mirtazapine 15mg tablets	n	
+Mirtazapine 15mg tablets (A A H Pharmaceuticals Ltd)	n	
+Mirtazapine 15mg tablets (Actavis UK Ltd)	n	
+Mirtazapine 15mg tablets (Almus Pharmaceuticals Ltd)	n	
+Mirtazapine 15mg tablets (Arrow Generics Ltd)	n	
+Mirtazapine 15mg tablets (Ranbaxy (UK) Ltd)	n	
+Mirtazapine 15mg tablets (Teva UK Ltd)	n	
+Mirtazapine 15mg/ml oral solution sugar free	n	
+Mirtazapine 15mg/ml oral solution sugar free (Rosemont Pharmaceuticals Ltd)	n	
+Mirtazapine 30mg orodispersible tablets	n	
+Mirtazapine 30mg orodispersible tablets (A A H Pharmaceuticals Ltd)	n	
+Mirtazapine 30mg orodispersible tablets (Actavis UK Ltd)	n	
+Mirtazapine 30mg orodispersible tablets (Teva UK Ltd)	n	
+Mirtazapine 30mg tablets	n	
+Mirtazapine 30mg tablets (A A H Pharmaceuticals Ltd)	n	
+Mirtazapine 30mg tablets (Actavis UK Ltd)	n	
+Mirtazapine 30mg tablets (Arrow Generics Ltd)	n	
+Mirtazapine 30mg tablets (Mylan Ltd)	n	
+Mirtazapine 30mg tablets (Teva UK Ltd)	n	
+Mirtazapine 45mg orodispersible tablets	n	
+Mirtazapine 45mg orodispersible tablets (Actavis UK Ltd)	n	
+Mirtazapine 45mg orodispersible tablets (Teva UK Ltd)	n	
+Mirtazapine 45mg tablets	n	
+Mirtazapine 45mg tablets (A A H Pharmaceuticals Ltd)	n	
+Mirtazapine 45mg tablets (Arrow Generics Ltd)	n	
+Mirtazapine 45mg tablets (Ranbaxy (UK) Ltd)	n	
+Mirtazapine 45mg tablets (Teva UK Ltd)	n	
+Mobic 15mg suppositories (Boehringer Ingelheim Ltd)	y	yes_approved
+Mobic 15mg tablets (Boehringer Ingelheim Ltd)	y	yes_approved
+Mobic 7.5mg suppositories (Boehringer Ingelheim Ltd)	y	yes_approved
+Mobic 7.5mg tablets (Boehringer Ingelheim Ltd)	y	yes_approved
+Mobiflex 20mg tablets (Meda Pharmaceuticals Ltd)	y	yes_approved
+Mobigel 4% spray (Mercury Pharma Group Ltd)	n	
+Molipaxin 100mg capsules (Zentiva)	n	
+Molipaxin 150mg tablets (Zentiva)	n	
+Molipaxin 50mg capsules (Zentiva)	n	
+Molipaxin CR 150mg tablets (Aventis Pharma)	n	
+Morphgesic SR 10mg tablets (AMCo)	y	yes_approved
+Morphgesic SR 30mg tablets (AMCo)	y	yes_approved
+Morphgesic SR 60mg tablets (AMCo)	y	yes_approved
+Morphine 100mg modified-release capsules	y	yes_approved
+Morphine 100mg modified-release tablets	y	yes_approved
+Morphine 10mg modified-release capsules	y	yes_approved
+Morphine 10mg modified-release tablets	y	yes_approved
+Morphine 10mg tablets	y	yes_approved
+Morphine 120mg modified-release capsules	y	yes_approved
+Morphine 150mg modified-release capsules	y	yes_approved
+Morphine 15mg modified-release tablets	y	yes_approved
+Morphine 200mg modified-release tablets	y	yes_approved
+Morphine 20mg modified-release granules sachets sugar free	y	yes_approved
+Morphine 20mg tablets	y	yes_approved
+Morphine 30mg modified-release capsules	y	yes_approved
+Morphine 30mg modified-release granules sachets sugar free	y	yes_approved
+Morphine 30mg modified-release tablets	y	yes_approved
+Morphine 50mg tablets	y	yes_approved
+Morphine 5mg modified-release tablets	y	yes_approved
+Morphine 60mg modified-release capsules	y	yes_approved
+Morphine 60mg modified-release granules sachets sugar free	y	yes_approved
+Morphine 60mg modified-release tablets	y	yes_approved
+Morphine hydrochloride 15mg suppositories	y	yes_approved
+Morphine hydrochloride 30mg suppositories	y	yes_approved
+Morphine sulfate 10mg suppositories	y	yes_approved
+Morphine sulfate 10mg/1ml solution for injection ampoules	y	yes_approved
+Morphine sulfate 10mg/1ml solution for injection ampoules (Martindale Pharmaceuticals Ltd)	y	yes_approved
+Morphine sulfate 10mg/1ml solution for injection ampoules (UCB Pharma Ltd)	y	yes_approved
+Morphine sulfate 10mg/1ml solution for injection ampoules (Wockhardt UK Ltd)	y	yes_approved
+Morphine sulfate 10mg/1ml suspension for injection vials	y	yes_approved
+Morphine sulfate 10mg/5ml oral solution	y	yes_approved
+Morphine sulfate 10mg/5ml oral solution (Actavis UK Ltd)	y	yes_approved
+Morphine sulfate 10mg/5ml oral solution (Martindale Pharmaceuticals Ltd)	y	yes_approved
+Morphine sulfate 10mg/5ml oral solution unit dose vials sugar free	y	yes_approved
+Morphine sulfate 15mg suppositories	y	yes_approved
+Morphine sulfate 15mg/1ml solution for injection ampoules	y	yes_approved
+Morphine sulfate 1mg/1ml solution for injection ampoules	y	yes_approved
+Morphine sulfate 20mg/1ml solution for injection ampoules	y	yes_approved
+Morphine sulfate 20mg/ml oral solution sugar free	y	yes_approved
+Morphine sulfate 30mg suppositories	y	yes_approved
+Morphine sulfate 30mg/1ml solution for injection ampoules	y	yes_approved
+Morphine sulfate 30mg/5ml oral solution unit dose vials sugar free	y	yes_approved
+Morphine sulfate 60mg/2ml solution for injection ampoules	y	yes_approved
+Motifene 75mg modified-release capsules (Daiichi Sankyo UK Ltd)	y	yes_approved
+Motipress tablets (Sanofi-Synthelabo Ltd)	n	
+Motival 10mg/500microgram tablets (Sanofi)	n	
+Motrin 400mg tablets (Pfizer Ltd)	y	yes_approved
+Motrin 600mg tablets (Pfizer Ltd)	y	yes_approved
+Motrin 800mg tablets (Pfizer Ltd)	y	yes_approved
+Movelat Relief cream (Genus Pharmaceuticals Ltd)	n	
+Movelat Relief gel (Genus Pharmaceuticals Ltd)	n	
+Movelat cream (Genus Pharmaceuticals Ltd)	n	
+Movelat gel (Genus Pharmaceuticals Ltd)	n	
+Mysoline 250mg tablets (SERB)	n	
+NARPHEN tablets 5mg [S & N]	y	yes_approved
+NU-SEALS ASPIRIN tablets 600mg [LILLY]	y	yes_approved
+Nabumetone 500mg dispersible tablets sugar free	y	yes_approved
+Nabumetone 500mg tablets	y	yes_approved
+Nabumetone 500mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Nabumetone 500mg tablets (Actavis UK Ltd)	y	yes_approved
+Nabumetone 500mg tablets (Fannin UK Ltd)	y	yes_approved
+Nabumetone 500mg/5ml oral suspension sugar free	y	yes_approved
+Nalorex 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd)	n	
+Naltrexone 3mg capsules	n	
+Naltrexone 4.5mg capsules	n	
+Naltrexone 50mg tablets	n	
+Napratec OP tablets (Pfizer Ltd)	y	yes_approved
+Naprosyn 125mg/5ml oral suspension (Roche Products Ltd)	y	yes_approved
+Naprosyn 250mg tablets (Roche Products Ltd)	y	yes_approved
+Naprosyn EC 250mg tablets (Roche Products Ltd)	y	yes_approved
+Naproxen 125mg/5ml oral suspension	y	yes_approved
+Naproxen 250mg gastro-resistant tablets (Actavis UK Ltd)	y	yes_approved
+Naproxen 250mg gastro-resistant tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Naproxen 250mg tablets	y	yes_approved
+Naproxen 250mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Naproxen 375mg gastro-resistant tablets	y	yes_approved
+Naproxen 375mg gastro-resistant tablets (Actavis UK Ltd)	y	yes_approved
+Naproxen 500mg / Esomeprazole 20mg modified-release tablets	y	yes_approved
+Naproxen 500mg gastro-resistant tablets (Actavis UK Ltd)	y	yes_approved
+Naproxen 500mg gastro-resistant tablets (Mylan Ltd)	y	yes_approved
+Naproxen 500mg modified-release tablets	y	yes_approved
+Naproxen 500mg tablets	y	yes_approved
+Naproxen 500mg tablets (Actavis UK Ltd)	y	yes_approved
+Naproxen 500mg tablets and Misoprostol 200microgram tablets	y	yes_approved
+Naproxen sodium 275mg tablets	y	yes_approved
+Naramig 2.5mg tablets (GlaxoSmithKline UK Ltd)	n	
+Naratriptan 2.5mg tablets	n	
+Naratriptan 2.5mg tablets (Actavis UK Ltd)	n	
+Naratriptan 2.5mg tablets (Teva UK Ltd)	n	
+Nefazodone 100mg tablets	n	
+Nefazodone 200mg tablets	n	
+Nefopam 20mg/1ml solution for injection ampoules	y	yes_approved
+Nefopam 30mg tablets	y	yes_approved
+Nefopam 30mg tablets (Primegen Ltd)	y	yes_approved
+Neurontin 100mg capsules (Pfizer Ltd)	y	
+Neurontin 300mg capsules (Pfizer Ltd)	y	
+Neurontin 400mg capsules (Pfizer Ltd)	y	
+Neurontin 600mg tablets (Pfizer Ltd)	y	
+Neurontin 800mg tablets (Pfizer Ltd)	y	
+Nortriptyline 10mg / Fluphenazine 500microgram tablets	n	
+Nortriptyline 10mg tablets	y	
+Nortriptyline 10mg tablets (A A H Pharmaceuticals Ltd)	y	
+Nortriptyline 10mg tablets (Teva UK Ltd)	y	
+Nortriptyline 25mg tablets	y	
+Nurofen 200mg liquid capsules (Reckitt Benckiser Healthcare (UK) Ltd)	y	yes_approved
+Nurofen 5% gel (Reckitt Benckiser Healthcare (UK) Ltd)	n	
+Nurofen Express 400mg liquid capsules (Reckitt Benckiser Healthcare (UK) Ltd)	y	yes_approved
+Nurofen Meltlets 200mg tablets (Reckitt Benckiser Healthcare (UK) Ltd)	y	yes_approved
+Nurofen Migraine Pain 342mg tablets (Reckitt Benckiser Healthcare (UK) Ltd)	n	
+Nurofen Plus tablets (Reckitt Benckiser Healthcare (UK) Ltd)	y	yes_approved
+Nycopren 500mg gastro-resistant tablets (Ardern Healthcare Ltd)	y	yes_approved
+OPUSTAN tablets 500mg [OPUS]	y	yes_approved
+ORAMORPH SR tablets 10mg [BOEH I HSP]	y	yes_approved
+ORUDIS capsules 50mg [HAWGREEN]	y	yes_approved
+ORUVAIL modified release capsules 200mg [HAWGREEN]	y	yes_approved
+OXYNORM injection solution 10mg/ml [NAPPPHARM]	y	yes_approved
+Oldaram 100mg modified-release tablets (Ranbaxy (UK) Ltd)	y	yes_approved
+Optimax 500mg tablets (Intrapharm Laboratories Ltd)	n	
+Oramorph 10mg/5ml oral solution (Boehringer Ingelheim Ltd)	y	yes_approved
+Oramorph 10mg/5ml oral solution unit dose vials (Boehringer Ingelheim Ltd)	y	yes_approved
+Oramorph 20mg/ml concentrated oral solution (Boehringer Ingelheim Ltd)	y	yes_approved
+Oramorph 30mg/5ml oral solution unit dose vials (Boehringer Ingelheim Ltd)	y	yes_approved
+Orlept 200mg gastro-resistant tablets (Wockhardt UK Ltd)	n	
+Oruvail 100 modified-release capsules (Sanofi)	y	yes_approved
+Oruvail 2.5% gel (Sanofi)	n	
+Oruvail 200 modified-release capsules (Sanofi)	y	yes_approved
+Osmanil 12micrograms/hour transdermal patches (Zentiva)	y	yes_approved
+Osmanil 50micrograms/hour transdermal patches (Zentiva)	y	yes_approved
+Oxcarbazepine 150mg tablets	y	
+Oxcarbazepine 150mg tablets (Mylan Ltd)	y	
+Oxcarbazepine 150mg tablets (Teva UK Ltd)	y	
+Oxcarbazepine 300mg tablets	y	
+Oxcarbazepine 300mg tablets (Mylan Ltd)	y	
+Oxcarbazepine 600mg tablets	y	
+Oxcarbazepine 600mg tablets (Actavis UK Ltd)	y	
+OxyContin 10mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyContin 120mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyContin 15mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyContin 20mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyContin 30mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyContin 40mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyContin 5mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyContin 60mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyContin 80mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyNorm 10mg capsules (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyNorm 10mg/1ml solution for injection ampoules (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyNorm 10mg/ml concentrate oral solution (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyNorm 20mg capsules (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyNorm 20mg/2ml solution for injection ampoules (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyNorm 50mg/1ml solution for injection ampoules (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyNorm 5mg capsules (Napp Pharmaceuticals Ltd)	y	yes_approved
+OxyNorm liquid 5mg/5ml oral solution (Napp Pharmaceuticals Ltd)	y	yes_approved
+Oxycodone 10mg / Naloxone 5mg modified-release tablets	y	yes_approved
+Oxycodone 10mg capsules	y	yes_approved
+Oxycodone 10mg modified-release tablets	y	yes_approved
+Oxycodone 10mg/1ml solution for injection ampoules	y	yes_approved
+Oxycodone 10mg/1ml solution for injection ampoules (Wockhardt UK Ltd)	y	yes_approved
+Oxycodone 10mg/ml oral solution sugar free	y	yes_approved
+Oxycodone 10mg/ml oral solution sugar free (Wockhardt UK Ltd)	y	yes_approved
+Oxycodone 120mg modified-release tablets	y	yes_approved
+Oxycodone 15mg modified-release tablets	y	yes_approved
+Oxycodone 20mg capsules	y	yes_approved
+Oxycodone 20mg modified-release tablets	y	yes_approved
+Oxycodone 20mg/2ml solution for injection ampoules	y	yes_approved
+Oxycodone 20mg/2ml solution for injection ampoules (Wockhardt UK Ltd)	y	yes_approved
+Oxycodone 30mg modified-release tablets	y	yes_approved
+Oxycodone 40mg modified-release tablets	y	yes_approved
+Oxycodone 50mg/1ml solution for injection ampoules	y	yes_approved
+Oxycodone 50mg/1ml solution for injection ampoules (Wockhardt UK Ltd)	y	yes_approved
+Oxycodone 5mg / Naloxone 2.5mg modified-release tablets	y	yes_approved
+Oxycodone 5mg capsules	y	yes_approved
+Oxycodone 5mg modified-release tablets	y	yes_approved
+Oxycodone 5mg/5ml oral solution sugar free	y	yes_approved
+Oxycodone 5mg/5ml oral solution sugar free (Wockhardt UK Ltd)	y	yes_approved
+Oxycodone 60mg modified-release tablets	y	yes_approved
+Oxycodone 80mg modified-release tablets	y	yes_approved
+PARACETAMOL caplets 500mg [ASPAR]	y	yes_approved
+PARACETAMOL caplets 500mg [NUCARE]	y	yes_approved
+PARACETAMOL capsules [CO-OPERATI]	y	yes_approved
+PARACETAMOL suspension 250mg/5ml [NUCARE]	y	yes_approved
+PARACETAMOL tablets 500mg [ALMUS]	y	yes_approved
+PARACETAMOL tablets 500mg [M&A PHARM]	y	yes_approved
+PARAHYPON tablets [WELLCOME]	y	yes_approved
+PENNSAID topical solution 1.5% [PROVALIS]	n	
+PERIACTIN syrup 2mg/5ml [M S D]	n	
+PERIACTIN tablets 4mg [M S D]	n	
+PHENYTOIN tablets 100mg [IVAX]	n	
+PHYSEPTONE injection 10mg/ml [MARTINDALE]	y	yes_approved
+PIROXICAM gel 0.5% [MANX]	n	
+PIZOTIFEN tablets 0.5mg [NEOLAB]	n	
+PONSTAN dispersible tablet 250mg [CHEMIDEX]	y	yes_approved
+PROGESIC tablets 200mg [LILLY]	y	yes_approved
+PROPAIN tablets [SANKYO]	y	yes_approved
+PROPRANOLOL sustained release capsules 160mg [ACTAVIS]	n	
+Palexia 50mg tablets (Grunenthal Ltd)	y	yes_approved
+Palexia SR 100mg tablets (Grunenthal Ltd)	y	yes_approved
+Palexia SR 50mg tablets (Grunenthal Ltd)	y	yes_approved
+Palfium 5mg tablets (Roche Products Ltd)	y	yes_approved
+Palladone SR 2mg capsules (Napp Pharmaceuticals Ltd)	y	yes_approved
+Palladone SR 4mg capsules (Napp Pharmaceuticals Ltd)	y	yes_approved
+Panadol 500mg capsules (GlaxoSmithKline Consumer Healthcare)	y	yes_approved
+Panadol ActiFast Soluble tablets (GlaxoSmithKline Consumer Healthcare)	y	yes_approved
+Panadol Advance 500mg tablets (GlaxoSmithKline Consumer Healthcare)	y	yes_approved
+Panadol Ultra 12.8mg/500mg tablets (GlaxoSmithKline Consumer Healthcare)	y	yes_approved
+Paracetamol 120mg soluble tablets sugar free	y	yes_approved
+Paracetamol 120mg/5ml oral solution paediatric	y	yes_approved
+Paracetamol 120mg/5ml oral solution paediatric sugar free	y	yes_approved
+Paracetamol 120mg/5ml oral suspension paediatric	y	yes_approved
+Paracetamol 120mg/5ml oral suspension paediatric sugar free	y	yes_approved
+Paracetamol 125mg suppositories	y	yes_approved
+Paracetamol 1g oral powder sachets	y	yes_approved
+Paracetamol 1g suppositories	y	yes_approved
+Paracetamol 1g tablets	y	yes_approved
+Paracetamol 240mg suppositories	y	yes_approved
+Paracetamol 250mg orodispersible tablets sugar free	y	yes_approved
+Paracetamol 250mg suppositories	y	yes_approved
+Paracetamol 250mg/5ml oral suspension	y	yes_approved
+Paracetamol 250mg/5ml oral suspension (A A H Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 250mg/5ml oral suspension (Rosemont Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 250mg/5ml oral suspension 5ml sachets sugar free	y	yes_approved
+Paracetamol 250mg/5ml oral suspension sugar free	y	yes_approved
+Paracetamol 250mg/5ml oral suspension sugar free (A A H Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 250mg/5ml oral suspension sugar free (Pinewood Healthcare)	y	yes_approved
+Paracetamol 325mg / Isometheptene 65mg capsules	n	
+Paracetamol 500mg / Caffeine 65mg effervescent tablets sugar free	y	yes_approved
+Paracetamol 500mg / Dihydrocodeine 20mg tablets	y	yes_approved
+Paracetamol 500mg / Dihydrocodeine 30mg tablets	y	yes_approved
+Paracetamol 500mg / Dihydrocodeine 7.46mg effervescent tablets sugar free	y	yes_approved
+Paracetamol 500mg / Domperidone 10mg tablets	n	
+Paracetamol 500mg / Ibuprofen 200mg tablets	y	yes_approved
+Paracetamol 500mg / Metoclopramide 5mg effervescent powder sachets sugar free	n	
+Paracetamol 500mg / Phenylephrine 6.1mg tablets	n	
+Paracetamol 500mg / Pseudoephedrine hydrochloride 30mg tablets	n	
+Paracetamol 500mg / Pseudoephedrine hydrochloride 60mg tablets	n	
+Paracetamol 500mg caplets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg caplets (Actavis UK Ltd)	y	yes_approved
+Paracetamol 500mg caplets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg caplets (Galpharm International Ltd)	y	yes_approved
+Paracetamol 500mg caplets (IVAX Pharmaceuticals UK Ltd)	y	yes_approved
+Paracetamol 500mg caplets (Teva UK Ltd)	y	yes_approved
+Paracetamol 500mg caplets (Wockhardt UK Ltd)	y	yes_approved
+Paracetamol 500mg caplets (Zentiva)	y	yes_approved
+Paracetamol 500mg capsules	y	yes_approved
+Paracetamol 500mg capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg capsules (Actavis UK Ltd)	y	yes_approved
+Paracetamol 500mg capsules (Almus Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg capsules (Aspar Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg capsules (Focus Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg capsules (Kent Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg capsules (Teva UK Ltd)	y	yes_approved
+Paracetamol 500mg capsules (Wockhardt UK Ltd)	y	yes_approved
+Paracetamol 500mg capsules (Zentiva)	y	yes_approved
+Paracetamol 500mg soluble tablets	y	yes_approved
+Paracetamol 500mg soluble tablets (Actavis UK Ltd)	y	yes_approved
+Paracetamol 500mg soluble tablets (Almus Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg soluble tablets (Fannin UK Ltd)	y	yes_approved
+Paracetamol 500mg soluble tablets (Kent Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg soluble tablets (Teva UK Ltd)	y	yes_approved
+Paracetamol 500mg soluble tablets (Zentiva)	y	yes_approved
+Paracetamol 500mg suppositories	y	yes_approved
+Paracetamol 500mg tablets	y	yes_approved
+Paracetamol 500mg tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg tablets (Actavis UK Ltd)	y	yes_approved
+Paracetamol 500mg tablets (Aspar Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg tablets (Galpharm International Ltd)	y	yes_approved
+Paracetamol 500mg tablets (Kent Pharmaceuticals Ltd)	y	yes_approved
+Paracetamol 500mg tablets (Sigma Pharmaceuticals Plc)	y	yes_approved
+Paracetamol 500mg tablets (Teva UK Ltd)	y	yes_approved
+Paracetamol 500mg tablets (Vantage)	y	yes_approved
+Paracetamol 500mg tablets (Wockhardt UK Ltd)	y	yes_approved
+Paracetamol 500mg tablets (Zentiva)	y	yes_approved
+Paracetamol 500mg/5ml oral solution sugar free	y	yes_approved
+Paracetamol 500mg/5ml oral suspension	y	yes_approved
+Paracetamol 500mg/5ml oral suspension sugar free	y	yes_approved
+Pennsaid 16mg/ml cutaneous solution (Movianto UK Ltd)	n	
+Pentazocine 25mg tablets	y	yes_approved
+Pentazocine 50mg capsules	y	yes_approved
+Pentazocine 50mg capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Pentazocine 50mg suppositories	y	yes_approved
+Perampanel 10mg tablets	n	
+Perampanel 12mg tablets	n	
+Perampanel 2mg tablets	n	
+Perampanel 4mg tablets	n	
+Perampanel 6mg tablets	n	
+Perampanel 8mg tablets	n	
+Periactin 4mg tablets (Auden McKenzie (Pharma Division) Ltd)	n	
+Pethidine 100mg/2ml solution for injection ampoules	y	yes_approved
+Pethidine 50mg capsules	y	yes_approved
+Pethidine 50mg tablets	y	yes_approved
+Pethidine 50mg/1ml solution for injection ampoules	y	yes_approved
+Phenobarbital 15mg tablets	n	
+Phenobarbital 15mg tablets (A A H Pharmaceuticals Ltd)	n	
+Phenobarbital 15mg tablets (Teva UK Ltd)	n	
+Phenobarbital 15mg/5ml elixir	n	
+Phenobarbital 30mg tablets	n	
+Phenobarbital 30mg tablets (Actavis UK Ltd)	n	
+Phenobarbital 60mg tablets	n	
+Phenobarbital 60mg tablets (Actavis UK Ltd)	n	
+Phenylbutazone 100mg tablets	y	yes_approved
+Phenylbutazone 200mg tablets	y	yes_approved
+Phenytoin 30mg/5ml oral suspension	n	
+Phenytoin 50mg chewable tablets	n	
+Phenytoin sodium 100mg capsules	n	
+Phenytoin sodium 100mg capsules (Flynn Pharma Ltd)	n	
+Phenytoin sodium 100mg tablets	n	
+Phenytoin sodium 100mg tablets (A A H Pharmaceuticals Ltd)	n	
+Phenytoin sodium 100mg tablets (Actavis UK Ltd)	n	
+Phenytoin sodium 100mg tablets (Almus Pharmaceuticals Ltd)	n	
+Phenytoin sodium 100mg tablets (Wockhardt UK Ltd)	n	
+Phenytoin sodium 25mg capsules	n	
+Phenytoin sodium 25mg capsules (Flynn Pharma Ltd)	n	
+Phenytoin sodium 300mg capsules	n	
+Phenytoin sodium 300mg capsules (Flynn Pharma Ltd)	n	
+Phenytoin sodium 50mg capsules	n	
+Phenytoin sodium 50mg capsules (Flynn Pharma Ltd)	n	
+Phenytoin sodium 50mg tablets	n	
+Phorpain 5% gel (AMCo)	n	
+Phorpain Maximum Strength 10% gel (AMCo)	n	
+Physeptone 1mg/ml mixture (Martindale Pharmaceuticals Ltd)	y	yes_approved
+Physeptone 1mg/ml mixture sugar free (Martindale Pharmaceuticals Ltd)	y	yes_approved
+Physeptone 5mg tablets (Martindale Pharmaceuticals Ltd)	y	yes_approved
+Piroxicam 0.5% gel	n	
+Piroxicam 0.5% gel (A A H Pharmaceuticals Ltd)	n	
+Piroxicam 0.5% gel (Actavis UK Ltd)	n	
+Piroxicam 0.5% gel (Dr Reddy's Laboratories (UK) Ltd)	n	
+Piroxicam 0.5% gel (Teva UK Ltd)	n	
+Piroxicam 10mg capsules	y	yes_approved
+Piroxicam 10mg dispersible tablets	y	yes_approved
+Piroxicam 20mg capsules	y	yes_approved
+Piroxicam 20mg capsules (Kent Pharmaceuticals Ltd)	y	yes_approved
+Piroxicam 20mg dispersible tablets	y	yes_approved
+Piroxicam 20mg dispersible tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Piroxicam 20mg dispersible tablets (Mylan Ltd)	y	yes_approved
+Piroxicam 20mg orodispersible tablets sugar free	y	yes_approved
+Piroxicam 20mg suppositories	y	yes_approved
+Piroxicam betadex 20mg tablets	y	yes_approved
+Pizotifen 1.5mg tablets	n	
+Pizotifen 1.5mg tablets (A A H Pharmaceuticals Ltd)	n	
+Pizotifen 1.5mg tablets (Actavis UK Ltd)	n	
+Pizotifen 1.5mg tablets (Sovereign Medical Ltd)	n	
+Pizotifen 250micrograms/5ml oral solution sugar free	n	
+Pizotifen 500microgram tablets	n	
+Pizotifen 500microgram tablets (A A H Pharmaceuticals Ltd)	n	
+Pizotifen 500microgram tablets (Actavis UK Ltd)	n	
+Pizotifen 500microgram tablets (Almus Pharmaceuticals Ltd)	n	
+Pizotifen 500microgram tablets (Teva UK Ltd)	n	
+Ponstan 250mg capsules (Chemidex Pharma Ltd)	y	yes_approved
+Ponstan Forte 500mg tablets (Chemidex Pharma Ltd)	y	yes_approved
+Powergel 2.5% gel (A. Menarini Farmaceutica Internazionale SRL)	n	
+Pregabalin 100mg capsules	y	
+Pregabalin 100mg capsules (Teva UK Ltd)	y	
+Pregabalin 150mg capsules	y	
+Pregabalin 150mg capsules (Teva UK Ltd)	y	
+Pregabalin 200mg capsules	y	
+Pregabalin 200mg capsules (Teva UK Ltd)	y	
+Pregabalin 200mg capsules (Wockhardt UK Ltd)	y	
+Pregabalin 20mg/ml oral solution sugar free	y	
+Pregabalin 20mg/ml oral solution sugar free (Teva UK Ltd)	y	
+Pregabalin 225mg capsules	y	
+Pregabalin 25mg capsules	y	
+Pregabalin 25mg capsules (Teva UK Ltd)	y	
+Pregabalin 300mg capsules	y	
+Pregabalin 300mg capsules (Teva UK Ltd)	y	
+Pregabalin 50mg capsules	y	
+Pregabalin 50mg capsules (Teva UK Ltd)	y	
+Pregabalin 75mg capsules	y	
+Pregabalin 75mg capsules (Teva UK Ltd)	y	
+Pregabalin 75mg/5ml oral suspension	y	
+Prepadine 25mg capsules (Teva UK Ltd)	n	
+Prepadine 75mg tablets (Teva UK Ltd)	n	
+Preservex 100mg tablets (Almirall Ltd)	y	yes_approved
+Prexige 400mg tablets (Novartis Pharmaceuticals UK Ltd)	y	yes_approved
+Primidone 250mg tablets	n	
+Primidone 250mg tablets (SERB)	n	
+Primidone 25mg/5ml oral suspension	n	
+Primidone 50mg tablets	n	
+Primidone 50mg tablets (SERB)	n	
+Primidone 50mg/5ml oral suspension	n	
+Primidone 62.5mg/5ml oral suspension	n	
+Proflex 5% cream (Novartis Consumer Health UK Ltd)	n	
+Propofol 200mg/20ml emulsion for injection ampoules	n	
+Propranolol 10mg tablets (Teva UK Ltd)	n	
+Propranolol 160mg tablets	n	
+Propranolol 40mg tablets (Ranbaxy (UK) Ltd)	n	
+Propranolol 80mg modified-release capsules (A A H Pharmaceuticals Ltd)	n	
+Prothiaden 25mg capsules (Teofarma)	n	
+Prothiaden 75mg tablets (Teofarma)	n	
+RADIAN B pump spray 5% [T & R]	n	
+REMEDEINE effervescent tablet 20mg + 500mg [NAPPPHARM]	y	yes_approved
+REMEDEINE forte tablets 30mg + 500mg [NAPPPHARM]	y	yes_approved
+Radian B Ibuprofen 5% gel (Thornton & Ross Ltd)	n	
+Radian B Pain Relief spray (Thornton & Ross Ltd)	n	
+Ralgex Freeze spray (G.R. Lane Health Products Ltd)	n	
+Ralgex Heat spray (G.R. Lane Health Products Ltd)	n	
+Reboxetine 4mg tablets	n	
+Relifex 500mg tablets (Meda Pharmaceuticals Ltd)	y	yes_approved
+Relpax 40mg tablets (Pfizer Ltd)	n	
+Reltebon 10mg modified-release tablets (Actavis UK Ltd)	y	yes_approved
+Reltebon 20mg modified-release tablets (Actavis UK Ltd)	y	yes_approved
+Reltebon 5mg modified-release tablets (Actavis UK Ltd)	y	yes_approved
+Reltebon 60mg modified-release tablets (Actavis UK Ltd)	y	yes_approved
+Reltebon 80mg modified-release tablets (Actavis UK Ltd)	y	yes_approved
+Remedeine Forte tablets (Crescent Pharma Ltd)	y	yes_approved
+Remedeine tablets (Crescent Pharma Ltd)	y	yes_approved
+Resolve Extra effervescent granules sachets (G.R. Lane Health Products Ltd)	y	yes_approved
+Retigabine 100mg tablets	n	
+Retigabine 200mg tablets	n	
+Retigabine 300mg tablets	n	
+Retigabine 50mg tablets	n	
+Rewisca 150mg capsules (Consilient Health Ltd)	y	
+Rewisca 75mg capsules (Consilient Health Ltd)	y	
+Rexocaine 2% injection 2.2ml cartridges (Henry Schein Ltd)	n	
+Rheumox 300mg capsules (Mercury Pharma Group Ltd)	y	yes_approved
+Rivotril 2mg tablets (Roche Products Ltd)	n	
+Rivotril 500microgram tablets (Roche Products Ltd)	n	
+Rizatriptan 10mg oral lyophilisates sugar free	n	
+Rizatriptan 10mg orodispersible tablets sugar free	n	
+Rizatriptan 10mg orodispersible tablets sugar free (Actavis UK Ltd)	n	
+Rizatriptan 10mg tablets	n	
+Rizatriptan 5mg tablets	n	
+Rodomel XL 150mg capsules (Teva UK Ltd)	y	
+Rodomel XL 75mg capsules (Teva UK Ltd)	y	
+Rofecoxib 12.5mg tablets	y	yes_approved
+Rofecoxib 12.5mg/5ml oral suspension sugar free	y	yes_approved
+Rofecoxib 25mg tablets	y	yes_approved
+Rofecoxib 25mg/5ml oral suspension sugar free	y	yes_approved
+Rofecoxib 50mg tablets	y	yes_approved
+Rufinamide 200mg tablets	n	
+Rufinamide 400mg tablets	n	
+SOLPADEINE soluble tablet [GLAXSK CON]	y	yes_approved
+SOLPADEINE tablets [GLAXSK CON]	y	yes_approved
+SUDAFED DECONGESTANT & PAIN tablets [MCNEIL]	n	
+SURGAM tablets 300mg [SANOFI/AVE]	y	yes_approved
+SYNDOL HEADACHE RELIEF tablets 500mg+8mg+30mg [ZENTIVA]	n	
+Sabril 500mg tablets (Sanofi)	n	
+Salicylamide 5% / Benzocaine 2% gel	n	
+Salicylic acid 2% / Mucopolysaccharide polysulfate 0.2% cream	n	
+Salicylic acid 2% / Mucopolysaccharide polysulfate 0.2% gel	n	
+Sanomigran 0.25mg/5ml elixir (Novartis Pharmaceuticals UK Ltd)	n	
+Sanomigran 1.5mg tablets (Novartis Pharmaceuticals UK Ltd)	n	
+Sanomigran 500microgram tablets (Novartis Pharmaceuticals UK Ltd)	n	
+Seractil 300mg tablets (Thornton & Ross Ltd)	y	yes_approved
+Seractil 400mg tablets (Thornton & Ross Ltd)	y	yes_approved
+Sevredol 10mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+Sevredol 20mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+Sevredol 50mg tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+Shortec 10mg capsules (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Shortec 20mg capsules (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Shortec 5mg capsules (Qdem Pharmaceuticals Ltd)	y	yes_approved
+Sinepin 25mg capsules (Marlborough Pharmaceuticals Ltd)	n	
+Sinequan 10mg capsules (Pfizer Ltd)	n	
+Sinequan 25mg capsules (Pfizer Ltd)	n	
+Sinequan 50mg capsules (Pfizer Ltd)	n	
+Sinequan 75mg capsules (Pfizer Ltd)	n	
+Sinutab Non-Drowsy tablets (McNeil Products Ltd)	n	
+Sodium valproate 200mg gastro-resistant tablets	n	
+Sodium valproate 200mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)	n	
+Sodium valproate 300mg modified-release capsules	n	
+Sodium valproate 300mg modified-release tablets	n	
+Sodium valproate 500mg gastro-resistant tablets	n	
+Sodium valproate 500mg gastro-resistant tablets (Zentiva)	n	
+Solpadeine Headache soluble tablets (Omega Pharma Ltd)	n	
+Solpadeine Max 12.8mg/500mg tablets (Omega Pharma Ltd)	y	yes_approved
+Solpadeine Max soluble tablets (Omega Pharma Ltd)	y	yes_approved
+Solpadeine Plus capsules (Omega Pharma Ltd)	y	yes_approved
+Solpadeine Plus soluble tablets (Omega Pharma Ltd)	y	yes_approved
+Solpadeine Plus tablets (Omega Pharma Ltd)	y	yes_approved
+Solpadol 30mg/500mg caplets (Sanofi)	y	yes_approved
+Solpadol 30mg/500mg capsules (Sanofi)	y	yes_approved
+Solpadol 30mg/500mg effervescent tablets (Sanofi)	y	yes_approved
+Stesolid 10mg rectal tube (Actavis UK Ltd)	n	
+Strefen 8.75mg lozenges (Reckitt Benckiser Healthcare (UK) Ltd)	y	yes_approved
+Suboxone 2mg/500microgram sublingual tablets (Indivior UK Ltd)	y	yes_approved
+Suboxone 8mg/2mg sublingual tablets (Indivior UK Ltd)	y	yes_approved
+Subutex 0.4mg sublingual tablets (RB Pharmaceuticals Ltd)	y	yes_approved
+Subutex 2mg sublingual tablets (RB Pharmaceuticals Ltd)	y	yes_approved
+Subutex 8mg sublingual tablets (RB Pharmaceuticals Ltd)	y	yes_approved
+Sudafed Non-Drowsy Congestion Cold and Flu tablets (McNeil Products Ltd)	n	
+Sudafed Sinus Pressure & Pain tablets (McNeil Products Ltd)	n	
+Sulindac 100mg tablets	y	yes_approved
+Sulindac 200mg tablets	y	yes_approved
+Sumatriptan 100mg tablets	n	
+Sumatriptan 100mg tablets (A A H Pharmaceuticals Ltd)	n	
+Sumatriptan 100mg tablets (Almus Pharmaceuticals Ltd)	n	
+Sumatriptan 100mg tablets (Arrow Generics Ltd)	n	
+Sumatriptan 100mg tablets (Sandoz Ltd)	n	
+Sumatriptan 100mg tablets (Teva UK Ltd)	n	
+Sumatriptan 10mg/0.1ml nasal spray unit dose	n	
+Sumatriptan 20mg/0.1ml nasal spray unit dose	n	
+Sumatriptan 50mg tablets	n	
+Sumatriptan 50mg tablets (A A H Pharmaceuticals Ltd)	n	
+Sumatriptan 50mg tablets (Actavis UK Ltd)	n	
+Sumatriptan 50mg tablets (Almus Pharmaceuticals Ltd)	n	
+Sumatriptan 50mg tablets (Arrow Generics Ltd)	n	
+Sumatriptan 50mg tablets (Dexcel-Pharma Ltd)	n	
+Sumatriptan 50mg tablets (Sandoz Ltd)	n	
+Sumatriptan 50mg tablets (Teva UK Ltd)	n	
+Sumatriptan 6mg/0.5ml solution for injection pre-filled disposable devices	n	
+Sumatriptan 6mg/0.5ml solution for injection pre-filled pen (Sun Pharmaceuticals UK Ltd)	n	
+Sumatriptan 6mg/0.5ml solution for injection pre-filled syringes with device	n	
+Sumatriptan 6mg/0.5ml solution for injection syringe refill	n	
+Surgam 200mg tablets (Sanofi)	y	yes_approved
+Surgam 300mg tablets (Sanofi)	y	yes_approved
+Surgam SA 300mg capsules (Sanofi)	y	yes_approved
+Surmontil 10mg tablets (Sanofi)	n	
+Surmontil 25mg tablets (Sanofi)	n	
+Surmontil 50mg capsules (Sanofi)	n	
+Synflex 275mg tablets (Roche Products Ltd)	y	yes_approved
+TEMAZEPAM GELTHIX gel-filled capsules 10mg [PHARMACIA]	n	
+TEMAZEPAM GELTHIX gel-filled capsules 20mg [PHARMACIA]	n	
+TRAMADOL SR modified release tablet 100mg [ZENTIVA]	y	yes_approved
+TRAMADOL SR modified release tablet 150mg [ZENTIVA]	y	yes_approved
+TRAMADOL SR modified release tablet 200mg [ZENTIVA]	y	yes_approved
+TRAMADOL capsules 50mg [GEN (UK)]	y	yes_approved
+TRIPTAFEN M tablets 2mg + 10mg [AMCO]	n	
+TRYPTIZOL MR capsules 75mg [M S D]	y	
+TRYPTIZOL tablets 10mg [M S D]	y	
+TRYPTIZOL tablets 25mg [M S D]	y	
+TRYPTIZOL tablets 50mg [M S D]	y	
+Tapentadol 100mg modified-release tablets	y	yes_approved
+Tapentadol 150mg modified-release tablets	y	yes_approved
+Tapentadol 200mg modified-release tablets	y	yes_approved
+Tapentadol 250mg modified-release tablets	y	yes_approved
+Tapentadol 50mg modified-release tablets	y	yes_approved
+Tapentadol 50mg tablets	y	yes_approved
+Tapentadol 75mg tablets	y	yes_approved
+Targinact 10mg/5mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+Targinact 40mg/20mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+Targinact 5mg/2.5mg modified-release tablets (Napp Pharmaceuticals Ltd)	y	yes_approved
+Tegretol 100mg Chewtabs (Novartis Pharmaceuticals UK Ltd)	y	
+Tegretol 100mg tablets (Novartis Pharmaceuticals UK Ltd)	y	
+Tegretol 400mg tablets (Novartis Pharmaceuticals UK Ltd)	y	
+Tegretol Prolonged Release 200mg tablets (Novartis Pharmaceuticals UK Ltd)	y	
+Temazepam 10mg tablets	n	
+Temazepam 10mg tablets (A A H Pharmaceuticals Ltd)	n	
+Temazepam 10mg tablets (Actavis UK Ltd)	n	
+Temazepam 10mg tablets (Genus Pharmaceuticals Ltd)	n	
+Temazepam 10mg tablets (Mylan Ltd)	n	
+Temazepam 10mg/5ml oral solution sugar free (Focus Pharmaceuticals Ltd)	n	
+Temazepam 10mg/5ml oral solution sugar free (Sandoz Ltd)	n	
+Temazepam 20mg tablets	n	
+Temazepam 20mg tablets (Actavis UK Ltd)	n	
+Temazepam 20mg tablets (Sandoz Ltd)	n	
+Temazepam 20mg tablets (Teva UK Ltd)	n	
+Temgesic 200microgram sublingual tablets (RB Pharmaceuticals Ltd)	y	yes_approved
+Temgesic 300micrograms/1ml solution for injection ampoules (RB Pharmaceuticals Ltd)	y	yes_approved
+Temgesic 400microgram sublingual tablets (RB Pharmaceuticals Ltd)	y	yes_approved
+Tenoxicam 20mg tablets	y	yes_approved
+Terpin 32.5mg/5ml / Codeine 16mg/5ml linctus	n	
+Tiagabine 10mg tablets	n	
+Tiagabine 15mg tablets	n	
+Tiagabine 5mg tablets	n	
+Tiaprofenic acid 200mg tablets	y	yes_approved
+Tiaprofenic acid 300mg modified-release capsules	y	yes_approved
+Tiaprofenic acid 300mg tablets	y	yes_approved
+Tilofyl 25micrograms/hour transdermal patches (Tillomed Laboratories Ltd)	y	yes_approved
+Tiloket 2.5% gel (Tillomed Laboratories Ltd)	n	
+Timolol 10mg tablets (Focus Pharmaceuticals Ltd)	n	
+Tolfenamic acid 200mg tablets	y	yes_approved
+Topamax 100mg tablets (Janssen-Cilag Ltd)	n	
+Topamax 15mg sprinkle capsules (Janssen-Cilag Ltd)	n	
+Topamax 200mg tablets (Janssen-Cilag Ltd)	n	
+Topamax 25mg sprinkle capsules (Janssen-Cilag Ltd)	n	
+Topamax 25mg tablets (Janssen-Cilag Ltd)	n	
+Topamax 50mg sprinkle capsules (Janssen-Cilag Ltd)	n	
+Topamax 50mg tablets (Janssen-Cilag Ltd)	n	
+Topiramate 100mg tablets	n	
+Topiramate 100mg tablets (Teva UK Ltd)	n	
+Topiramate 15mg capsules	n	
+Topiramate 15mg capsules (Teva UK Ltd)	n	
+Topiramate 200mg tablets	n	
+Topiramate 25mg capsules	n	
+Topiramate 25mg capsules (Teva UK Ltd)	n	
+Topiramate 25mg tablets	n	
+Topiramate 25mg tablets (Mylan Ltd)	n	
+Topiramate 25mg tablets (Teva UK Ltd)	n	
+Topiramate 50mg capsules	n	
+Topiramate 50mg tablets	n	
+Topiramate 50mg tablets (Teva UK Ltd)	n	
+Toradol 30mg/1ml solution for injection ampoules (Roche Products Ltd)	y	yes_approved
+Tradorec XL 100mg tablets (Paladin Labs Europe Ltd)	y	yes_approved
+Tradorec XL 200mg tablets (Paladin Labs Europe Ltd)	y	yes_approved
+Tradorec XL 300mg tablets (Paladin Labs Europe Ltd)	y	yes_approved
+Tramacet 37.5mg/325mg effervescent tablets (Grunenthal Ltd)	y	yes_approved
+Tramacet 37.5mg/325mg tablets (Grunenthal Ltd)	y	yes_approved
+Tramadol 100mg effervescent powder sachets sugar free	y	yes_approved
+Tramadol 100mg modified-release capsules	y	yes_approved
+Tramadol 100mg modified-release capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Tramadol 100mg modified-release tablets	y	yes_approved
+Tramadol 100mg modified-release tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Tramadol 100mg/2ml solution for injection ampoules	y	yes_approved
+Tramadol 100mg/ml oral drops	y	yes_approved
+Tramadol 100mg/ml oral drops (AMCo)	y	yes_approved
+Tramadol 150mg modified-release capsules	y	yes_approved
+Tramadol 150mg modified-release capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Tramadol 150mg modified-release tablets	y	yes_approved
+Tramadol 150mg modified-release tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Tramadol 200mg modified-release capsules	y	yes_approved
+Tramadol 200mg modified-release capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Tramadol 200mg modified-release tablets	y	yes_approved
+Tramadol 200mg modified-release tablets (A A H Pharmaceuticals Ltd)	y	yes_approved
+Tramadol 300mg modified-release tablets	y	yes_approved
+Tramadol 37.5mg / Paracetamol 325mg effervescent tablets sugar free	y	yes_approved
+Tramadol 37.5mg / Paracetamol 325mg tablets	y	yes_approved
+Tramadol 37.5mg / Paracetamol 325mg tablets (Teva UK Ltd)	y	yes_approved
+Tramadol 400mg modified-release tablets	y	yes_approved
+Tramadol 50mg capsules	y	yes_approved
+Tramadol 50mg capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Tramadol 50mg capsules (Actavis UK Ltd)	y	yes_approved
+Tramadol 50mg capsules (Almus Pharmaceuticals Ltd)	y	yes_approved
+Tramadol 50mg capsules (Focus Pharmaceuticals Ltd)	y	yes_approved
+Tramadol 50mg capsules (Genus Pharmaceuticals Ltd)	y	yes_approved
+Tramadol 50mg capsules (IVAX Pharmaceuticals UK Ltd)	y	yes_approved
+Tramadol 50mg capsules (Niche Generics Ltd)	y	yes_approved
+Tramadol 50mg capsules (PLIVA Pharma Ltd)	y	yes_approved
+Tramadol 50mg capsules (Ranbaxy (UK) Ltd)	y	yes_approved
+Tramadol 50mg capsules (Teva UK Ltd)	y	yes_approved
+Tramadol 50mg capsules (Tillomed Laboratories Ltd)	y	yes_approved
+Tramadol 50mg capsules (Zentiva)	y	yes_approved
+Tramadol 50mg effervescent powder sachets sugar free	y	yes_approved
+Tramadol 50mg modified-release capsules	y	yes_approved
+Tramadol 50mg modified-release capsules (A A H Pharmaceuticals Ltd)	y	yes_approved
+Tramadol 50mg modified-release tablets	y	yes_approved
+Tramadol 50mg orodispersible tablets sugar free	y	yes_approved
+Tramadol 50mg soluble tablets sugar free	y	yes_approved
+Tramadol 75mg modified-release tablets	y	yes_approved
+Tramake 50mg capsules (Galen Ltd)	y	yes_approved
+Tramquel SR 100mg capsules (Beechmere Pharmaceuticals Ltd)	y	yes_approved
+Tramulief SR 100mg tablets (AMCo)	y	yes_approved
+Tramulief SR 150mg tablets (AMCo)	y	yes_approved
+Tramulief SR 200mg tablets (AMCo)	y	yes_approved
+Transtec 35micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd)	y	yes_approved
+Transtec 52.5micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd)	y	yes_approved
+Transtec 70micrograms/hour transdermal patches (Napp Pharmaceuticals Ltd)	y	yes_approved
+Transvasin Heat Rub cream (Thornton & Ross Ltd)	n	
+Transvasin Heat spray (Thornton & Ross Ltd)	n	
+Traxam 3% gel (AMCo)	n	
+Traxam 3.17% foam (AMCo)	n	
+Traxam Pain Relief 3% gel (AMCo)	n	
+Trazodone 100mg capsules	n	
+Trazodone 100mg capsules (Actavis UK Ltd)	n	
+Trazodone 100mg capsules (IVAX Pharmaceuticals UK Ltd)	n	
+Trazodone 100mg capsules (Zentiva)	n	
+Trazodone 150mg modified-release tablets	n	
+Trazodone 150mg tablets	n	
+Trazodone 150mg tablets (A A H Pharmaceuticals Ltd)	n	
+Trazodone 150mg tablets (Actavis UK Ltd)	n	
+Trazodone 150mg tablets (Mylan Ltd)	n	
+Trazodone 150mg tablets (Teva UK Ltd)	n	
+Trazodone 150mg tablets (Zentiva)	n	
+Trazodone 50mg capsules	n	
+Trazodone 50mg capsules (A A H Pharmaceuticals Ltd)	n	
+Trazodone 50mg capsules (Actavis UK Ltd)	n	
+Trazodone 50mg capsules (Teva UK Ltd)	n	
+Trazodone 50mg capsules (Zentiva)	n	
+Trazodone 50mg/5ml oral solution sugar free	n	
+Trazodone 50mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)	n	
+Trazodone 50mg/5ml oral solution sugar free (Zentiva)	n	
+Trileptal 150mg tablets (Novartis Pharmaceuticals UK Ltd)	y	
+Trileptal 300mg tablets (Novartis Pharmaceuticals UK Ltd)	y	
+Trileptal 600mg tablets (Novartis Pharmaceuticals UK Ltd)	y	
+Trimipramine 10mg tablets	n	
+Trimipramine 25mg tablets	n	
+Trimipramine 25mg tablets (A A H Pharmaceuticals Ltd)	n	
+Trimipramine 50mg capsules	n	
+Trimipramine 50mg capsules (A A H Pharmaceuticals Ltd)	n	
+Triptafen tablets (AMCo)	n	
+Tryptophan 500mg capsules	n	
+Tryptophan 500mg tablets	n	
+Tylex 30mg/500mg capsules (UCB Pharma Ltd)	y	yes_approved
+Tylex 30mg/500mg effervescent tablets (UCB Pharma Ltd)	y	yes_approved
+Ultramol Soluble tablets (Zentiva)	y	yes_approved
+VALENAC EC tablets 50mg [SHIRE]	y	yes_approved
+VALIUM injection 5mg/ml [ROCHE]	n	
+VALIUM tablets 2mg [ROCHE]	n	
+VALLERGAN FORTE syrup 30mg/5ml [CASTLEMEAD]	n	
+VALLERGAN syrup 7.5mg/5ml [CASTLEMEAD]	n	
+VALLERGAN tablets 10mg [CASTLEMEAD]	n	
+VALROX tablets 250mg [SHIRE]	y	yes_approved
+VENLAFAXINE modified release capsules 150mg [HILLCROSS]	y	
+VENLAFAXINE modified release capsules 75mg [HILLCROSS]	y	
+VIVALAN tablets 50mg [ASTRAZENEC]	n	
+VOLTAROL injection 25mg/ml [NOV/GEIGY]	y	yes_approved
+Valdecoxib 10mg tablets	y	yes_approved
+Valdecoxib 20mg tablets	y	yes_approved
+Valdecoxib 40mg tablets	y	yes_approved
+Valdoxan 25mg tablets (Servier Laboratories Ltd)	n	
+Valproic acid 150mg gastro-resistant capsules	n	
+Valproic acid 300mg gastro-resistant capsules	n	
+Valproic acid 500mg gastro-resistant capsules	n	
+Valproic acid 500mg gastro-resistant tablets	n	
+Venaxx XL 150mg capsules (AMCo)	y	
+Venaxx XL 75mg capsules (AMCo)	y	
+Venlablue XL 150mg capsules (Bluefish Pharmaceuticals AB)	y	
+Venlablue XL 37.5mg capsules (Bluefish Pharmaceuticals AB)	y	
+Venlablue XL 75mg capsules (Bluefish Pharmaceuticals AB)	y	
+Venladex XL 75mg tablets (Dexcel-Pharma Ltd)	y	
+Venlafaxine 150mg modified-release capsules	y	
+Venlafaxine 150mg modified-release tablets	y	
+Venlafaxine 225mg modified-release capsules	y	
+Venlafaxine 225mg modified-release tablets	y	
+Venlafaxine 37.5mg modified-release capsules	y	
+Venlafaxine 37.5mg modified-release tablets	y	
+Venlafaxine 37.5mg tablets	y	
+Venlafaxine 37.5mg tablets (A A H Pharmaceuticals Ltd)	y	
+Venlafaxine 37.5mg tablets (Actavis UK Ltd)	y	
+Venlafaxine 37.5mg tablets (Teva UK Ltd)	y	
+Venlafaxine 37.5mg/5ml oral suspension	y	
+Venlafaxine 50mg tablets	y	
+Venlafaxine 75mg modified-release capsules	y	
+Venlafaxine 75mg modified-release tablets	y	
+Venlafaxine 75mg tablets	y	
+Venlafaxine 75mg tablets (A A H Pharmaceuticals Ltd)	y	
+Venlafaxine 75mg tablets (Actavis UK Ltd)	y	
+Venlafaxine 75mg tablets (Teva UK Ltd)	y	
+Venlafaxine 75mg tablets (Zentiva)	y	
+Venlafaxine 75mg/5ml oral solution	y	
+Venlalic XL 150mg tablets (DB Ashbourne Ltd)	y	
+Venlalic XL 225mg tablets (DB Ashbourne Ltd)	y	
+Venlalic XL 37.5mg tablets (DB Ashbourne Ltd)	y	
+Venlalic XL 75mg tablets (DB Ashbourne Ltd)	y	
+Vensir XL 150mg capsules (Morningside Healthcare Ltd)	y	
+Vensir XL 75mg capsules (Morningside Healthcare Ltd)	y	
+Versatis 5% medicated plasters (Grunenthal Ltd)	n	
+ViePax 37.5mg tablets (Dexcel-Pharma Ltd)	y	
+ViePax 75mg tablets (Dexcel-Pharma Ltd)	y	
+ViePax XL 150mg tablets (Dexcel-Pharma Ltd)	y	
+ViePax XL 75mg tablets (Dexcel-Pharma Ltd)	y	
+Vigabatrin 500mg tablets	n	
+Vimovo 500mg/20mg modified-release tablets (AstraZeneca UK Ltd)	y	yes_approved
+Vimpat 100mg tablets (UCB Pharma Ltd)	n	
+Vimpat 150mg tablets (UCB Pharma Ltd)	n	
+Vimpat 200mg tablets (UCB Pharma Ltd)	n	
+Vimpat 50mg tablets (UCB Pharma Ltd)	n	
+Vioxx 12.5mg tablets (Merck Sharp & Dohme Ltd)	y	yes_approved
+Vioxx 12.5mg/5ml oral suspension (Merck Sharp & Dohme Ltd)	y	yes_approved
+Vioxx 25mg tablets (Merck Sharp & Dohme Ltd)	y	yes_approved
+VioxxAcute 25mg tablets (Merck Sharp & Dohme Ltd)	y	yes_approved
+VioxxAcute 50mg tablets (Merck Sharp & Dohme Ltd)	y	yes_approved
+Volraman 50mg gastro-resistant tablets (LPC Medical (UK) Ltd)	y	yes_approved
+Volsaid Retard 100 tablets (Chiesi Ltd)	y	yes_approved
+Volsaid Retard 75 tablets (Chiesi Ltd)	y	yes_approved
+Voltarol 1.16% Emulgel (Novartis Consumer Health UK Ltd)	n	
+Voltarol 1.16% Emulgel P (Novartis Consumer Health UK Ltd)	n	
+Voltarol 12 Hour Emulgel P 2.32% gel (Novartis Consumer Health UK Ltd)	n	
+Voltarol 12.5mg suppositories (Novartis Pharmaceuticals UK Ltd)	y	yes_approved
+Voltarol 140mg medicated plasters (Novartis Consumer Health UK Ltd)	y	
+Voltarol 25mg gastro-resistant tablets (Novartis Pharmaceuticals UK Ltd)	y	yes_approved
+Voltarol 25mg suppositories (Novartis Pharmaceuticals UK Ltd)	y	yes_approved
+Voltarol 50mg dispersible tablets (Novartis Pharmaceuticals UK Ltd)	y	yes_approved
+Voltarol 50mg suppositories (Novartis Pharmaceuticals UK Ltd)	y	yes_approved
+Voltarol 75mg/3ml solution for injection ampoules (Novartis Pharmaceuticals UK Ltd)	y	yes_approved
+Voltarol Gel Patch 1% medicated plasters (Novartis Consumer Health UK Ltd)	n	
+Voltarol Pain-eze 1.16% Emulgel (Novartis Consumer Health UK Ltd)	n	
+Voltarol Rapid 25mg tablets (Novartis Pharmaceuticals UK Ltd)	y	yes_approved
+Voltarol Retard 100mg tablets (Novartis Pharmaceuticals UK Ltd)	y	yes_approved
+White liniment	n	
+XYLOCAINE ANTISEPTIC gel 2% w/v [ASTRAZENEC]	n	
+XYLOCAINE WITH ADRENALINE 1:200,000 injection 0.5% [ASTRAZENEC]	n	
+XYLOCAINE injection 1% [ASTRAZENEC]	n	
+XYLOCAINE ointment 5% [ASTRAZENEC]	n	
+XYLOCAINE spray [ASTRAZENEC]	n	
+Xylocaine 1% with Adrenaline 100micrograms/20ml (1 in 200,000) solution for injection vials (AstraZeneca UK Ltd)	n	
+Xylocaine 10mg/dose spray (AstraZeneca UK Ltd)	n	
+Xylocaine 2% with Adrenaline 1 in 80,000 injection 2.2ml cartridges (Dentsply Ltd)	n	
+Xylocaine 2% with Adrenaline 100micrograms/20ml (1 in 200,000) solution for injection vials (AstraZeneca UK Ltd)	n	
+Xylocaine Topical 4% solution (AstraZeneca UK Ltd)	n	
+Xylotox 2% E80 Dental injection 2.2ml cartridges (Dentsply Ltd)	n	
+Yentreve 20mg gastro-resistant capsules (Eli Lilly and Company Ltd)	y	
+Yentreve 40mg gastro-resistant capsules (Eli Lilly and Company Ltd)	y	
+ZOLMITRIPTAN orodispersible tablet 2.5mg [SOVEREIGN]	n	
+Zacin 0.025% cream (Teva UK Ltd)	n	
+Zamadol 24hr 150mg modified-release tablets (Meda Pharmaceuticals Ltd)	y	yes_approved
+Zamadol 24hr 200mg modified-release tablets (Meda Pharmaceuticals Ltd)	y	yes_approved
+Zamadol 24hr 400mg modified-release tablets (Meda Pharmaceuticals Ltd)	y	yes_approved
+Zamadol 50mg capsules (Meda Pharmaceuticals Ltd)	y	yes_approved
+Zamadol Melt 50mg tablets (Meda Pharmaceuticals Ltd)	y	yes_approved
+Zamadol SR 100mg capsules (Meda Pharmaceuticals Ltd)	y	yes_approved
+Zamadol SR 150mg capsules (Meda Pharmaceuticals Ltd)	y	yes_approved
+Zamadol SR 200mg capsules (Meda Pharmaceuticals Ltd)	y	yes_approved
+Zamadol SR 50mg capsules (Meda Pharmaceuticals Ltd)	y	yes_approved
+Zapain 30mg/500mg capsules (AMCo)	y	yes_approved
+Zapain 30mg/500mg tablets (AMCo)	y	yes_approved
+Zarontin 250mg capsules (Pfizer Ltd)	n	
+Zispin 30mg tablets (Organon Laboratories Ltd)	n	
+Zispin SolTab 15mg orodispersible tablets (Merck Sharp & Dohme Ltd)	n	
+Zispin SolTab 30mg orodispersible tablets (Merck Sharp & Dohme Ltd)	n	
+Zispin SolTab 45mg orodispersible tablets (Merck Sharp & Dohme Ltd)	n	
+Zolmitriptan 2.5mg orodispersible tablets sugar free	n	
+Zolmitriptan 2.5mg orodispersible tablets sugar free (Actavis UK Ltd)	n	
+Zolmitriptan 2.5mg orodispersible tablets sugar free (Teva UK Ltd)	n	
+Zolmitriptan 2.5mg tablets	n	
+Zolmitriptan 2.5mg tablets (Actavis UK Ltd)	n	
+Zolmitriptan 2.5mg tablets (Teva UK Ltd)	n	
+Zolmitriptan 5mg orodispersible tablets sugar free	n	
+Zolmitriptan 5mg orodispersible tablets sugar free (Actavis UK Ltd)	n	
+Zolmitriptan 5mg tablets	n	
+Zolmitriptan 5mg/0.1ml nasal spray unit dose	n	
+Zomig 2.5mg tablets (AstraZeneca UK Ltd)	n	
+Zomig 5mg/0.1ml nasal spray 0.1ml unit dose (AstraZeneca UK Ltd)	n	
+Zomig Rapimelt 2.5mg orodispersible tablets (AstraZeneca UK Ltd)	n	
+Zomig Rapimelt 5mg orodispersible tablets (AstraZeneca UK Ltd)	n	
+Zomorph 100mg modified-release capsules (ProStrakan Ltd)	y	yes_approved
+Zomorph 10mg modified-release capsules (ProStrakan Ltd)	y	yes_approved
+Zomorph 200mg modified-release capsules (ProStrakan Ltd)	y	yes_approved
+Zomorph 30mg modified-release capsules (ProStrakan Ltd)	y	yes_approved
+Zomorph 60mg modified-release capsules (ProStrakan Ltd)	y	yes_approved
+Zonegran 100mg capsules (Eisai Ltd)	n	
+Zonegran 25mg capsules (Eisai Ltd)	n	
+Zonegran 50mg capsules (Eisai Ltd)	n	
+Zonisamide 100mg capsules	n	
+Zonisamide 100mg capsules (Teva UK Ltd)	n	
+Zonisamide 25mg capsules	n	
+Zonisamide 50mg capsules	n	
+Zydol 100mg/2ml solution for injection ampoules (Grunenthal Ltd)	y	yes_approved
+Zydol 50mg capsules (Grunenthal Ltd)	y	yes_approved
+Zydol 50mg soluble tablets (Grunenthal Ltd)	y	yes_approved
+Zydol SR 100mg tablets (Grunenthal Ltd)	y	yes_approved
+Zydol SR 150mg tablets (Grunenthal Ltd)	y	yes_approved
+Zydol SR 200mg tablets (Grunenthal Ltd)	y	yes_approved
+Zydol SR 50mg tablets (Grunenthal Ltd)	y	yes_approved
+Zydol XL 150mg tablets (Grunenthal Ltd)	y	yes_approved
+Zydol XL 200mg tablets (Grunenthal Ltd)	y	yes_approved
+Zydol XL 300mg tablets (Grunenthal Ltd)	y	yes_approved
+amitriptyline hydrochloride injection 10mg/ml	y	
+amoxapine tablets 25mg	n	
+buprenorphine three-day patch 35mcg/hour	y	yes_approved
+buprenorphine three-day patch 52.5mcg/hour	y	yes_approved
+capsicum ointment	n	
+co-codaprin (codeine and aspirin) tablets 8mg+400mg	y	yes_approved
+co-dydramol (dihydrocodeine and paracetamol) suspension sugar-free 10mg + 500mg/5ml	y	yes_approved
+co-dydramol (dihydrocodeine and paracetamol) tablets 7.46mg + 500mg	y	yes_approved
+co-proxamol (dextropropoxyphene and paracetamol) suspension sugar-free 32.5mg + 325mg/5ml	y	yes_approved
+codeine phosphate with paracetamol tablets 30mg + 500mg	y	yes_approved
+desipramine tablets 25mg	y	
+dextropropoxyphene hcl with paracetamol tablets 32.5mg + 325mg	y	yes_approved
+diamorphine hydrochloride elixir 10mg/5ml	y	yes_approved
+diamorphine hydrochloride elixir 5mg/5ml	y	yes_approved
+diamorphine hydrochloride powder for solution for injection 100mg	y	yes_approved
+diamorphine hydrochloride powder for solution for injection 10mg	y	yes_approved
+diamorphine hydrochloride powder for solution for injection 30mg	y	yes_approved
+diamorphine hydrochloride powder for solution for injection 5mg	y	yes_approved
+diazepam capsules 2mg	n	
+diazepam capsules 5mg	n	
+diazepam suspension 1mg/5ml	n	
+diclofenac sodium (roi) capsules 50mg	y	yes_approved
+diclofenac sodium (roi) gel 1%	n	
+dihydrocodeine with paracetamol effervescent tablet 20mg + 500mg	y	yes_approved
+dihydrocodeine with paracetamol tablets 10mg + 500mg	y	yes_approved
+dosulepin oral solution sugar-free 25mg/5ml	n	
+dosulepin oral solution sugar-free 75mg/5ml	n	
+droperidol liquid 1mg/ml	n	
+droperidol tablets 10mg	n	
+ergotamine tartrate sublingual tablets 2mg	n	
+etodolac tablets 200mg	y	yes_approved
+fenoprofen tablets 200mg	y	yes_approved
+ibuprofen and codeine tablets 200mg + 12.5mg	y	yes_approved
+ibuprofen capsules 200mg	y	yes_approved
+ibuprofen granules 400mg	y	yes_approved
+ibuprofen soluble tablet 200mg	y	yes_approved
+ketamine oral solution sugar-free 50mg/5ml	y	
+lidocaine hydrochloride cream 2% w/v	n	
+lidocaine hydrochloride ointment 5%	n	
+lidocaine hydrochloride pump spray 10%	n	
+lidocaine with adrenaline (base) 1:200,000 injection 1.5%	n	
+lidocaine with adrenaline (base) 1:400,000 injection 1%	n	
+lidocaine with adrenaline (base) 1:80,000 injection 2% w/v	n	
+mefenamic acid dispersible tablet 250mg	y	yes_approved
+menthol cone	n	
+meprobamate with ethoheptazine citrate and aspirin tablets	y	yes_approved
+methadone injection 10mg/ml	y	yes_approved
+methyl salicylate with camphor, oleoresin capsicum and menthol cream	n	
+metoclopramide with aspirin effervescent tablet 5mg + 325mg	n	
+metoclopramide with aspirin effervescent tablet 5mg + 450mg	n	
+midazolam injection 5mg/ml	n	
+midazolam pre-filled syringe buccal solution 2.5mg/0.25ml	n	
+midazolam pre-filled syringe buccal solution 5mg/0.5ml	n	
+morphine elixir 8.4mg/ml	y	yes_approved
+morphine sulfate 12 hour modified release capsules 100mg	y	yes_approved
+morphine sulfate 12 hour modified release capsules 200mg	y	yes_approved
+morphine sulfate 12 hour modified release capsules 20mg	y	yes_approved
+morphine sulfate 12 hour modified release capsules 30mg	y	yes_approved
+morphine sulfate 12 hour modified release capsules 50mg	y	yes_approved
+morphine sulfate 12 hour modified release capsules 60mg	y	yes_approved
+morphine sulfate 24 hour modified release capsules 150mg	y	yes_approved
+morphine sulfate 24 hour modified release capsules 30mg	y	yes_approved
+morphine sulfate 24 hour modified release capsules 60mg	y	yes_approved
+morphine sulfate 24 hour modified release capsules 90mg	y	yes_approved
+morphine sulfate injection 10mg/1ml	y	yes_approved
+morphine sulfate injection 10mg/ml	y	yes_approved
+morphine sulfate modified release capsules 100mg	y	yes_approved
+morphine sulfate modified release capsules 10mg	y	yes_approved
+morphine sulfate oral liquid	y	yes_approved
+morphine suppository 15mg	y	yes_approved
+naltrexone hydrochloride liquid 1mg/ml	n	
+naproxen and misoprostol (combined) tablets 500mg+200mcg	y	yes_approved
+naproxen tablets 375mg	y	yes_approved
+nefazodone starter pack	n	
+oxycodone hydrochloride injection 10mg/ml	y	yes_approved
+paracetamol oral liquid	y	yes_approved
+paracetamol with codeine phosphate and buclizine tablets 500mg+8mg+6.25mg	y	yes_approved
+paracetamol with codeine phosphate and caffeine capsules 500mg+8mg+30mg	y	yes_approved
+paracetamol with codeine phosphate capsules 500mg + 30mg	y	yes_approved
+paracetamol with codeine phosphate effervescent tablet 500mg + 30mg	y	yes_approved
+paracetamol with codeine phosphate tablets 450mg + 8.1mg	y	yes_approved
+paracetamol with codeine phosphate tablets 500mg + 30mg	y	yes_approved
+paracetamol with codeine phosphate tablets 500mg + 8mg	y	yes_approved
+perphenazine with amitriptyline tablets 2mg + 10mg	n	
+perphenazine with amitriptyline tablets 2mg + 25mg	n	
+pethidine injection 50mg/ml	y	yes_approved
+phenytoin capsules 100mg	n	
+phenytoin capsules 25mg	n	
+phenytoin capsules 300mg	n	
+phenytoin capsules 50mg	n	
+phenytoin suspension sugar-free 90mg/5ml	n	
+protriptyline tablets 10mg	n	
+protriptyline tablets 5mg	n	
+salicylates with nicotinate cream	n	
+salicylates with nicotinate spray	n	
+sodium valproate with valproic acid modified release granules 50mg	n	
+sodium valproate with valproic acid modified release tablet 500mg	n	
+sumatriptan injection 6mg/syringe	n	
+temazepam capsules 30mg	n	
+temazepam gel-filled capsules 10mg	n	
+tolfenamic acid capsules 200mg	y	
+tramadol (roi) tablets 50mg	y	yes_approved
+tramadol 12 hour modified release tablets 150mg	y	yes_approved
+tramadol 12 hour modified release tablets 200mg	y	yes_approved
+tramadol 24 hour modified release tablets 100mg	y	yes_approved
+tramadol 24 hour modified release tablets 150mg	y	yes_approved
+tramadol 24 hour modified release tablets 200mg	y	yes_approved
+venlafaxine (roi) modified release capsules 37.5mg	y	
+viloxazine hydrochloride tablets 50mg	n	

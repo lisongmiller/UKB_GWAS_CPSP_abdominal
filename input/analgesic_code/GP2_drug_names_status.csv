@@ -1,0 +1,2847 @@
+bnf_code	drug_name	bnf_6	status	ptr_approved
+1001010N0AAAAAA	*Mefenamic acid 250mg capsule-P42 0	100101	y	yes_approved
+100101	*VIOXX-P42 0	100101	y	yes_approved
+40702	Abstral  Sublingual tablets  100 micrograms	40702	y	yes_approved
+4070200	Abstral 100microgram sublingual tablets (ProStrakan Ltd)	40702	y	yes_approved
+4070200	Abstral 200microgram sublingual tablets (ProStrakan Ltd)	40702	y	yes_approved
+4070200	Abstral 300microgram sublingual tablets (ProStrakan Ltd)	40702	y	yes_approved
+4070200	Abstral 400microgram sublingual tablets (ProStrakan Ltd)	40702	y	yes_approved
+100101080AAAAAA	Aceclofenac  Tablets  100 mg	100101	y	yes_approved
+10010100	Aceclofenac 100mg tablets	100101	y	yes_approved
+100101080AAAAAA	ACECLOFENAC TABLETS 100MG	100101	y	yes_approved
+100101080AAAAAA	Aceclofenac TABS 100MG	100101	y	yes_approved
+4070200	Actiq 200microgram lozenges with integral oromucosal appl...	40702	y	yes_approved
+4070200	Actiq 400microgram lozenges with integral oromucosal appl...	40702	y	yes_approved
+4070100	Acupan 30mg tablets (Meda Pharmaceuticals Ltd)	40701	y	yes_approved
+0407010P0BBAAAB	ACUPAN TABLETS 30MG	40701	y	yes_approved
+15010403	Alfentanil 1mg/2ml solution for injection ampoules	150104	y	yes_approved
+15010403	Alfentanil 5mg/10ml solution for injection ampoules	150104	y	yes_approved
+15010403	Alfentanil 5mg/1ml solution for injection ampoules	150104	y	yes_approved
+4070200	Alfentanil 5mg/5ml buccal spray	40702	y	yes_approved
+1003020I0BBAAAA	Algesal  Cream  10 %	100302	n	
+10030250	Algesal cream (Thornton & Ross Ltd)	100302	n	
+1003020I0BBAAAA	ALGESAL CREAM 10%	100302	n	
+1003020I0BBAAAA	Algesal CREAM 10%	100302	n	
+4070401	Almotriptan  Tablets  12.5 mg	40704	n	
+4070401	Almotriptan 12.5mg tablets	40704	n	
+4070401	ALMOTRIPTAN TABLETS 12.5MG	40704	n	
+4070401	ALMOTRIPTAN tabs 12.5mg	40704	n	
+4070401	Almotriptan TABS 12.5MG	40704	n	
+40801	Alzain  Capsules  100 mg	40801	y	
+0403010B0AAAGAG	AMITRIPTYLINE 10MG	40301	y	
+4030100	Amitriptyline 10mg tablets	40301	y	
+4070402	Amitriptyline 10mg tablets	40704	y	
+4070300	Amitriptyline 10mg tablets	40703	y	
+0403010B0AAAGAG	AMITRIPTYLINE 10MG TABLETS	40301	y	
+0403010B0AAAHAH	AMITRIPTYLINE 25MG TAB	40301	y	
+4070402	Amitriptyline 25mg tablets	40704	y	
+4030100	Amitriptyline 25mg tablets	40301	y	
+4070300	Amitriptyline 25mg tablets	40703	y	
+4030100	Amitriptyline 25mg/5ml oral solution sugar free	40301	y	
+0403010B0AAAHAH	AMITRIPTYLINE 25MGS	40301	y	
+0403010B0AAAAAA	AMITRIPTYLINE 25MGS SR CAPS	40301	y	
+40301	AMITRIPTYLINE 50MG CAPS	40301	y	
+4070402	Amitriptyline 50mg tablets	40704	y	
+4030100	Amitriptyline 50mg tablets	40301	y	
+4070300	Amitriptyline 50mg tablets	40703	y	
+4070402	Amitriptyline 50mg/5ml oral solution sugar free	40704	y	
+4030100	Amitriptyline 50mg/5ml oral solution sugar free	40301	y	
+0403010B0AABABA	AMITRIPTYLINE CAP 75MG	40301	y	
+4070402	AMITRIPTYLINE HCl tabs 10mg	40704	y	
+4070402	AMITRIPTYLINE HCl tabs 25mg	40704	y	
+40301	Amitriptyline Hydrochloride  Capsules  25 mg	40301	y	
+0403010B0AABABA	Amitriptyline Hydrochloride  Capsules  75 mg	40301	y	
+40301	Amitriptyline Hydrochloride  Mixture  Sugar Free 10 mg/5 ml	40301	y	
+40301	Amitriptyline Hydrochloride  Oral solution  10 mg/5 ml	40301	y	
+40301	Amitriptyline Hydrochloride  Sugar-free oral solution  10 mg/5 ml	40301	y	
+0403010B0AAANAN	Amitriptyline Hydrochloride  Sugar-free oral solution  25 mg/5 ml	40301	y	
+0403010B0AAAFAF	Amitriptyline Hydrochloride  Sugar-free oral solution  50 mg/5 ml	40301	y	
+0403010B0AAAGAG	Amitriptyline Hydrochloride  Tablets  10 mg	40301	y	
+0403010B0AAAHAH	Amitriptyline Hydrochloride  Tablets  25 mg	40301	y	
+0403010B0AAAIAI	Amitriptyline Hydrochloride  Tablets  50 mg	40301	y	
+0403010B0AAAAAA	Amitriptyline Hydrochloride Mr CAPS 25MG	40301	y	
+0403010B0AAAAAA	AMITRIPTYLINE HYDROCHLORIDE MR CAPSULES 25MG	40301	y	
+0403010B0AAAGAG	AMITRIPTYLINE HYDROCHLORIDE TABLETS 10MG	40301	y	
+0403010B0AAAGAG	Amitriptyline Hydrochloride TABLETS 10MG	40301	y	
+4030100	Amitriptyline Hydrochloride Tablets 10mg	40301	y	
+0403010B0AAAHAH	AMITRIPTYLINE HYDROCHLORIDE TABLETS 25MG	40301	y	
+0403010B0AAAHAH	Amitriptyline Hydrochloride TABLETS 25MG	40301	y	
+0403010B0AAAIAI	AMITRIPTYLINE HYDROCHLORIDE TABLETS 50MG	40301	y	
+0403010B0AAAIAI	Amitriptyline Hydrochloride TABLETS 50MG	40301	y	
+0403010B0AAAGAG	Amitriptyline Hydrochloride TABS 10MG	40301	y	
+0403010B0AAAHAH	Amitriptyline Hydrochloride TABS 25MG	40301	y	
+0403010B0AAAIAI	Amitriptyline Hydrochloride TABS 50MG	40301	y	
+0403010B0AAANAN	Amitriptyline Sf Oral SOLN 25MG/5ML	40301	y	
+0403010B0AAANAN	AMITRIPTYLINE SF ORAL SOLN 25MG/5ML	40301	y	
+0403010B0AABABA	Amitriptyline Sr  Capsules  75 mg	40301	y	
+0403010B0AAAGAG	AMITRIPTYLINE TAB 10MG	40301	y	
+0403010B0AAAHAH	AMITRIPTYLINE-P42 25mg tablet	40301	y	
+4030100	Anafranil 25mg capsules (Novartis Pharmaceuticals UK Ltd)	40301	n	
+4030100	ANAFRANIL caps 25mg	40301	n	
+0403010F0BBABAB	ANAFRANIL CAPSULES 25MG	40301	n	
+4030100	Anafranil SR 75mg tablets (Novartis Pharmaceuticals UK Ltd)	40301	n	
+0403010F0BBAFAG	Anafranil Sr TABS 75MG	40301	n	
+0403010F0BBABAB	Anafranil-P42 25mg cap	40301	n	
+100101	Arcoxia  Tablets  120 mg	100101	y	yes_approved
+100101	Arcoxia  Tablets  30 mg	100101	y	yes_approved
+100101	Arcoxia  Tablets  60 mg	100101	y	yes_approved
+100101	Arcoxia  Tablets  90 mg	100101	y	yes_approved
+10010100	Arcoxia 120mg tablets (Grunenthal Ltd)	100101	y	yes_approved
+10010100	Arcoxia 120mg tablets (Merck Sharp & Dohme Ltd)	100101	y	yes_approved
+10010100	Arcoxia 30mg tablets (Grunenthal Ltd)	100101	y	yes_approved
+10010100	Arcoxia 30mg tablets (Merck Sharp & Dohme Ltd)	100101	y	yes_approved
+10010100	Arcoxia 60mg tablets (Grunenthal Ltd)	100101	y	yes_approved
+10010100	Arcoxia 60mg tablets (Merck Sharp & Dohme Ltd)	100101	y	yes_approved
+100101	Arcoxia 60mg TABS 60mg	100101	y	yes_approved
+10010100	Arcoxia 90mg tablets (Merck Sharp & Dohme Ltd)	100101	y	yes_approved
+100101	ARCOXIA TABLETS 60 MGM	100101	y	yes_approved
+100101	ARCOXIA TABLETS 60MG	100101	y	yes_approved
+100101	ARCOXIA TABLETS 90 MGM	100101	y	yes_approved
+100101	ARCOXIA TABLETS 90MG	100101	y	yes_approved
+100101	Arcoxia TABS 60MG	100101	y	yes_approved
+100101	Arcoxia TABS 90MG	100101	y	yes_approved
+1001010C0BLAAAM	Arthrotec 50  Tablets	100101	y	yes_approved
+10010100	Arthrotec 50 gastro-resistant tablets (Pfizer Ltd)	100101	y	yes_approved
+1001010C0BLAAAM	ARTHROTEC 50 TABLETS	100101	y	yes_approved
+1001010C0BLAAAM	ARTHROTEC 50 TABLETS 50MG+200MCG	100101	y	yes_approved
+1001010C0BLAAAM	Arthrotec 50 TABS	100101	y	yes_approved
+1001010C0BLAAAM	ARTHROTEC 50MG TABS	100101	y	yes_approved
+1001010C0BLABAX	Arthrotec 75  Tablets	100101	y	yes_approved
+10010100	Arthrotec 75 gastro-resistant tablets (Pfizer Ltd)	100101	y	yes_approved
+1001010C0BLABAX	ARTHROTEC 75 TAB	100101	y	yes_approved
+1001010C0BLABAX	ARTHROTEC 75 TABLETS	100101	y	yes_approved
+1001010C0BLABAX	Arthrotec 75 TABS	100101	y	yes_approved
+0403010C0BBAAAA	Asendis TABS 25MG	40301	n	
+0407010B0AAAEAE	Aspirin  Dispersible tablets  300 mg	40701	y	yes_approved
+0407010B0AAAEAE	Aspirin  Dispersible Tablets  300 mg	40701	y	yes_approved
+0407010B0AAA3A3	Aspirin  E/C Tablets  300 mg	40701	y	yes_approved
+0407010B0AAA3A3	Aspirin  E/c tablets  300 mg	40701	y	yes_approved
+0407010B0AAAFAF	Aspirin  Tablets  300 mg	40701	y	yes_approved
+0407010B0AAA3A3	ASPIRIN 300 MG E/C TAB	40701	y	yes_approved
+4070100	Aspirin 300mg dispersible tablets	40701	y	yes_approved
+4070100	Aspirin 300mg gastro-resistant tablets	40701	y	yes_approved
+4070100	Aspirin 300mg tablets	40701	y	yes_approved
+4070100	Aspirin 75mg dispersible tablets	40701	y	
+40701	Aspirin And Metoclopramide  Oral Powder Sachets Sugar Free  900 mg + 10 mg	40701	y	
+0407010B0AAAEAE	ASPIRIN DISPERSIBLE TABLETS 300MG	40701	y	yes_approved
+0407010B0AAAEAE	Aspirin Dispersible TABS 300MG	40701	y	yes_approved
+0407010B0AAA3A3	ASPIRIN EC 300 MGM TABS	40701	y	yes_approved
+0407010B0AAA3A3	ASPIRIN EC TABLETS 300MG	40701	y	yes_approved
+0407010B0AAA3A3	Aspirin Ec TABS 300MG	40701	y	yes_approved
+0407010B0AAAEAE	ASPIRIN TABLETS  DISPERSIBLE 300MG-P42 0	40701	y	yes_approved
+0407010B0AAAFAF	ASPIRIN TABLETS 300MG	40701	y	yes_approved
+0407010B0AAAFAF	Aspirin TABS 300MG	40701	y	yes_approved
+0407010B0AAA3A3	Aspirin-P42 300mg tab EC	40701	y	yes_approved
+0407010B0AAAFAF	Aspirin-P42 300mg tablet	40701	y	yes_approved
+1003020AABCAAAA	Axsain  Cream  0.075 %	100302	n	
+10030251	Axsain 0.075% cream (Teva UK Ltd)	100302	n	
+1003020AABCAAAA	AXSAIN CREAM 0.075%	100302	n	
+1003020AABCAAAA	Axsain CREAM 0.075%	100302	n	
+1001010B0AAAAAA	Azapropazone CAPS 300MG	100101	y	yes_approved
+1001010B0AAAAAA	AZAPROPAZONE CAPSULES 300MG	100101	y	yes_approved
+1001010B0AAABAB	AZAPROPAZONE TABLETS 600MG	100101	y	yes_approved
+1001010B0AAABAB	Azapropazone TABS 600MG	100101	y	yes_approved
+1003020N0BDAAAK	Balmosa  Cream	100302	n	
+1003020N0BDAAAK	Balmosa CREAM	100302	n	
+1003020N0BDAAAK	BALMOSA CREAM	100302	n	
+4070100	Balmosa cream (Galen Consumer Ltd)	40701	n	
+4070100	Balmosa cream (Selsdon Healthcare Ltd)	40701	n	
+100101	BENORILATE SF SUSP 2G/5ML	100101	y	yes_approved
+100101	BENORILATE TABLETS 750MG	100101	y	yes_approved
+100101	Benorilate TABS 750MG	100101	y	yes_approved
+100101	BENORYLATE-P42 750mg tablet	100101	y	yes_approved
+10030250	Benzydamine 3% cream	100302	n	
+1003020F0AAAAAA	Benzydamine Hydrochloride  Cream  3 %	100302	n	
+1003020F0AAAAAA	Benzydamine Hydrochloride CREAM 3%	100302	n	
+1003020F0AAAAAA	BENZYDAMINE HYDROCHLORIDE CREAM 3%	100302	n	
+100101	Bextra  Tablet  10 mg	100101	y	yes_approved
+100101	Bextra  Tablet  20 mg	100101	y	yes_approved
+100101	Bextra  Tablet  40 mg	100101	y	yes_approved
+100101	BEXTRA TABLETS 10 MG	100101	y	yes_approved
+100101	BEXTRA TABLETS 20MG	100101	y	yes_approved
+40801	Brivaracetam  Tablets  25 mg	40801	n	
+40801	Brivaracetam  Tablets  50 mg	40801	n	
+1001010J0BCABAE	Brufen  Tablets  400 mg	100101	y	yes_approved
+1001010J0BCACAF	Brufen  Tablets  600 mg	100101	y	yes_approved
+10010100	Brufen 400mg tablets (Abbott Laboratories Ltd)	100101	y	yes_approved
+1001010J0BCAFAP	Brufen Retard  M/R Tablets  800 mg	100101	y	yes_approved
+1001010J0BCAFAP	Brufen Retard  M/R tablets  800 mg	100101	y	yes_approved
+10010100	Brufen Retard 800mg tablets (Abbott Laboratories Ltd)	100101	y	yes_approved
+10010100	Brufen Retard 800mg tablets (BGP Products Ltd)	100101	y	yes_approved
+1001010J0BCAFAP	BRUFEN RETARD TABLETS 800MG	100101	y	yes_approved
+1001010J0BCAFAP	Brufen Retard TABS 800MG	100101	y	yes_approved
+1001010J0BCAAAD	BRUFEN TABLETS 200MG	100101	y	yes_approved
+1001010J0BCABAE	BRUFEN TABLETS 400MG	100101	y	yes_approved
+1001010J0BCACAF	BRUFEN TABLETS 600MG	100101	y	yes_approved
+1001010J0BCABAE	Brufen TABS 400MG	100101	y	yes_approved
+1001010J0BCACAF	Brufen TABS 600MG	100101	y	yes_approved
+1001010J0BCABAE	Brufen-P42 400mg tablet	100101	y	yes_approved
+1001010J0BCACAF	Brufen-P42 600mg tablet	100101	y	yes_approved
+40702	Buprenorphine  Transdermal patches  10 micrograms/hour	40702	y	yes_approved
+40702	Buprenorphine  Transdermal patches  15 micrograms/hour	40702	y	yes_approved
+40702	Buprenorphine  Transdermal patches  20 micrograms/hour	40702	y	yes_approved
+40702	Buprenorphine  Transdermal patches  20 micrograms/hour (20 mg per patch)	40702	y	yes_approved
+40702	Buprenorphine  Transdermal patches  35 micrograms/hour	40702	y	yes_approved
+40702	Buprenorphine  Transdermal patches  35 micrograms/hour (20 mg per patch)	40702	y	yes_approved
+40702	Buprenorphine  Transdermal patches  5 micrograms/hour	40702	y	yes_approved
+40702	Buprenorphine  Transdermal patches  5 micrograms/hour (5 mg per patch)	40702	y	yes_approved
+40702	Buprenorphine  Transdermal patches  52.5 micrograms/hour	40702	y	yes_approved
+40702	Buprenorphine  Transdermal patches  70 micrograms/hour	40702	y	yes_approved
+40702	Buprenorphine  Transdermal patches  70 micrograms/hour (40 mg per patch)	40702	y	yes_approved
+40702	BUPRENORPHINE 10 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+40702	Buprenorphine 10 Micrograms/Hour PATCH	40702	y	yes_approved
+4070200	Buprenorphine 10micrograms/hour transdermal patches	40702	y	yes_approved
+40702	BUPRENORPHINE 20 MICROGRAMS / HOUR PATCH	40702	y	yes_approved
+40702	Buprenorphine 20 Micrograms / Hour PATCH	40702	y	yes_approved
+4070200	Buprenorphine 200microgram sublingual tablets sugar free	40702	y	yes_approved
+4070200	Buprenorphine 20micrograms/hour transdermal patches	40702	y	yes_approved
+40702	BUPRENORPHINE 35 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+40702	Buprenorphine 35 Micrograms/Hour PATCH	40702	y	yes_approved
+4070200	Buprenorphine 35micrograms/hour transdermal patches	40702	y	yes_approved
+40702	Buprenorphine 5 Micrograms / Hour PATCH	40702	y	yes_approved
+40702	BUPRENORPHINE 5 MICROGRAMS / HOUR PATCH	40702	y	yes_approved
+40702	BUPRENORPHINE 52.5 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+4070200	Buprenorphine 5micrograms/hour transdermal patches	40702	y	yes_approved
+40702	BUPRENORPHINE 70 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+40702	Buprenorphine 70 Micrograms/Hour PATCH	40702	y	yes_approved
+4070200	Buprenorphine 70micrograms/hour transdermal patches	40702	y	yes_approved
+0407020B0AAABAB	BUPRENORPHINE SF SUBLINGUAL TABLETS 200MICROGRAMS	40702	y	yes_approved
+0407020B0AAABAB	Buprenorphine Sf Sublingual TABS 200MICROGRAMS	40702	y	yes_approved
+40702	Butrans  Transdermal patches  10 micrograms/hour	40702	y	yes_approved
+40702	Butrans  Transdermal patches  20 micrograms/hour	40702	y	yes_approved
+40702	Butrans  Transdermal patches  5 micrograms/hour	40702	y	yes_approved
+4070200	BuTrans 10micrograms/hour transdermal patches (Napp Pharm...	40702	y	yes_approved
+4070200	BuTrans 15micrograms/hour transdermal patches (Napp Pharm...	40702	y	yes_approved
+40702	Butrans 20 Micrograms / Hour PATCH	40702	y	yes_approved
+4070200	BuTrans 20micrograms/hour transdermal patches (Napp Pharm...	40702	y	yes_approved
+40702	Butrans 5 Micrograms / Hour PATCH	40702	y	yes_approved
+4070200	BuTrans 5micrograms/hour transdermal patches (Napp Pharma...	40702	y	yes_approved
+0407041F0BFAAAH	Cafergot  Suppositories	40704	n	
+0407041F0BFABAI	Cafergot  Tablets	40704	n	
+0407041F0BFABAI	CAFERGOT TABLETS 1MG	40704	n	
+0407041F0BFABAI	Cafergot TABLETS 1MG	40704	n	
+100302	Capsaicin  Cream  0.025 %	100302	n	
+100302	Capsaicin  Cream  0.075 %	100302	n	
+10030251	Capsaicin 0.025% cream	100302	n	
+10030251	Capsaicin 0.075% cream	100302	n	
+100302	CAPSAICIN CREAM 0.025%	100302	n	
+100302	Capsaicin CREAM 0.025%	100302	n	
+100302	CAPSAICIN CREAM 0.075%	100302	n	
+100302	Capsaicin CREAM 0.075%	100302	n	
+1003020H0AAAAAA	CAPSICUM OINT	100302	n	
+40801	Carbagen  Tablets  100 mg	40801	y	
+40801	Carbagen  Tablets  200 mg	40801	y	
+40801	Carbagen  Tablets  400 mg	40801	y	
+4080100	Carbagen 100mg tablets (Generics (UK) Ltd)	40801	y	
+40801	Carbagen Sr  M/R tablets  200 mg	40801	y	
+40801	Carbagen Sr  M/R tablets  400 mg	40801	y	
+4080100	Carbagen SR 200mg tablets (Generics (UK) Ltd)	40801	y	
+0408010C0AAACAC	Carbamazepine  C/R Tablets  200 mg	40801	y	
+0408010C0AAACAC	Carbamazepine  C/r tablets  200 mg	40801	y	
+0408010C0AAADAD	Carbamazepine  C/R Tablets  400 mg	40801	y	
+0408010C0AAADAD	Carbamazepine  C/r tablets  400 mg	40801	y	
+40801	Carbamazepine  M/R tablets  200 mg	40801	y	
+0408010C0AAABAB	Carbamazepine  Tablets  100 mg	40801	y	
+0408010C0AAACAC	Carbamazepine  Tablets  200 mg	40801	y	
+0408010C0AAADAD	Carbamazepine  Tablets  400 mg	40801	y	
+4080100	Carbamazepine 100mg tablets	40801	y	
+4070300	Carbamazepine 100mg tablets	40703	y	
+4080100	Carbamazepine 100mg tablets (A A H Pharmaceuticals Ltd)	40801	y	
+4080100	Carbamazepine 100mg/5ml oral suspension sugar free	40801	y	
+4070300	Carbamazepine 100mg/5ml oral suspension sugar free	40703	y	
+4070300	Carbamazepine 200mg modified-release tablets	40703	y	
+4080100	Carbamazepine 200mg tablets	40801	y	
+4070300	Carbamazepine 200mg tablets	40703	y	
+4080100	Carbamazepine 400mg tablets	40801	y	
+0408010C0AAAJAJ	CARBAMAZEPINE CHEWABLE TABLETS 100MG	40801	y	
+0408010C0AAAKAK	CARBAMAZEPINE CHEWABLE TABLETS 200MG	40801	y	
+40801	CARBAMAZEPINE MR TABLETS 200MG	40801	y	
+40801	Carbamazepine Mr TABS 200MG	40801	y	
+40801	Carbamazepine Mr TABS 400MG	40801	y	
+40801	CARBAMAZEPINE RETARD 200MG TAB	40801	y	
+0408010C0AAACAC	CARBAMAZEPINE RETARD TABLETS 200-P42 0	40801	y	
+0408010C0AAABAB	CARBAMAZEPINE TABLETS 100MG	40801	y	
+0408010C0AAABAB	Carbamazepine TABLETS 100MG	40801	y	
+0408010C0AAACAC	CARBAMAZEPINE TABLETS 200MG	40801	y	
+0408010C0AAADAD	CARBAMAZEPINE TABLETS 400MG	40801	y	
+0408010C0AAABAB	CARBAMAZEPINE tablets TAB 100mg-P42 0	40801	y	
+0408010C0AAABAB	Carbamazepine TABS 100MG	40801	y	
+0408010C0AAACAC	Carbamazepine TABS 200MG	40801	y	
+4070300	CARBAMAZEPINE tabs 200mg	40703	y	
+0408010C0AAADAD	Carbamazepine TABS 400MG	40801	y	
+0408010C0AAABAB	Carbamazepine-P42 100mg tablet	40801	y	
+100101	Celebrex  Capsules  100 mg	100101	y	yes_approved
+100101	Celebrex  Capsules  200 mg	100101	y	yes_approved
+100101	CELEBREX 100MG	100101	y	yes_approved
+100101	CELEBREX 100mg	100101	y	yes_approved
+100101	CELEBREX 100MG CAP	100101	y	yes_approved
+100101	CELEBREX 100MG CAPS	100101	y	yes_approved
+100101	CELEBREX 100MG CAPSULE	100101	y	yes_approved
+10010100	Celebrex 100mg capsules (Pfizer Ltd)	100101	y	yes_approved
+100101	CELEBREX 200 MG CAP	100101	y	yes_approved
+100101	CELEBREX 200MG	100101	y	yes_approved
+100101	Celebrex 200mg	100101	y	yes_approved
+100101	CELEBREX 200mg	100101	y	yes_approved
+100101	celebrex 200mg	100101	y	yes_approved
+100101	CELEBREX 200MG CAPS	100101	y	yes_approved
+100101	Celebrex 200mg capsules	100101	y	yes_approved
+10010100	Celebrex 200mg capsules (Pfizer Ltd)	100101	y	yes_approved
+100101	Celebrex CAPS 200MG	100101	y	yes_approved
+100101	CELEBREX CAPSULES 100MG	100101	y	yes_approved
+100101	CELEBREX CAPSULES 200MG	100101	y	yes_approved
+100101	Celecoxib  Capsules  100 mg	100101	y	yes_approved
+100101	Celecoxib  Capsules  200 mg	100101	y	yes_approved
+100101	CELECOXIB 100 MG	100101	y	yes_approved
+100101	Celecoxib 100mg cap	100101	y	yes_approved
+100101	CELECOXIB 100mg CAP	100101	y	yes_approved
+100101	Celecoxib 100mg caps	100101	y	yes_approved
+100101	CELECOXIB 100MG CAPS-P42 0	100101	y	yes_approved
+100101	CELECOXIB 100MG CAPSULE	100101	y	yes_approved
+10010100	Celecoxib 100mg capsules	100101	y	yes_approved
+100101	CELECOXIB 100MG CAPSULES	100101	y	yes_approved
+100101	Celecoxib 200 mg capsule	100101	y	yes_approved
+100101	CELECOXIB 200 MGS	100101	y	yes_approved
+100101	Celecoxib 200mg cap	100101	y	yes_approved
+100101	celecoxib 200mg cap	100101	y	yes_approved
+100101	Celecoxib 200mg caps	100101	y	yes_approved
+100101	CELECOXIB 200MG CAPS	100101	y	yes_approved
+10010100	Celecoxib 200mg capsules	100101	y	yes_approved
+100101	CELECOXIB 200MG CAPSULES	100101	y	yes_approved
+100101	CELECOXIB 200MG CELECOXIB 200MG CAP	100101	y	yes_approved
+100101	Celecoxib CAPS 100MG	100101	y	yes_approved
+100101	Celecoxib CAPS 200MG	100101	y	yes_approved
+100101	CELECOXIB CAPSULES 100 MGM	100101	y	yes_approved
+100101	CELECOXIB CAPSULES 100MG	100101	y	yes_approved
+100101	Celecoxib CAPSULES 100MG	100101	y	yes_approved
+100101	Celecoxib CAPSULES 200MG	100101	y	yes_approved
+100101	CELECOXIB CAPSULES 200MG	100101	y	yes_approved
+100101	CELECOXIB CAPSULES 200MGM	100101	y	yes_approved
+100101	CELECOXIB TABLETS 200 MG	100101	y	yes_approved
+4080100	Clobazam 10mg tablets	40801	n	
+040801060AABTBT	Clobazam Sls  Tablets  10 mg	40801	n	
+040801060AABTBT	CLOBAZAM SLS TABLETS 10MG	40801	n	
+4030100	Clomipramine 10mg capsules	40301	n	
+4030100	Clomipramine 25mg capsules	40301	n	
+4030100	Clomipramine 50mg capsules	40301	n	
+4030100	Clomipramine 75mg modified-release tablets	40301	n	
+4030100	CLOMIPRAMINE caps 25mg	40301	n	
+0403010F0AAAAAA	Clomipramine Hydrochloride  Capsules  10 mg	40301	n	
+0403010F0AAABAB	Clomipramine Hydrochloride  Capsules  25 mg	40301	n	
+0403010F0AAACAC	Clomipramine Hydrochloride  Capsules  50 mg	40301	n	
+0403010F0AAAGAG	Clomipramine Hydrochloride  M/R tablets  75 mg	40301	n	
+0403010F0AAAAAA	Clomipramine Hydrochloride CAPS 10MG	40301	n	
+0403010F0AAABAB	Clomipramine Hydrochloride CAPS 25MG	40301	n	
+0403010F0AAACAC	Clomipramine Hydrochloride CAPS 50MG	40301	n	
+0403010F0AAAAAA	CLOMIPRAMINE HYDROCHLORIDE CAPSULES 10MG	40301	n	
+0403010F0AAABAB	CLOMIPRAMINE HYDROCHLORIDE CAPSULES 25MG	40301	n	
+0403010F0AAACAC	CLOMIPRAMINE HYDROCHLORIDE CAPSULES 50MG	40301	n	
+0408010F0AAACAC	Clonazepam  Tablets  2 mg	40801	n	
+0408010F0AAABAB	Clonazepam  Tablets  500 micrograms	40801	n	
+4080100	Clonazepam 2mg tablets	40801	n	
+4080100	Clonazepam 500microgram tablets	40801	n	
+4080100	Clonazepam 500micrograms/5ml oral solution sugar free	40801	n	
+0408010F0AAABAB	CLONAZEPAM TABLETS 0.5MG	40801	n	
+0408010F0AAABAB	CLONAZEPAM TABLETS 500 MICROGRAMS	40801	n	
+0408010F0AAABAB	CLONAZEPAM TABLETS 500MICROGRAMS	40801	n	
+0408010F0AAACAC	Clonazepam TABS 2MG	40801	n	
+0408010F0AAABAB	Clonazepam TABS 500MICROGRAMS	40801	n	
+0407042F0AAAAAA	CLONIDINE HCL-P42 0.025mg tabs	40704	y	
+0407042F0AAAAAA	Clonidine Hydrochloride  Tablets  25 micrograms	40704	y	
+0407042F0AAAAAA	CLONIDINE HYDROCHLORIDE TABLETS 25MICROGRAMS	40704	y	
+0407042F0AAAAAA	Clonidine Hydrochloride TABLETS 25MICROGRAMS	40704	y	
+0407042F0AAAAAA	Clonidine Hydrochloride TABS 25MICROGRAMS	40704	y	
+0407042F0AAAAAA	CLONIDINE TABLETS 25MICROGRAMS	40704	y	
+0407010N0AAAAAA	CO DYDRAMOL TAB	40701	y	yes_approved
+0407010F0AAAAAA	CO-C0DAMOL TABLETS	40701	y	yes_approved
+4070200	CO-CODAMOL (codeine & paracetamol) caps 30mg + 500mg	40702	y	yes_approved
+4070200	CO-CODAMOL (codeine & paracetamol) caps 8mg+500mg	40702	y	yes_approved
+4070100	CO-CODAMOL (codeine & paracetamol) tabs 30mg + 500mg	40701	y	yes_approved
+4070200	CO-CODAMOL (codeine & paracetamol) tabs 8mg+500mg	40702	y	yes_approved
+40701	Co-Codamol 12.8/500  Tablets	40701	y	yes_approved
+40701	CO-CODAMOL 12.8MG/500MG TABLETS	40701	y	yes_approved
+4070100	Co-codamol 12.8mg/500mg tablets	40701	y	yes_approved
+40701	Co-Codamol 12.8mg/500mg TABS	40701	y	yes_approved
+40701	Co-Codamol 15/500  Capsules	40701	y	yes_approved
+40701	Co-Codamol 15/500  Effervescent Tablets Sugar Free	40701	y	yes_approved
+40701	Co-Codamol 15/500  Tablets	40701	y	yes_approved
+40701	CO-CODAMOL 15MG/500MG CAPLET TABLETS	40701	y	yes_approved
+40701	Co-Codamol 15mg/500mg Caplet TABS	40701	y	yes_approved
+4070100	Co-codamol 15mg/500mg capsules	40701	y	yes_approved
+4070100	Co-codamol 15mg/500mg effervescent tablets sugar free	40701	y	yes_approved
+4070200	Co-codamol 15mg/500mg effervescent tablets sugar free	40702	y	yes_approved
+4070100	Co-codamol 15mg/500mg tablets	40701	y	yes_approved
+4070200	Co-codamol 15mg/500mg tablets	40702	y	yes_approved
+40701	Co-Codamol 15mg/500mg TABS	40701	y	yes_approved
+0407010F0AAAHAH	Co-Codamol 30/500  Caplets	40701	y	yes_approved
+0407010F0AAADAD	Co-Codamol 30/500  Capsules	40701	y	yes_approved
+0407010F0AAAFAF	Co-Codamol 30/500  Effervescent tablets	40701	y	yes_approved
+0407010F0AAAFAF	Co-Codamol 30/500  Effervescent Tablets	40701	y	yes_approved
+0407010F0AAAHAH	Co-Codamol 30/500  Tablets	40701	y	yes_approved
+0407010F0AAAHAH	CO-CODAMOL 30/500 TABLETS 500MG PARACETAMOL-P42 0	40701	y	yes_approved
+0407010F0AAAHAH	CO-CODAMOL 30/500 TABS	40701	y	yes_approved
+0407010F0AAAHAH	CO-CODAMOL 30/500 tabs 500mg paracetamol-P42 0	40701	y	yes_approved
+0407010F0AAAFAF	CO-CODAMOL 30/500 tabs effervescent 530mg-P42 0	40701	y	yes_approved
+0407010F0AAAHAH	CO-CODAMOL 30/500MG 1	40701	y	yes_approved
+0407010F0AAADAD	CO-CODAMOL 30/500MG CAPS	40701	y	yes_approved
+0407010F0AAAHAH	CO-CODAMOL 30/500MG TABLETS	40701	y	yes_approved
+0407010F0AAAHAH	CO-CODAMOL 30MG/500MG CAPLET TABLETS	40701	y	yes_approved
+40701	CO-CODAMOL 30MG/500MG CAPLET TABLETS	40701	y	yes_approved
+0407010F0AAAHAH	Co-Codamol 30mg/500mg Caplet TABS	40701	y	yes_approved
+4070100	Co-codamol 30mg/500mg caplets (A A H Pharmaceuticals Ltd)	40701	y	yes_approved
+4070100	Co-codamol 30mg/500mg caplets (AMCo)	40701	y	yes_approved
+4070100	Co-codamol 30mg/500mg caplets (J M McGill Ltd)	40701	y	yes_approved
+4070100	Co-codamol 30mg/500mg caplets (Kent Pharmaceuticals Ltd)	40701	y	yes_approved
+4070100	Co-codamol 30mg/500mg caplets (Mawdsley-Brooks & Company ...	40701	y	yes_approved
+4070100	Co-codamol 30mg/500mg caplets (Mercury Pharma Group Ltd)	40701	y	yes_approved
+4070100	Co-codamol 30mg/500mg caplets (Waymade Healthcare Plc)	40701	y	yes_approved
+4070100	Co-codamol 30mg/500mg caplets (Wockhardt UK Ltd)	40701	y	yes_approved
+0407010F0AAADAD	Co-Codamol 30mg/500mg CAPS	40701	y	yes_approved
+0407010F0AAADAD	CO-CODAMOL 30MG/500MG CAPS	40701	y	yes_approved
+4070100	Co-codamol 30mg/500mg capsules	40701	y	yes_approved
+4070200	Co-codamol 30mg/500mg capsules	40702	y	yes_approved
+0407010F0AAAQAQ	Co-Codamol 30mg/500mg Effervescent Powder Lemon SACH	40701	y	yes_approved
+0407010F0AAAQAQ	CO-CODAMOL 30MG/500MG EFFERVESCENT POWDER LEMON SACH	40701	y	yes_approved
+0407010F0AAAFAF	CO-CODAMOL 30MG/500MG EFFERVESCENT TABLETS	40701	y	yes_approved
+4070100	Co-codamol 30mg/500mg effervescent tablets	40701	y	yes_approved
+4070200	Co-codamol 30mg/500mg effervescent tablets	40702	y	yes_approved
+0407010F0AAAFAF	Co-Codamol 30mg/500mg Effervescent TABS	40701	y	yes_approved
+4070100	Co-codamol 30mg/500mg tablets	40701	y	yes_approved
+0407010F0AAAHAH	CO-CODAMOL 30MG/500MG TABLETS	40701	y	yes_approved
+4070200	Co-codamol 30mg/500mg tablets	40702	y	yes_approved
+0407010F0AAAHAH	Co-codamol 30mg/500mg tablets	40701	y	yes_approved
+0407010F0AAAHAH	Co-Codamol 30mg/500mg TABS	40701	y	yes_approved
+0407010F0AAABAB	Co-Codamol 8/500  Capsules	40701	y	yes_approved
+0407010F0AAAAAA	Co-Codamol 8/500  Dispersible tablets	40701	y	yes_approved
+0407010F0AAAAAA	Co-Codamol 8/500  Dispersible Tablets	40701	y	yes_approved
+0407010F0AAAAAA	Co-Codamol 8/500  Tablets	40701	y	yes_approved
+0407010F0AAACAC	Co-Codamol 8/500 Effervescent  Tablets	40701	y	yes_approved
+0407010F0AAAAAA	CO-CODAMOL 8/500MG TABLETS	40701	y	yes_approved
+4070100	Co-codamol 8mg/500mg caplets (Actavis UK Ltd)	40701	y	yes_approved
+4070100	Co-codamol 8mg/500mg caplets (DE Pharmaceuticals)	40701	y	yes_approved
+4070100	Co-codamol 8mg/500mg caplets (Doncaster Pharmaceuticals Ltd)	40701	y	yes_approved
+4070100	Co-codamol 8mg/500mg caplets (Vantage)	40701	y	yes_approved
+0407010F0AAABAB	Co-Codamol 8mg/500mg CAPS	40701	y	yes_approved
+0407010F0AAABAB	CO-CODAMOL 8MG/500MG CAPS	40701	y	yes_approved
+4070200	Co-codamol 8mg/500mg capsules	40702	y	yes_approved
+4070100	Co-codamol 8mg/500mg capsules	40701	y	yes_approved
+0407010F0AAACAC	CO-CODAMOL 8MG/500MG EFFERVESCENT TABLETS	40701	y	yes_approved
+4070100	Co-codamol 8mg/500mg effervescent tablets	40701	y	yes_approved
+4070200	Co-codamol 8mg/500mg effervescent tablets	40702	y	yes_approved
+0407010F0AAACAC	Co-Codamol 8mg/500mg Effervescent TABS	40701	y	yes_approved
+4070100	Co-codamol 8mg/500mg tablets	40701	y	yes_approved
+0407010F0AAAAAA	CO-CODAMOL 8MG/500MG TABLETS	40701	y	yes_approved
+4070200	Co-codamol 8mg/500mg tablets	40702	y	yes_approved
+0407010F0AAAAAA	Co-Codamol 8mg/500mg TABS	40701	y	yes_approved
+0407010F0AAAHAH	CO-CODAMOL CAPLET 30/500MG CAPLET	40701	y	yes_approved
+0407010F0AAAAAA	CO-CODAMOL DISP TABLETS 8MG+500MG	40701	y	yes_approved
+0407010F0AAAAAA	CO-CODAMOL DISPERSIBLE TABLETS 8MG+500MG	40701	y	yes_approved
+0407010F0AAAFAF	CO-CODAMOL EFF 30MG/500MG TAB TAB-P42 0	40701	y	yes_approved
+0407010F0AAAAAA	CO-CODAMOL TABLETS	40701	y	yes_approved
+40701	CO-CODAMOL TABLETS 15MG + 500MG	40701	y	yes_approved
+0407010F0AAAAAA	CO-CODAMOL TABLETS 8/500-P42 0	40701	y	yes_approved
+0407010F0AAAAAA	CO-CODAMOL TABLETS 8/500MG	40701	y	yes_approved
+0407010F0AAAAAA	CO-CODAMOL TABLETS 8MG+500MG	40701	y	yes_approved
+0407010F0AAAHAH	CO-CODAMOL tablets TAB 30mg+500mg-P42 0	40701	y	yes_approved
+4070200	CO-CODAMOL tabs 15mg + 500mg	40702	y	yes_approved
+0407010F0AAAAAA	CO-CODAMOL-P42 TABLETS DISP	40701	y	yes_approved
+0407010M0AAABAB	Co-Codaprin 8mg/400mg Dispersible TABS	40701	y	yes_approved
+0407010M0AAABAB	Co-Codaprin Dispersible  Tablets	40701	y	yes_approved
+0407010N0AAAAAA	Co-Dydramol  Tablets	40701	y	yes_approved
+0407010N0AAAAAA	Co-Dydramol 10/500  Tablets	40701	y	yes_approved
+0407010N0AAAAAA	CO-DYDRAMOL 10MG/500MG TABLETS	40701	y	yes_approved
+4070100	Co-dydramol 10mg/500mg tablets	40701	y	yes_approved
+4070200	Co-dydramol 10mg/500mg tablets	40702	y	yes_approved
+0407010N0AAAAAA	Co-Dydramol 10mg/500mg TABS	40701	y	yes_approved
+40701	CO-DYDRAMOL 20MG/500MG TABLETS	40701	y	yes_approved
+0407010X0BIAAAH	CO-DYDRAMOL 20MG/500MG TABLETS	40701	y	yes_approved
+40701	Co-Dydramol 20mg/500mg TABS	40701	y	yes_approved
+40701	CO-DYDRAMOL 30MG/500MG TABLETS	40701	y	yes_approved
+0407010X0BIABAI	CO-DYDRAMOL 30MG/500MG TABLETS	40701	y	yes_approved
+40701	Co-Dydramol 30mg/500mg TABS	40701	y	yes_approved
+0407010N0AAAAAA	CO-DYDRAMOL TABLET	40701	y	yes_approved
+0407010N0AAAAAA	CO-DYDRAMOL TABLETS	40701	y	yes_approved
+0407010N0AAAAAA	CO-DYDRAMOL TABLETS 10MG+500MG	40701	y	yes_approved
+0407010N0AAAAAA	CO-DYDRAMOL TABS	40701	y	yes_approved
+4070100	CO-DYDRAMOL tabs 10mg+500mg	40701	y	yes_approved
+0407010Q0AAAAAA	Co-Proxamol  Tablets	40701	y	yes_approved
+0407010Q0AAAAAA	CO-PROXAMOL 32.5MG/325MG TABLETS	40701	y	yes_approved
+4070100	Co-proxamol 32.5mg/325mg tablets	40701	y	yes_approved
+0407010Q0AAAAAA	Co-Proxamol 32.5mg/325mg TABS	40701	y	yes_approved
+0407010Q0AAAAAA	CO-PROXAMOL TABLET	40701	y	yes_approved
+0407010Q0AAAAAA	CO-PROXAMOL TABLETS	40701	y	yes_approved
+0407010Q0AAAAAA	CO-PROXAMOL TABLETS 32.5/325	40701	y	yes_approved
+0407010Q0AAAAAA	CO-PROXAMOL TABLETS 32.5MG + 325MG	40701	y	yes_approved
+0407010Q0AAAAAA	CO-PROXAMOL TABLETS 325MG+32.5MG	40701	y	yes_approved
+0407010Q0AAAAAA	CO-PROXAMOL tablets TAB 32.5mg+325mg-P42 0	40701	y	yes_approved
+0407010Q0AAAAAA	CO-PROXAMOL TABLETS TABLETS	40701	y	yes_approved
+0407010Q0AAAAAA	CO-PROXAMOL TABS	40701	y	yes_approved
+4070100	CO-PROXAMOL tabs 32.5mg + 325mg	40701	y	yes_approved
+0407010Q0AAAAAA	Co-proxamol-P42 tablet	40701	y	yes_approved
+0407010Q0AAAAAA	CO-PROXAMOL-P42 TABLET	40701	y	yes_approved
+0407010Q0AAAAAA	CO-PROXAMOL-P42 tabs	40701	y	yes_approved
+0407010F0AAAAAA	COCODAMOL 8/500G TABLETS	40701	y	yes_approved
+0407010F0AAAAAA	COCODAMOL DISP. 8/500 TABLET	40701	y	yes_approved
+0407010F0AAAAAA	COCODAMOL DISPERSIBLE 8/500MG TABLETS	40701	y	yes_approved
+0407010F0AAACAC	COCODAMOL EFFERVESCENT COCODAMOL EFFER	40701	y	yes_approved
+0407010F0AAAAAA	COCODAMOL TABLETS	40701	y	yes_approved
+1001010J0B8AAAR	CODAFEN CONTINUS TABLETS	100101	y	yes_approved
+1001010J0B8AAAR	Codafen Continus TABS	100101	y	yes_approved
+4070200	Codeine 15mg tablets	40702	y	yes_approved
+4070200	Codeine 25mg/5ml oral solution	40702	y	yes_approved
+4070200	Codeine 30mg tablets	40702	y	yes_approved
+4070200	Codeine 60mg tablets	40702	y	yes_approved
+0407020C0AAABAB	Codeine Phosphate  Syrup  25 mg/5 ml	40702	y	yes_approved
+0407020C0AAADAD	Codeine Phosphate  Tablets  15 mg	40702	y	yes_approved
+0407020C0AAAEAE	Codeine Phosphate  Tablets  30 mg	40702	y	yes_approved
+0407020C0AAAFAF	Codeine Phosphate  Tablets  60 mg	40702	y	yes_approved
+0407020C0AAABAB	Codeine Phosphate Oral SOLN 25MG/5ML	40702	y	yes_approved
+0407020C0AAABAB	CODEINE PHOSPHATE SYRUP 25MG/5ML	40702	y	yes_approved
+0407020C0AAADAD	CODEINE PHOSPHATE TABLETS 15MG	40702	y	yes_approved
+0407020C0AAAEAE	CODEINE PHOSPHATE TABLETS 30MG	40702	y	yes_approved
+0407020C0AAAEAE	Codeine Phosphate TABLETS 30MG	40702	y	yes_approved
+0407020C0AAAFAF	CODEINE PHOSPHATE TABLETS 60MG	40702	y	yes_approved
+0407020C0AAADAD	Codeine Phosphate TABS 15MG	40702	y	yes_approved
+0407020C0AAAEAE	Codeine Phosphate TABS 30MG	40702	y	yes_approved
+0407020C0AAAFAF	Codeine Phosphate TABS 60MG	40702	y	yes_approved
+0407020C0AAAEAE	Codeine phosphate-P42 30mg tablet	40702	y	yes_approved
+0407020C0AAAEAE	CODEINE PHOSPHATE-P42 30MG TABLET	40702	y	yes_approved
+0407020C0AAAEAE	CODEINE PHOSPHATE-P42 30MG TABLETS	40702	y	yes_approved
+0407020C0AAAFAF	Codeine phosphate-P42 60mg tablet	40702	y	yes_approved
+4070200	Codipar 15mg/500mg caplets (Mercury Pharma Group Ltd)	40702	y	yes_approved
+4070100	Codipar 15mg/500mg capsules (Mercury Pharma Group Ltd)	40701	y	yes_approved
+4070100	Codipar 15mg/500mg effervescent tablets (AMCo)	40701	y	yes_approved
+4070200	Codipar 15mg/500mg tablets (AMCo)	40702	y	yes_approved
+4070100	Codipar 15mg/500mg tablets (Mercury Pharma Group Ltd)	40701	y	yes_approved
+4070200	Codipar 15mg/500mg tablets (Mercury Pharma Group Ltd)	40702	y	yes_approved
+0407010N0AAAAAA	CODYDRAMOL TAB	40701	y	yes_approved
+0407010N0AAAAAA	CODYDRAMOL TABLETS	40701	y	yes_approved
+1001010P0BQAAAU	Condrotec TABS	100101	y	yes_approved
+0407010Q0AAAAAA	COPROXAMOL 32.5MG/325MG TAB	40701	y	yes_approved
+0407010Q0AAAAAA	COPROXAMOL TABLET	40701	y	yes_approved
+0407010Q0AAAAAA	COPROXAMOL TABLETS	40701	y	yes_approved
+0407010Q0AAAAAA	COPROXAMOL TABS	40701	y	yes_approved
+100101	Cuprofen Plus  Tablets	100101	y	yes_approved
+40304	Cymbalta  Gastro-resistant Capsules  30 mg	40304	y	
+4030400	Cymbalta 60mg gastro-resistant capsules (Eli Lilly and Co...	40304	y	
+100302	Deep Freeze Cold  Gel  2 %	100302	n	
+100302	Deep Freeze Cold GEL 2%	100302	n	
+100302	Deep Heat Maximum Strength  Cream	100302	n	
+10030200	Deep Heat Maximum Strength cream (The Mentholatum Company...	100302	n	
+1003020P0BEAAAC	Deep Relief  Gel	100302	n	
+10010100	Dexibuprofen 300mg tablets	100101	y	yes_approved
+100101	DEXIBUPROFEN TABLETS 300MG	100101	y	yes_approved
+100101	DEXKETOPROFEN TABLETS 25MG	100101	y	yes_approved
+100101	Dexketoprofen TABS 25MG	100101	y	yes_approved
+100101	Dexketoprofen Trometamol  Tablets  25 mg	100101	y	yes_approved
+0407020G0BBACAF	Dhc Continus  M/R tablets  120 mg	40702	y	yes_approved
+0407020G0BBAAAD	Dhc Continus  M/R tablets  60 mg	40702	y	yes_approved
+0407020G0BBAAAD	Dhc Continus  M/R Tablets  60 mg	40702	y	yes_approved
+0407020G0BBABAE	Dhc Continus  M/R tablets  90 mg	40702	y	yes_approved
+4070200	DHC Continus 120mg tablets (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+4070200	DHC Continus 60mg tablets (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+4070200	DHC Continus 90mg tablets (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+0407020G0BBACAF	DHC CONTINUS TABLETS 120MG	40702	y	yes_approved
+0407020G0BBAAAD	DHC CONTINUS TABLETS 60MG	40702	y	yes_approved
+0407020G0BBABAE	DHC CONTINUS TABLETS 90MG	40702	y	yes_approved
+0407020G0BBACAF	Dhc Continus TABS 120MG	40702	y	yes_approved
+0407020G0BBAAAD	Dhc Continus TABS 60MG	40702	y	yes_approved
+4070200	DHC CONTINUS tabs 60mg	40702	y	yes_approved
+0407020G0BBABAE	Dhc Continus TABS 90MG	40702	y	yes_approved
+0407020G0BBAAAD	Dhc continus-P42 60mg tablet	40702	y	yes_approved
+4070200	Diamorphine 100mg powder for solution for injection ampoules	40702	y	yes_approved
+4070200	Diamorphine 10mg powder for solution for injection ampoules	40702	y	yes_approved
+4070200	Diamorphine 10mg powder for solution for injection vials	40702	y	yes_approved
+4070200	Diamorphine 30mg powder for solution for injection ampoules	40702	y	yes_approved
+4070200	Diamorphine 5mg powder for solution for injection ampoules	40702	y	yes_approved
+4070200	Diamorphine 5mg powder for solution for injection vials	40702	y	yes_approved
+0407020K0AAABAB	Diamorphine Hydrochloride  Injection  10mg/amp	40702	y	yes_approved
+0407020K0AAAEAE	Diamorphine Hydrochloride  Injection  30mg/amp	40702	y	yes_approved
+0407020K0AAAAAA	Diamorphine Hydrochloride  Injection  5mg/amp	40702	y	yes_approved
+100302	Diclofenac  Cutaneous Spray  4 %	100302	n	
+100302	Diclofenac  Medicated Plaster  1 % Patch	100302	y	
+100101	DICLOFENAC  TABLETS 50MG TABLETS	100101	y	yes_approved
+10030250	Diclofenac 1.16% gel	100302	n	
+10030250	Diclofenac 1% gel	100302	n	
+1001010C0AAAFAF	DICLOFENAC 100 MGS 100 MGS.	100101	y	yes_approved
+1001010C0AAAFAF	DICLOFENAC 100MG	100101	y	yes_approved
+10010100	Diclofenac 100mg suppositories	100101	y	yes_approved
+10030250	Diclofenac 16mg/ml topical solution	100302	n	yes_approved
+10030250	Diclofenac 2.32% gel	100302	n	
+10030250	Diclofenac 2% gel	100302	n	
+10010100	Diclofenac 25mg suppositories	100101	y	yes_approved
+100101	DICLOFENAC 50 MG TAB	100101	y	yes_approved
+100101	DICLOFENAC 50/MISOPROSTOL 200 TAB.	100101	y	yes_approved
+100101	DICLOFENAC 50MG	100101	y	yes_approved
+10010100	Diclofenac 50mg dispersible tablets sugar free	100101	y	yes_approved
+100101	DICLOFENAC 50MG EC TAB	100101	y	yes_approved
+10010100	Diclofenac 50mg suppositories	100101	y	yes_approved
+100101	DICLOFENAC 50MG TAB	100101	y	yes_approved
+1001010C0AAAEAE	DICLOFENAC 50MG TABLETS	100101	y	yes_approved
+100101	DICLOFENAC 50MG tabs	100101	y	yes_approved
+1001010C0AAARAR	DICLOFENAC 75MG DR CAPS DUAL-RELEASE CAP	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC 75MG TAB	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC 75MG TABLETS SR	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC 75MG TABS	100101	y	yes_approved
+10010100	Diclofenac 75mg/3ml solution for injection ampoules	100101	y	yes_approved
+100101	DICLOFENAC 75MG/MISOPROSTOL200 COMBINATION TABLETS	100101	y	yes_approved
+100101	Diclofenac And Misoprostol  Tablets  50 mg + 200 micrograms	100101	y	yes_approved
+100101	Diclofenac And Misoprostol  Tablets  75 mg + 200 micrograms	100101	y	yes_approved
+1001010C0AAAWAW	DICLOFENAC CAPSULES 75MG DR	100101	y	yes_approved
+1003020U0AAAAAA	Diclofenac Diethylammonium  Gel  1.16 %	100302	n	
+100302	Diclofenac Diethylammonium  Gel  2.32 %	100302	n	
+1001010C0AAARAR	diclofenac dual release CAPS 75	100101	y	yes_approved
+1001010C0AAARAR	DICLOFENAC DUAL RELEASE CAPSULES 75 MG	100101	y	yes_approved
+100101	DICLOFENAC EC 50MG TABLET	100101	y	yes_approved
+100101	DICLOFENAC ENTERIC COATED TABLETS 50MG	100101	y	yes_approved
+1003020U0AAAAAA	DICLOFENAC GEL 1.16%	100302	n	
+1003020U0AAAAAA	DICLOFENAC GEL 1%	100302	n	
+1001010C0AAAFAF	DICLOFENAC MODIFIED RELEASE TABLETS 100MG	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC MR 75MG TABS	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC MR TAB 75-P42 0	100101	y	yes_approved
+100101	Diclofenac Potassium  Tablets  25 mg	100101	y	yes_approved
+100101	Diclofenac Potassium  Tablets  50 mg	100101	y	yes_approved
+10010100	Diclofenac potassium 25mg tablets	100101	y	yes_approved
+10010100	Diclofenac potassium 50mg tablets	100101	y	yes_approved
+100101	DICLOFENAC POTASSIUM TABLETS 25MG	100101	y	yes_approved
+100101	DICLOFENAC POTASSIUM TABLETS 50MG	100101	y	yes_approved
+100101	Diclofenac Potassium TABLETS 50MG	100101	y	yes_approved
+100101	Diclofenac Potassium TABS 25MG	100101	y	yes_approved
+100101	Diclofenac Potassium TABS 50MG	100101	y	yes_approved
+1001010C0AAAFAF	Diclofenac Retard  Tablets  100 mg	100101	y	yes_approved
+1001010C0AAAFAF	DICLOFENAC RETARD 100 MG	100101	y	yes_approved
+1001010C0AAAFAF	DICLOFENAC RETARD 100MG TAB	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC RETARD 75MG TABLET	100101	y	yes_approved
+1001010C0AAAFAF	DICLOFENAC RETARD TABS 100MG	100101	y	yes_approved
+100101	DICLOFENAC SOD 25MG TAB	100101	y	yes_approved
+100302	Diclofenac Sodium  Cutaneous Solution  16 mg/ml	100302	y	
+1001010C0AAAJAJ	Diclofenac Sodium  Dispersible Tablets  50 mg	100101	y	yes_approved
+1001010C0AAAJAJ	Diclofenac Sodium  Dispersible tablets  50 mg	100101	y	yes_approved
+1001010C0AAAJAJ	Diclofenac Sodium  Dispersible tablets  Sugar Free 50 mg	100101	y	yes_approved
+1001010C0AAARAR	Diclofenac Sodium  E/C  M/R capsules  75 mg	100101	y	yes_approved
+1001010C0AAARAR	Diclofenac Sodium  E/C  M/R Capsules  75 mg	100101	y	yes_approved
+100101	Diclofenac Sodium  E/c tablets  25 mg	100101	y	yes_approved
+100101	Diclofenac Sodium  E/C Tablets  25 mg	100101	y	yes_approved
+100101	Diclofenac Sodium  E/c tablets  50 mg	100101	y	yes_approved
+100101	Diclofenac Sodium  E/C Tablets  50 mg	100101	y	yes_approved
+1001010C0AAAAAA	Diclofenac Sodium  Injection  25 mg/ml  3 ml ampoule	100101	y	yes_approved
+1001010C0AAANAN	Diclofenac Sodium  M/R Capsules  100 mg	100101	y	yes_approved
+1001010C0AAANAN	Diclofenac Sodium  M/R capsules  100 mg	100101	y	yes_approved
+1001010C0AAAWAW	Diclofenac Sodium  M/R Capsules  75 mg	100101	y	yes_approved
+1001010C0AAAWAW	Diclofenac Sodium  M/R capsules  75 mg	100101	y	yes_approved
+1001010C0AAAFAF	Diclofenac Sodium  M/R Tablets  100 mg	100101	y	yes_approved
+1001010C0AAAFAF	Diclofenac Sodium  M/R tablets  100 mg	100101	y	yes_approved
+1001010C0AAALAL	Diclofenac Sodium  M/R Tablets  75 mg	100101	y	yes_approved
+1001010C0AAALAL	Diclofenac Sodium  M/R tablets  75 mg	100101	y	yes_approved
+1001010C0AAACAC	Diclofenac Sodium  Suppositories  100 mg	100101	y	yes_approved
+1001010C0AAAUAU	Diclofenac Sodium  Suppositories  50 mg	100101	y	yes_approved
+1001010C0AAADAD	Diclofenac Sodium  Tablets  25 mg	100101	y	yes_approved
+1001010C0AAAEAE	Diclofenac Sodium  Tablets  50 mg	100101	y	yes_approved
+10010100	Diclofenac sodium 100mg modified-release capsules	100101	y	yes_approved
+10010100	Diclofenac sodium 100mg modified-release tablets	100101	y	yes_approved
+1001010C0AAAFAF	DICLOFENAC SODIUM 100MG TAB RETARD	100101	y	yes_approved
+100101	DICLOFENAC SODIUM 25 MGM TAB	100101	y	yes_approved
+10010100	Diclofenac sodium 25mg gastro-resistant tablets	100101	y	yes_approved
+100101	DICLOFENAC SODIUM 50 MG TABLET	100101	y	yes_approved
+10010100	Diclofenac sodium 50mg gastro-resistant / Misoprostol 200...	100101	y	yes_approved
+10010100	Diclofenac sodium 50mg gastro-resistant tablets	100101	y	yes_approved
+100101	DICLOFENAC SODIUM 50MG TABS	100101	y	yes_approved
+1001010C0AAARAR	DICLOFENAC SODIUM 75MG DUAL RELEASE CAPS	100101	y	yes_approved
+10010100	Diclofenac sodium 75mg gastro-resistant modified-release ...	100101	y	yes_approved
+10010100	Diclofenac sodium 75mg modified-release capsules	100101	y	yes_approved
+10010100	Diclofenac sodium 75mg modified-release tablets	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SODIUM 75MG SR TAB	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SODIUM 75MG SR TABLET	100101	y	yes_approved
+1001010C0AAALAL	diclofenac sodium 75mg sr tabs	100101	y	yes_approved
+1001010C0AAAAAA	DICLOFENAC SODIUM AMP 3ML INJ 25MG/ML	100101	y	yes_approved
+1003020U0AAAAAA	Diclofenac Sodium Aqueous GEL 1%	100302	n	
+1003020U0AAAAAA	DICLOFENAC SODIUM AQUEOUS GEL 1%	100302	n	
+1001010C0AAAJAJ	DICLOFENAC SODIUM DISPERSIBLE TABLETS 50MG	100101	y	yes_approved
+1001010C0AAAJAJ	Diclofenac Sodium Dispersible TABLETS 50MG	100101	y	yes_approved
+1001010C0AAAJAJ	Diclofenac Sodium Dispersible TABS 50MG	100101	y	yes_approved
+10010100	DICLOFENAC SODIUM ec tab 50mg	100101	y	yes_approved
+100101	DICLOFENAC SODIUM EC TABLETS 25MG	100101	y	yes_approved
+100101	Diclofenac Sodium Ec TABLETS 25MG	100101	y	yes_approved
+100101	DICLOFENAC SODIUM EC TABLETS 50MG	100101	y	yes_approved
+100101	Diclofenac Sodium Ec TABLETS 50MG	100101	y	yes_approved
+100101	Diclofenac Sodium Ec TABS 25MG	100101	y	yes_approved
+100101	Diclofenac Sodium Ec TABS 50MG	100101	y	yes_approved
+100101	DICLOFENAC SODIUM ENTERIC COATED TABLETS 25MG	100101	y	yes_approved
+100101	DICLOFENAC SODIUM ENTERIC COATED TABLETS 50MG	100101	y	yes_approved
+1001010C0AAANAN	Diclofenac Sodium Mr CAPS 100MG	100101	y	yes_approved
+1001010C0AAAWAW	Diclofenac Sodium Mr CAPS 75MG	100101	y	yes_approved
+1001010C0AAANAN	DICLOFENAC SODIUM MR CAPSULES 100MG	100101	y	yes_approved
+1001010C0AAAWAW	DICLOFENAC SODIUM MR CAPSULES 75MG	100101	y	yes_approved
+1001010C0AAAWAW	Diclofenac Sodium Mr CAPSULES 75MG	100101	y	yes_approved
+10010100	DICLOFENAC SODIUM mr tab 100mg	100101	y	yes_approved
+1001010C0AAAFAF	DICLOFENAC SODIUM MR TABLETS 100MG	100101	y	yes_approved
+1001010C0AAAFAF	Diclofenac Sodium Mr TABLETS 100MG	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SODIUM MR TABLETS 75MG	100101	y	yes_approved
+1001010C0AAAFAF	Diclofenac Sodium Mr TABS 100MG	100101	y	yes_approved
+1001010C0AAALAL	Diclofenac Sodium Mr TABS 75MG	100101	y	yes_approved
+1003020U0AAAAAA	Diclofenac Sodium P Aqueous GEL 1%	100302	n	
+1001010C0AAALAL	DICLOFENAC SODIUM SR 75MG TABS	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SODIUM SR TABLETS 75 MG	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SODIUM SR TABLETS 75MG	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SODIUM SR TABLETS 75MG TAB 28	100101	y	yes_approved
+1001010C0AAACAC	DICLOFENAC SODIUM SUPPS 100MG	100101	y	yes_approved
+1001010C0AAACAC	Diclofenac Sodium SUPPS 100MG	100101	y	yes_approved
+1001010C0AAATAT	DICLOFENAC SODIUM SUPPS 25MG	100101	y	yes_approved
+1001010C0AAATAT	Diclofenac Sodium SUPPS 25MG	100101	y	yes_approved
+1001010C0AAAUAU	Diclofenac Sodium SUPPS 50MG	100101	y	yes_approved
+1001010C0AAAUAU	DICLOFENAC SODIUM SUPPS 50MG	100101	y	yes_approved
+100101	DICLOFENAC SODIUM TABLET 50MG	100101	y	yes_approved
+1001010C0AAAEAE	DICLOFENAC SODIUM TABLETS 50MG	100101	y	yes_approved
+100101	DICLOFENAC SODIUM TABLETS DICLOFENAC 50MG	100101	y	yes_approved
+100101	DICLOFENAC SODIUM TABS 50MG	100101	y	yes_approved
+100302	Diclofenac Sodium Topical SOL 16MG/ML	100302	n	
+100302	DICLOFENAC SODIUM TOPICAL SOLUTION 16MG/ML	100302	n	
+1001010C0AAANAN	DICLOFENAC SR 100 MGM	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SR 75 MGM TABLET	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SR 75MG	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SR 75MG TAB	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SR 75MG TABLET	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SR 75MG TABLETS	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SR 75MG TABS	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SR 75MGS	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SR MG 75	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SR TABLETS 75MG	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC SR TABS 75MG	100101	y	yes_approved
+100101	DICLOFENAC TABLETS 50MG	100101	y	yes_approved
+1001010C0AAAEAE	DICLOFENAC TABLETS 50MG-P42 0	100101	y	yes_approved
+1001010C0AAALAL	DICLOFENAC TABLETS 75MG SR	100101	y	yes_approved
+100101	DICLOFENAC tablets TAB 50mg-P42 0	100101	y	yes_approved
+100101	Diclofenac-P42 50mg tab EC	100101	y	yes_approved
+1001010C0AAALAL	Diclofenac-P42 75mg Tab Sr	100101	y	yes_approved
+10010100	Dicloflex 50mg gastro-resistant tablets (Dexcel-Pharma Ltd)	100101	y	yes_approved
+10010100	Dicloflex 75mg SR tablets (Dexcel-Pharma Ltd)	100101	y	yes_approved
+1001010C0BQABAE	DICLOFLEX EC TABLETS 50MG	100101	y	yes_approved
+10010100	Dicloflex Retard 100mg tablets (Almus Pharmaceuticals Ltd)	100101	y	yes_approved
+1001010C0BQACAF	Dicloflex Retard TABS 100MG	100101	y	yes_approved
+100101	Dicloflex Sr  M/R tablets  75 mg	100101	y	yes_approved
+100101	DICLOFLEX SR TABLETS 75MG	100101	y	yes_approved
+100101	Dicloflex Sr TABS 75MG	100101	y	yes_approved
+10010100	Diclomax Retard 100mg capsules (Galen Ltd)	100101	y	yes_approved
+1001010C0BMAAAN	Diclomax Retard CAPS 100MG	100101	y	yes_approved
+1001010C0BMAAAN	DICLOMAX RETARD CAPSULES 100MG	100101	y	yes_approved
+1001010C0BMABAW	Diclomax Sr  M/R capsules  75 mg	100101	y	yes_approved
+10010100	Diclomax SR 75mg capsules (Galen Ltd)	100101	y	yes_approved
+1001010C0BMABAW	Diclomax Sr CAPS 75MG	100101	y	yes_approved
+1001010C0BMABAW	DICLOMAX SR CAPSULES 75MG	100101	y	yes_approved
+0407020H0BBAAAB	Diconal  Tablets	40702	y	yes_approved
+1003020I0AAAAAA	Diethylamine Salicylate  Cream  10 %	100302	n	
+10030250	Diethylamine salicylate 10% cream	100302	n	
+1003020I0AAAAAA	DIETHYLAMINE SALICYLATE CREAM 10%	100302	n	
+1003020I0AAAAAA	Diethylamine Salicylate CREAM 10%	100302	n	
+1003020F0BBAAAA	Difflam  Cream  3 %	100302	n	
+1003020F0BBAAAA	DIFFLAM CREAM 3%	100302	n	
+1003020F0BBAAAA	Difflam CREAM 3%	100302	n	
+1003020F0BBAAAA	DIFFLAM P CREAM 3%	100302	n	
+1003020F0BBAAAA	Difflam P CREAM 3%	100302	n	
+0407020G0AAAAAA	Dihydrocodeine  Elixir  10mg/5 ml	40702	y	yes_approved
+0407020G0AAACAC	Dihydrocodeine  Tablets  30 mg	40702	y	yes_approved
+4070200	Dihydrocodeine 120mg modified-release tablets	40702	y	yes_approved
+0407020G0AAACAC	DIHYDROCODEINE 30MG TAB	40702	y	yes_approved
+4070200	Dihydrocodeine 30mg tablets	40702	y	yes_approved
+4070200	Dihydrocodeine 40mg tablets	40702	y	yes_approved
+4070200	Dihydrocodeine 60mg modified-release tablets	40702	y	yes_approved
+4070200	Dihydrocodeine 90mg modified-release tablets	40702	y	yes_approved
+4070200	DIHYDROCODEINE tabs 30mg	40702	y	yes_approved
+0407020G0AAAFAF	Dihydrocodeine Tartrate  M/R tablets  120 mg	40702	y	yes_approved
+0407020G0AAADAD	Dihydrocodeine Tartrate  M/R tablets  60 mg	40702	y	yes_approved
+0407020G0AAADAD	Dihydrocodeine Tartrate  M/R Tablets  60 mg	40702	y	yes_approved
+0407020G0AAAEAE	Dihydrocodeine Tartrate  M/R tablets  90 mg	40702	y	yes_approved
+0407020G0AAACAC	Dihydrocodeine Tartrate  Tablets  30 mg	40702	y	yes_approved
+0407020G0AAAIAI	Dihydrocodeine Tartrate  Tablets  40 mg	40702	y	yes_approved
+0407020G0AAAFAF	DIHYDROCODEINE TARTRATE MR TABLETS 120MG	40702	y	yes_approved
+0407020G0AAADAD	DIHYDROCODEINE TARTRATE MR TABLETS 60MG	40702	y	yes_approved
+0407020G0AAAEAE	DIHYDROCODEINE TARTRATE MR TABLETS 90MG	40702	y	yes_approved
+0407020G0AAAFAF	Dihydrocodeine Tartrate Mr TABS 120MG	40702	y	yes_approved
+0407020G0AAADAD	Dihydrocodeine Tartrate Mr TABS 60MG	40702	y	yes_approved
+0407020G0AAAEAE	Dihydrocodeine Tartrate Mr TABS 90MG	40702	y	yes_approved
+0407020G0AAACAC	DIHYDROCODEINE TARTRATE TABLETS 30MG	40702	y	yes_approved
+0407020G0AAACAC	Dihydrocodeine Tartrate TABLETS 30MG	40702	y	yes_approved
+0407020G0AAAIAI	DIHYDROCODEINE TARTRATE TABLETS 40MG	40702	y	yes_approved
+0407020G0AAAIAI	Dihydrocodeine Tartrate TABLETS 40MG	40702	y	yes_approved
+0407020G0AAACAC	Dihydrocodeine Tartrate TABS 30MG	40702	y	yes_approved
+0407020G0AAAIAI	Dihydrocodeine Tartrate TABS 40MG	40702	y	yes_approved
+0407020G0AAACAC	Dihydrocodeine-P42 30mg tablet	40702	y	yes_approved
+0407042F0BBAAAA	Dixarit  Tablets  25 micrograms	40704	n	
+4070402	Dixarit 25microgram tablets (Boehringer Ingelheim Ltd)	40704	n	
+0407042F0BBAAAA	DIXARIT TABLETS 25MICROGRAMS	40704	n	
+0407042F0BBAAAA	Dixarit TABS 25MICROGRAMS	40704	n	
+0407042F0BBAAAA	DIXARIT-P42 0.025mg tabs	40704	n	
+0407041A0BHAAAI	DOMPERAMOL TABLETS	40704	n	
+0407041A0BHAAAI	Domperamol TABS	40704	n	
+40301	Dosulepin  Capsules  25 mg	40301	n	
+40301	Dosulepin  Tablets  75 mg	40301	n	
+4030100	Dosulepin 25mg capsules	40301	n	
+4030100	Dosulepin 75mg tablets	40301	n	
+4030100	DOSULEPIN caps 25mg	40301	n	
+40301	Dosulepin Hydrochloride CAPS 25MG	40301	n	
+40301	DOSULEPIN HYDROCHLORIDE CAPSULES 25MG	40301	n	
+40301	DOSULEPIN HYDROCHLORIDE TABLETS 75MG	40301	n	
+40301	Dosulepin Hydrochloride TABLETS 75MG	40301	n	
+40301	Dosulepin Hydrochloride TABS 75MG	40301	n	
+4030100	DOSULEPIN tabs 75mg	40301	n	
+40301	Dothiepin hcl-P42 25mg capsule	40301	n	
+40301	DOTHIEPIN HCL-P42 25MG CAPSULE	40301	n	
+40301	DOTHIEPIN HCL-P42 75MG TABLET	40301	n	
+0403010J0AAAAAA	Dothiepin Hydrochloride  Capsules  25 mg	40301	n	
+0403010J0AAAIAI	Dothiepin Hydrochloride  Tablets  75 mg	40301	n	
+40301	DOTHIEPIN-P42 75mg tabs	40301	n	
+0403010L0AAABAB	Doxepin  Capsules  25 mg	40301	n	
+0403010L0AAACAC	Doxepin  Capsules  50 mg	40301	n	
+4030100	Doxepin 25mg capsules	40301	n	
+4030100	Doxepin 50mg capsules	40301	n	
+0403010L0AAABAB	Doxepin CAPS 25MG	40301	n	
+0403010L0AAAAAA	DOXEPIN CAPSULES 10MG	40301	n	
+0403010L0AAABAB	DOXEPIN CAPSULES 25MG	40301	n	
+0403010L0AAACAC	DOXEPIN CAPSULES 50MG	40301	n	
+0403010L0AAABAB	DOXEPIN-P42 25MG CAP	40301	n	
+40304	Duloxetine  Gastro-resistant Capsules  30 mg	40304	y	
+40304	Duloxetine  Gastro-Resistant Capsules  30 mg	40304	y	
+40304	Duloxetine  Gastro-resistant Capsules  60 mg	40304	y	
+40304	Duloxetine  Gastro-Resistant Capsules  60 mg	40304	y	
+4030400	Duloxetine 30mg gastro-resistant capsules	40304	y	
+4030400	Duloxetine 60mg gastro-resistant capsules	40304	y	
+40304	Duloxetine CAPS 30mg	40304	y	
+40304	Duloxetine CAPS 60mg	40304	y	
+40304	DULOXETINE CAPSULES 60MG	40304	y	
+40304	Duloxetine Gastro Resistant CAPS 30MG	40304	y	
+40304	Duloxetine Gastro Resistant CAPS 60MG	40304	y	
+40304	DULOXETINE GASTRO RESISTANT CAPSULES 30MG	40304	y	
+40304	DULOXETINE GASTRO RESISTANT CAPSULES 60MG	40304	y	
+0407020A0BBAAAE	Durogesic 25 25 Micrograms/Hour PATCH	40702	y	yes_approved
+40702	Durogesic Dtrans  Transdermal patches  100 micrograms/hour	40702	y	yes_approved
+40702	Durogesic Dtrans  Transdermal patches  12 micrograms/hour	40702	y	yes_approved
+40702	Durogesic Dtrans  Transdermal patches  50 micrograms/hour	40702	y	yes_approved
+4070200	Durogesic DTrans 12micrograms transdermal patches (Jansse...	40702	y	yes_approved
+4070200	Durogesic DTrans 25micrograms transdermal patches (Jansse...	40702	y	yes_approved
+4070200	Durogesic DTrans 50micrograms transdermal patches (Jansse...	40702	y	yes_approved
+4070200	Durogesic DTrans 75micrograms transdermal patches (Jansse...	40702	y	yes_approved
+40702	DUROGESIC DTRANS TRANSDERMAL 100 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+40702	Durogesic Dtrans Transdermal 25 Micrograms/Hour PATCH	40702	y	yes_approved
+40702	Durogesic Dtrans Transdermal 50 Micrograms/Hour PATCH	40702	y	yes_approved
+4070100	Dypracet 30mg/500mg tablets (Auden McKenzie (Pharma Divis...	40701	y	yes_approved
+4030400	Efexor XL 150mg capsules (Pfizer Ltd)	40304	y	
+4030400	Efexor XL 225mg capsules (Pfizer Ltd)	40304	y	
+4030400	Efexor XL 75mg capsules (Pfizer Ltd)	40304	y	
+4070200	Effentora 100microgram buccal tablets (Teva UK Ltd)	40702	y	yes_approved
+4070401	Eletriptan 20mg tablets	40704	n	
+4070401	Eletriptan 40mg tablets	40704	n	
+4070401	Eletriptan Hydrobromide  Tablets  20 mg	40704	n	
+4070401	Eletriptan Hydrobromide  Tablets  40 mg	40704	n	
+4070401	ELETRIPTAN TABLETS 40MG	40704	n	
+4070401	Eletriptan TABS 20MG	40704	n	
+4070401	Eletriptan TABS 40MG	40704	n	
+100101050BBAAAA	Emflex  Capsules  60 mg	100101	y	yes_approved
+1502010J0BEABBZ	Emla  Cream	150201	n	
+1502010J0BEABBZ	Emla  Cream  5 %	150201	n	
+1502010J0BEABBZ	EMLA DRUG TARIFF CREAM	150201	n	
+1502010J0BEABBZ	Emla Drug Tariff CREAM	150201	n	
+0408010Q0BBAEAA	Epanutin  Capsules  100 mg	40801	n	
+0408010Q0BBACAD	Epanutin  Capsules  25 mg	40801	n	
+0408010Q0BBAFAQ	Epanutin  Capsules  300 mg	40801	n	
+0408010Q0BBADAP	Epanutin  Capsules  50 mg	40801	n	
+0408010Q0BBAEAA	Epanutin CAPS 100MG	40801	n	
+0408010Q0BBACAD	Epanutin CAPS 25MG	40801	n	
+0408010Q0BBAFAQ	Epanutin CAPS 300MG	40801	n	
+0408010Q0BBADAP	Epanutin CAPS 50MG	40801	n	
+0408010Q0BBAEAA	EPANUTIN CAPSULES 100MG	40801	n	
+0408010Q0BBACAD	EPANUTIN CAPSULES 25MG	40801	n	
+0408010Q0BBADAP	EPANUTIN CAPSULES 50MG	40801	n	
+0408010Q0BBAEAA	Epanutin-P42 100mg capsule	40801	n	
+0408010Q0BBAEAA	EPANUTIN-P42 100MG CAPSULE	40801	n	
+0408010Q0BBACAD	Epanutin-P42 25mg capsule	40801	n	
+0408010Q0BBADAP	Epanutin-P42 50mg capsule	40801	n	
+0408010W0BBAAAB	Epilim  Crushable tablets  100 mg	40801	n	
+0408010W0BBABAC	Epilim  E/c tablets  200 mg	40801	n	
+0408010W0BBACAD	Epilim  E/c tablets  500 mg	40801	n	
+4080100	Epilim 100mg crushable tablets (Sanofi)	40801	n	
+4080100	Epilim 200 gastro-resistant tablets (Sanofi)	40801	n	
+4080100	Epilim 500 gastro-resistant tablets (Sanofi)	40801	n	
+0408010W0BBACAD	EPILIM 500MG TAB	40801	n	
+0408010W0BBAJAZ	Epilim Chrono  M/R tablets  200 mg	40801	n	
+0408010W0BBAKA1	Epilim Chrono  M/R tablets  300 mg	40801	n	
+0408010W0BBALA2	Epilim Chrono  M/R tablets  500 mg	40801	n	
+4080100	Epilim Chrono 200 tablets (Sanofi)	40801	n	
+4080100	Epilim Chrono 300 tablets (Sanofi)	40801	n	
+4080100	Epilim Chrono 500 tablets (Sanofi)	40801	n	
+0408010W0BBAJAZ	EPILIM CHRONO TABLETS 200MG	40801	n	
+0408010W0BBAKA1	EPILIM CHRONO TABLETS 300MG	40801	n	
+0408010W0BBALA2	EPILIM CHRONO TABLETS 500MG	40801	n	
+0408010W0BBALA2	Epilim Chrono TABLETS 500MG	40801	n	
+0408010W0BBAJAZ	Epilim Chrono TABS 200MG	40801	n	
+0408010W0BBAKA1	Epilim Chrono TABS 300MG	40801	n	
+0408010W0BBALA2	Epilim Chrono TABS 500MG	40801	n	
+0408010W0BBAAAB	Epilim Crushable TABS 100MG	40801	n	
+0408010W0BBABAC	EPILIM EC TABLETS 200MG	40801	n	
+0408010W0BBACAD	EPILIM EC TABLETS 500MG	40801	n	
+0408010W0BBABAC	Epilim Ec TABS 200MG	40801	n	
+0408010W0BBACAD	Epilim Ec TABS 500MG	40801	n	
+0408010W0BBADAA	EPILIM SF LIQ 200MG/5ML	40801	n	
+0407041F0AAAAAA	Ergotamine Tartrate  Aerosol inhalation  360 micrograms/puff	40704	n	
+4080100	Ethosuximide 250mg capsules	40801	n	
+1001010E0AAACAC	Etodolac  Capsules  300 mg	100101	y	yes_approved
+1001010E0AAADAD	Etodolac  M/R tablets  600 mg	100101	y	yes_approved
+1001010E0AAADAD	Etodolac  M/R Tablets  600 mg	100101	y	yes_approved
+10010100	Etodolac 300mg capsules	100101	y	yes_approved
+10010100	Etodolac 600mg modified-release tablets	100101	y	yes_approved
+1001010E0AAACAC	Etodolac CAPS 300MG	100101	y	yes_approved
+1001010E0AAAAAA	ETODOLAC CAPSULES 200MG	100101	y	yes_approved
+1001010E0AAACAC	ETODOLAC CAPSULES 300MG	100101	y	yes_approved
+1001010E0AAADAD	ETODOLAC MR 600MG TAB	100101	y	yes_approved
+1001010E0AAADAD	ETODOLAC MR 600MG TABS	100101	y	yes_approved
+1001010E0AAADAD	ETODOLAC MR TABLETS 600MG	100101	y	yes_approved
+1001010E0AAADAD	Etodolac Mr TABLETS 600MG	100101	y	yes_approved
+1001010E0AAADAD	Etodolac Mr TABS 600MG	100101	y	yes_approved
+1001010E0AAADAD	ETODOLAC SR 600MG TAB	100101	y	yes_approved
+1001010E0AAADAD	etodolac sr 600mg tabs	100101	y	yes_approved
+100101	Etopan Xl  M/R tablets  600 mg	100101	y	yes_approved
+100101	ETOPAN XL TABLETS 600MG	100101	y	yes_approved
+100101	Etoricoxib  Tablets  120 mg	100101	y	yes_approved
+100101	Etoricoxib  Tablets  30 mg	100101	y	yes_approved
+100101	Etoricoxib  Tablets  60 mg	100101	y	yes_approved
+100101	Etoricoxib  Tablets  90 mg	100101	y	yes_approved
+10010100	Etoricoxib 120mg tablets	100101	y	yes_approved
+10010100	Etoricoxib 30mg tablets	100101	y	yes_approved
+100101	ETORICOXIB 60MG TAB	100101	y	yes_approved
+10010100	Etoricoxib 60mg tablets	100101	y	yes_approved
+100101	ETORICOXIB 90MG TAB	100101	y	yes_approved
+10010100	Etoricoxib 90mg tablets	100101	y	yes_approved
+100101	ETORICOXIB TABLETS 120MG	100101	y	yes_approved
+100101	Etoricoxib TABLETS 120MG	100101	y	yes_approved
+100101	ETORICOXIB TABLETS 30MG	100101	y	yes_approved
+100101	ETORICOXIB TABLETS 60MG	100101	y	yes_approved
+100101	Etoricoxib TABLETS 60MG	100101	y	yes_approved
+100101	ETORICOXIB TABLETS 90MG	100101	y	yes_approved
+100101	Etoricoxib TABLETS 90MG	100101	y	yes_approved
+100101	Etoricoxib TABS 120MG	100101	y	yes_approved
+100101	Etoricoxib TABS 30MG	100101	y	yes_approved
+100101	Etoricoxib TABS 60MG	100101	y	yes_approved
+100101	Etoricoxib TABS 90MG	100101	y	yes_approved
+100101	etoricoxib TABS 90mg	100101	y	yes_approved
+1003020M0AAABAB	Felbinac  Foam  3.17 %	100302	n	
+1003020M0AAAAAA	Felbinac  Gel  3 %	100302	n	
+10030250	Felbinac 3% gel	100302	n	
+1003020M0AAABAB	FELBINAC FOAM	100302	n	
+1003020M0AAABAB	Felbinac FOAM	100302	n	
+1003020M0AAAAAA	FELBINAC GEL 3%	100302	n	
+1003020M0AAAAAA	Felbinac GEL 3%	100302	n	
+10030250	FELBINAC gel 3%	100302	n	
+1003020M0AAAAAA	FELBINAC PAIN RELIEF GEL 3%	100302	n	
+1001010R0BBABAB	Feldene  Capsules  20 mg	100101	y	yes_approved
+1003020R0BBAAAA	Feldene  Gel  0.5 %	100302	n	
+1003020R0BBABAA	Feldene  Sports gel  0.5 %	100302	n	
+10010100	Feldene 0.5% gel (Pfizer Ltd)	100101	n	
+10010100	Feldene 10mg capsules (Pfizer Ltd)	100101	y	yes_approved
+10010100	Feldene 20 capsules (Pfizer Ltd)	100101	y	yes_approved
+1001010R0BBABAB	Feldene CAPS 20MG	100101	y	yes_approved
+1001010R0BBAAAA	FELDENE CAPSULES 10MG	100101	y	yes_approved
+1003020R0BBAAAA	Feldene GEL 0.5%	100302	n	
+1003020R0BBAAAA	FELDENE GEL 0.5%	100302	n	
+1001010R0BBAGAG	FELDENE MELT TABLETS 20MG	100101	y	yes_approved
+1003020R0BBABAA	Feldene Sports GEL 0.5%	100302	n	
+1003020R0BBABAA	FELDENE SPORTS GEL 0.5%	100302	n	
+1001010R0BBAAAA	FELDENE-P42 10MG CAPSULE	100101	y	yes_approved
+1001010R0BBAAAA	Feldene-P42 10mg capsule	100101	y	yes_approved
+100302	Fenbid  Gel  10 %	100302	n	
+1003020P0BGAAAC	Fenbid  Gel  5 %	100302	n	
+10030250	Fenbid 5% gel (AMCo)	100302	n	
+10030250	Fenbid 5% gel (Mercury Pharma Group Ltd)	100302	n	
+10030250	Fenbid Forte 10% gel (AMCo)	100302	n	
+1003020P0BGAAAC	FENBID GEL 5%	100302	n	
+1003020P0BGAAAC	Fenbid GEL 5%	100302	n	
+1001010F0AAABAB	Fenbufen  Tablets  300 mg	100101	y	yes_approved
+1001010F0AAABAB	Fenbufen TABS 300MG	100101	y	yes_approved
+1001010F0AAACAC	Fenbufen TABS 450MG	100101	y	yes_approved
+1001010F0AAACAC	Fenbufen-P42 450mg tab	100101	y	yes_approved
+1001010G0AAABAB	FENOPROFEN TABLETS 300MG	100101	y	yes_approved
+4070200	Fentalis Reservoir 25micrograms/hour transdermal patches ...	40702	y	yes_approved
+0407020A0AAAHAH	Fentanyl  Transdermal patches  100 micrograms/hour	40702	y	yes_approved
+40702	Fentanyl  Transdermal patches  12 micrograms/hour	40702	y	yes_approved
+0407020A0AAAEAE	Fentanyl  Transdermal patches  25 micrograms/hour	40702	y	yes_approved
+0407020A0AAAFAF	Fentanyl  Transdermal patches  50 micrograms/hour	40702	y	yes_approved
+0407020A0AAAGAG	Fentanyl  Transdermal patches  75 micrograms/hour	40702	y	yes_approved
+0407020A0AAAHAH	Fentanyl 100 Micrograms/Hour PATCH	40702	y	yes_approved
+0407020A0AAAHAH	FENTANYL 100 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+4070200	Fentanyl 100microgram sublingual tablets sugar free	40702	y	yes_approved
+4070200	Fentanyl 100micrograms/hour transdermal patches	40702	y	yes_approved
+40702	Fentanyl 12 Micrograms/Hour PATCH	40702	y	yes_approved
+40702	FENTANYL 12 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+4070200	Fentanyl 12micrograms/hour transdermal patches	40702	y	yes_approved
+0407020A0AAAEAE	Fentanyl 25 Micrograms/Hour PATCH	40702	y	yes_approved
+0407020A0AAAEAE	FENTANYL 25 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+4070200	Fentanyl 25micrograms/hour transdermal patches	40702	y	yes_approved
+4070200	Fentanyl 37.5microgram/hour transdermal patches	40702	y	yes_approved
+0407020A0AAAFAF	FENTANYL 50 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+0407020A0AAAFAF	Fentanyl 50 Micrograms/Hour PATCH	40702	y	yes_approved
+4070200	Fentanyl 50micrograms/hour transdermal patches	40702	y	yes_approved
+0407020A0AAAGAG	Fentanyl 75 Micrograms/Hour PATCH	40702	y	yes_approved
+0407020A0AAAGAG	FENTANYL 75 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+4070200	Fentanyl 75micrograms/hour transdermal patches	40702	y	yes_approved
+1001010K0BNABAK	Flexin 50 Continus TABS 50MG	100101	y	yes_approved
+1001010K0BNAAAJ	FLEXIN 75 CONTINUS TABLETS 75MG	100101	y	yes_approved
+1001010K0BNAAAJ	Flexin 75 Continus TABS 75MG	100101	y	yes_approved
+1001010K0BNAAAJ	Flexin Continus  M/R Tablets  75 mg	100101	y	yes_approved
+1001010K0BNACAL	Flexin-25 Continus  M/R Tablets  25 mg	100101	y	yes_approved
+4030400	Fluanxol 500microgram tablets (Lundbeck Ltd)	40304	n	
+0403040F0BBABAB	FLUANXOL TABLETS 1MG	40304	n	
+0403040F0BBABAB	Fluanxol TABS 1MG	40304	n	
+0403040F0BCAAAE	Fluanxol TABS 500MICROGRAMS	40304	n	
+40304	Flupentixol  Tablets  1 mg	40304	n	
+40304	Flupentixol  Tablets  500 micrograms	40304	n	
+4030400	Flupentixol 1mg tablets	40304	n	
+4030400	Flupentixol 500microgram tablets	40304	n	
+40304	FLUPENTIXOL TABLETS 1MG	40304	n	
+40304	FLUPENTIXOL TABLETS 500MICROGRAMS	40304	n	
+40304	Flupentixol TABS 1MG	40304	n	
+40304	Flupentixol TABS 500MICROGRAMS	40304	n	
+1001010I0AAACAC	Flurbiprofen  Tablets  100 mg	100101	y	yes_approved
+1001010I0AAABAB	Flurbiprofen  Tablets  50 mg	100101	y	yes_approved
+10010100	Flurbiprofen 100mg tablets	100101	y	yes_approved
+10010100	Flurbiprofen 50mg tablets	100101	y	yes_approved
+1001010I0AAACAC	FLURBIPROFEN TABLETS 100MG	100101	y	yes_approved
+1001010I0AAABAB	FLURBIPROFEN TABLETS 50MG	100101	y	yes_approved
+1001010I0AAACAC	Flurbiprofen TABS 100MG	100101	y	yes_approved
+1001010I0AAABAB	Flurbiprofen TABS 50MG	100101	y	yes_approved
+1001010I0BBADAD	Froben Sr CAPS 200MG	100101	y	yes_approved
+1001010I0BBADAD	FROBEN SR CAPSULES 200MG	100101	y	yes_approved
+1001010I0BBABAC	Froben TABS 100MG	100101	y	yes_approved
+1001010I0BBAAAB	Froben TABS 50MG	100101	y	yes_approved
+4070401	Frovatriptan  Tablets  2.5 mg	40704	n	
+4070401	Frovatriptan 2.5mg tablets	40704	n	
+4070401	FROVATRIPTAN TABLETS 2.5MG	40704	n	
+4070401	Frovatriptan TABS 2.5MG	40704	n	
+0408010G0AAAAAA	Gabapentin  Capsules  100 mg	40801	y	
+0408010G0AAABAB	Gabapentin  Capsules  300 mg	40801	y	
+0408010G0AAACAC	Gabapentin  Capsules  400 mg	40801	y	
+40801	Gabapentin  Oral solution  250 mg/5 ml	40801	y	
+40801	Gabapentin  Oral Solution  Sugar Free  250 mg/5 ml (50 mg/ml)	40801	y	
+40801	Gabapentin  Tablets  600 mg	40801	y	
+40801	Gabapentin  Tablets  800 mg	40801	y	
+4080100	Gabapentin 100mg capsules	40801	y	
+4070300	Gabapentin 100mg capsules	40703	y	
+4080100	Gabapentin 300mg capsules	40801	y	
+4070300	Gabapentin 300mg capsules	40703	y	
+0408010G0AAABAB	Gabapentin 300mg capsules	40801	y	
+4080100	Gabapentin 400mg capsules	40801	y	
+4080100	Gabapentin 50mg/ml oral solution sugar free	40801	y	
+4080100	Gabapentin 600mg tablets	40801	y	
+0408010G0AAAAAA	Gabapentin CAPS 100MG	40801	y	
+4080100	GABAPENTIN caps 100mg	40801	y	
+0408010G0AAABAB	Gabapentin CAPS 300MG	40801	y	
+4080100	GABAPENTIN caps 300mg	40801	y	
+0408010G0AAACAC	Gabapentin CAPS 400MG	40801	y	
+0408010G0AAABAB	GABAPENTIN CAPSULES  300MGS	40801	y	
+0408010G0AAAAAA	GABAPENTIN CAPSULES 100MG	40801	y	
+0408010G0AAAAAA	Gabapentin CAPSULES 100MG	40801	y	
+0408010G0AAABAB	GABAPENTIN CAPSULES 300MG	40801	y	
+0408010G0AAABAB	Gabapentin CAPSULES 300MG	40801	y	
+0408010G0AAACAC	GABAPENTIN CAPSULES 400MG	40801	y	
+40801	GABAPENTIN TABLETS 600MG	40801	y	
+40801	Gabapentin TABLETS 600MG	40801	y	
+40801	GABAPENTIN TABLETS 800MG	40801	y	
+40801	Gabapentin TABS 600MG	40801	y	
+40801	Gabapentin Titration Pack	40801	y	
+40801	GABAPENTIN TITRATION PACK	40801	y	
+0403010R0BBAAAA	GAMANIL TABLETS 70MG	40301	n	
+0403010R0BBAAAA	Gamanil TABS 70MG	40301	n	
+4070200	Hydromorphone 1.3mg capsules	40702	y	yes_approved
+4070200	Hydromorphone 4mg modified-release capsules	40702	y	yes_approved
+1003020P0BDAAAC	Ibugel  Gel  5 %	100302	n	
+10030250	Ibugel 5% gel (Dermal Laboratories Ltd)	100302	n	
+100302	Ibugel Forte  Gel  10 %	100302	n	
+10030250	Ibugel Forte 10% gel (Dermal Laboratories Ltd)	100302	n	
+100302	IBUGEL FORTE GEL 10%	100302	n	
+1003020P0BDAAAC	IBUGEL GEL 5%	100302	n	
+1003020P0BDAAAC	Ibugel GEL 5%	100302	n	
+100302	Ibuleve  Gel  5 %	100302	n	
+100302	Ibuleve 35ml SPRAY 5%	100302	n	
+10030250	Ibuleve 5% gel (Dendron Ltd)	100302	n	
+100302	Ibuleve GEL 5%	100302	n	
+100302	IBULEVE GEL 5%	100302	n	
+100302	Ibuleve Maximum Strength  Gel  10 %	100302	n	
+10030250	Ibuleve Maximum Strength 10% gel (Dendron Ltd)	100302	n	
+100101	Ibuprofen  Capsules  200 mg	100101	y	yes_approved
+100101	Ibuprofen  Capsules  400 mg	100101	y	yes_approved
+1003020P0AAAAAA	Ibuprofen  Cream  5 %	100302	n	
+100101	Ibuprofen  Dissolving Tablets  200 mg	100101	y	yes_approved
+1001010J0AAAGAG	Ibuprofen  Fc tablets  800 mg	100101	y	yes_approved
+100302	Ibuprofen  Gel  10 %	100302	n	
+1003020P0AAACAC	Ibuprofen  Gel  5 %	100302	n	
+1001010J0AAANAN	Ibuprofen  Granules  600 mg/sachet	100101	y	yes_approved
+100101	Ibuprofen  M/R capsules  300 mg	100101	y	yes_approved
+1001010J0AAAPAP	Ibuprofen  M/R tablets  800 mg	100101	y	yes_approved
+1001010J0AAAPAP	Ibuprofen  M/R Tablets  800 mg	100101	y	yes_approved
+1003020P0AAAEAE	Ibuprofen  Pump spray  5 %	100302	n	
+100101	Ibuprofen  Sugar-free suspension  100 mg/5 ml	100101	y	yes_approved
+100101	Ibuprofen  Suspension  100 mg/5 ml	100101	y	yes_approved
+1001010J0AAACAC	Ibuprofen  Syrup  100 mg/5 ml	100101	y	yes_approved
+1001010J0AAADAD	Ibuprofen  Tablets  200 mg	100101	y	yes_approved
+1001010J0AAAEAE	Ibuprofen  Tablets  400 mg	100101	y	yes_approved
+1001010J0AAAFAF	Ibuprofen  Tablets  600 mg	100101	y	yes_approved
+10030250	Ibuprofen 10% gel	100302	n	
+10010100	Ibuprofen 100mg/5ml oral suspension	100101	y	yes_approved
+10010100	Ibuprofen 100mg/5ml oral suspension sugar free	100101	y	yes_approved
+10010100	Ibuprofen 200mg capsules	100101	y	yes_approved
+10010100	Ibuprofen 200mg orodispersible tablets sugar free	100101	y	yes_approved
+10010100	Ibuprofen 200mg tablets	100101	y	yes_approved
+10010100	Ibuprofen 400mg caplets (Bristol Laboratories Ltd)	100101	y	yes_approved
+10010100	Ibuprofen 400mg capsules	100101	y	yes_approved
+1001010J0AAAEAE	IBUPROFEN 400MG TAB	100101	y	yes_approved
+10010100	Ibuprofen 400mg tablets	100101	y	yes_approved
+1001010J0AAAEAE	IBUPROFEN 400MG TABLETS	100101	y	yes_approved
+1001010J0AAAEAE	IBUPROFEN 400MG TABS	100101	y	yes_approved
+10030250	Ibuprofen 5% / Levomenthol 3% gel	100302	n	
+10030250	Ibuprofen 5% foam	100302	n	
+10030250	Ibuprofen 5% gel	100302	n	
+1003020P0AAACAC	Ibuprofen 5% gel	100302	n	
+1003020P0AAACAC	IBUPROFEN 5% GEL-P42 0	100302	n	
+10030250	Ibuprofen 5% spray	100302	y	
+10010100	Ibuprofen 600mg tablets	100101	y	yes_approved
+1001010J0AAAFAF	IBUPROFEN 600MG TABS	100101	y	yes_approved
+10010100	Ibuprofen 800mg modified-release tablets	100101	y	yes_approved
+100302	Ibuprofen And Levomenthol  Gel  5 % + 3 %	100302	n	
+1003020P0AAAAAA	IBUPROFEN CREAM 5%	100302	n	
+1003020P0AAAAAA	Ibuprofen CREAM 5%	100302	n	
+1001010J0AAAEAE	IBUPROFEN E.C. 400MG	100101	y	yes_approved
+1003020P0AAACAC	IBUPROFEN GEL - SPECIFY CONCTN. 5/99-P42 0	100302	n	
+100302	Ibuprofen GEL 10%	100302	n	
+100302	IBUPROFEN GEL 10%	100302	n	
+10030250	IBUPROFEN gel 10%	100302	n	
+1003020P0AAACAC	IBUPROFEN GEL 5%	100302	n	
+1003020P0AAACAC	Ibuprofen GEL 5%	100302	n	
+10030250	IBUPROFEN gel 5%	100302	n	
+1003020P0AAACAC	IBUPROFEN gel GEL 5%-P42 0	100302	n	
+1001010J0AAAPAP	IBUPROFEN MODIFIED RELEASE TABLETS 800MG	100101	y	yes_approved
+100302	Ibuprofen Mousse 125g  5%	100302	y	
+100101	IBUPROFEN MR CAPSULES 300MG	100101	y	yes_approved
+1001010J0AAAPAP	IBUPROFEN MR TABLETS 800MG	100101	y	yes_approved
+1001010J0AAAPAP	Ibuprofen Mr TABS 800MG	100101	y	yes_approved
+10030250	Ibuprofen Pain Relief Maximum Strength 10% gel (Numark Ma...	100302	n	
+1001010J0AAANAN	IBUPROFEN SACH 600MG	100101	y	yes_approved
+1001010J0AAANAN	Ibuprofen SACH 600MG	100101	y	yes_approved
+100101	IBUPROFEN SF ORAL SUSP 100MG/5ML	100101	y	yes_approved
+100101	Ibuprofen Sf Oral SUSP 100MG/5ML	100101	y	yes_approved
+100101	Ibuprofen Sf With Syringe SUSP 100MG/5ML	100101	y	yes_approved
+1003020P0AAAEAE	IBUPROFEN SPRAY 5%	100302	n	
+1003020P0AAAEAE	Ibuprofen SPRAY 5%	100302	n	
+1001010J0AAACAC	Ibuprofen SYRUP 100MG/5ML	100101	y	yes_approved
+1001010J0AAACAC	IBUPROFEN SYRUP 100MG/5ML	100101	y	yes_approved
+1001010J0AAADAD	IBUPROFEN TABLETS 200MG	100101	y	yes_approved
+1001010J0AAADAD	Ibuprofen TABLETS 200MG	100101	y	yes_approved
+1001010J0AAAEAE	IBUPROFEN TABLETS 400MG	100101	y	yes_approved
+1001010J0AAAEAE	Ibuprofen TABLETS 400MG	100101	y	yes_approved
+1001010J0AAAFAF	IBUPROFEN TABLETS 600MG	100101	y	yes_approved
+1001010J0AAAFAF	Ibuprofen TABLETS 600MG	100101	y	yes_approved
+1001010J0AAAGAG	IBUPROFEN TABLETS 800MG	100101	y	yes_approved
+1001010J0AAAGAG	Ibuprofen TABLETS 800MG	100101	y	yes_approved
+1001010J0AAADAD	Ibuprofen TABS 200MG	100101	y	yes_approved
+10010100	IBUPROFEN tabs 200mg	100101	y	yes_approved
+1001010J0AAAEAE	Ibuprofen TABS 400MG	100101	y	yes_approved
+10010100	IBUPROFEN tabs 400mg	100101	y	yes_approved
+1001010J0AAAFAF	Ibuprofen TABS 600MG	100101	y	yes_approved
+10010100	IBUPROFEN tabs 600mg	100101	y	yes_approved
+1001010J0AAAGAG	Ibuprofen TABS 800MG	100101	y	yes_approved
+1001010J0AAAEAE	Ibuprofen-P42 400mg tablet	100101	y	yes_approved
+1001010J0AAAEAE	IBUPROFEN-P42 400MG TABLET	100101	y	yes_approved
+1001010J0AAAFAF	Ibuprofen-P42 600mg tablet	100101	y	yes_approved
+1001010J0AAAFAF	IBUPROFEN-P42 600MG TABLET	100101	y	yes_approved
+1003020P0BFAAAE	Ibuspray  Pump spray  5 %	100302	n	
+1003020P0BFAAAE	IBUSPRAY 100ML SPRAY 5%	100302	n	
+10030250	Ibuspray 5% spray (Dermal Laboratories Ltd)	100302	n	
+4070401	Imigran  Injection  6 mg/0.5 ml pre-filled syringe	40704	n	
+4070401	Imigran  Refill pack  6 mg/0.5 ml pre-filled syringe	40704	n	
+0407041T0BBACAC	Imigran  Tablets  100 mg	40704	n	
+0407041T0BBAFAF	Imigran  Tablets  50 mg	40704	n	
+0407041T0BBACAC	IMIGRAN 100MG TABLETS	40704	n	
+4070401	Imigran 100mg tablets (GlaxoSmithKline UK Ltd)	40704	n	
+0407041T0BBACAC	IMIGRAN 100MG TABS	40704	n	
+0407041T0BBAFAF	IMIGRAN 50 TABLETS 50MG	40704	n	
+0407041T0BBAFAF	Imigran 50 TABS 50MG	40704	n	
+4070401	Imigran 50mg tablets (GlaxoSmithKline UK Ltd)	40704	n	
+4070401	Imigran Radis  Tablets  100 mg	40704	n	
+4070401	Imigran Radis  Tablets  50 mg	40704	n	
+4070401	Imigran Radis 50mg tablets (GlaxoSmithKline UK Ltd)	40704	n	
+4070401	Imigran Refill 0.5ml INJ 12MG/ML	40704	n	
+4070403	Imigran Subject 6mg/0.5ml solution for injection syringe ...	40704	n	
+4070401	IMIGRAN SUBJECT PREFILLED SYRINGE WITH DEVICE 0.5ML INJ 12MG/ML	40704	n	
+4070401	IMIGRAN SUBJECT REFILL SYRINGE 0.5ML INJ 12MG/ML	40704	n	
+4070401	Imigran Subject Refill Syringe 0.5ml INJ 12MG/ML	40704	n	
+0407041T0BBACAC	IMIGRAN TABLETS 100MG	40704	n	
+0407041T0BBACAC	Imigran TABLETS 100MG	40704	n	
+0407041T0BBACAC	Imigran TABS 100MG	40704	n	
+0407041T0BBACAC	IMIGRAN TABS 100MG	40704	n	
+0407041T0BBACAC	IMIGRAN-P42 100MG TAB	40704	n	
+0403010N0AAAEAE	Imipramine  Tablets  25 mg	40301	n	
+4030100	Imipramine 10mg tablets	40301	n	
+4030100	Imipramine 25mg tablets	40301	n	
+0403010N0AAADAD	Imipramine Hydrochloride  Tablets  10 mg	40301	n	
+0403010N0AAADAD	IMIPRAMINE HYDROCHLORIDE TABLETS 10MG	40301	n	
+0403010N0AAAEAE	IMIPRAMINE HYDROCHLORIDE TABLETS 25MG	40301	n	
+0403010N0AAAEAE	Imipramine Hydrochloride TABLETS 25MG	40301	n	
+0403010N0AAADAD	Imipramine Hydrochloride TABS 10MG	40301	n	
+0403010N0AAAEAE	Imipramine Hydrochloride TABS 25MG	40301	n	
+1001010K0BDABAB	INDOCID CAPSULES 50MG	100101	y	yes_approved
+1001010K0BDAFAD	Indocid R CAPS 75MG	100101	y	yes_approved
+1001010K0BDAFAD	INDOCID R CAPSULES 75MG	100101	y	yes_approved
+1001010K0BDAAAA	INDOCID-P42 25MG CAPSULE	100101	y	yes_approved
+1001010K0BDABAB	Indocid-P42 50mg capsule	100101	y	yes_approved
+1001010K0BDAFAD	Indocid-R  M/R capsules  75 mg	100101	y	yes_approved
+1001010K0BDAFAD	Indocid-r-P42 75mg cap SR	100101	y	yes_approved
+100101	Indometacin  Capsules  25 mg	100101	y	yes_approved
+100101	Indometacin  Capsules  50 mg	100101	y	yes_approved
+100101	Indometacin  M/R capsules  75 mg	100101	y	yes_approved
+10010100	Indometacin 25mg capsules	100101	y	yes_approved
+10010100	Indometacin 50mg capsules	100101	y	yes_approved
+10010100	Indometacin 75mg modified-release capsules	100101	y	yes_approved
+100101	Indometacin CAPS 25MG	100101	y	yes_approved
+100101	Indometacin CAPS 50MG	100101	y	yes_approved
+100101	INDOMETACIN CAPSULES 25MG	100101	y	yes_approved
+100101	Indometacin CAPSULES 25MG	100101	y	yes_approved
+100101	INDOMETACIN CAPSULES 50MG	100101	y	yes_approved
+100101	Indometacin CAPSULES 50MG	100101	y	yes_approved
+100101	Indometacin Mr CAPS 25MG	100101	y	yes_approved
+100101	Indometacin Mr CAPS 75MG	100101	y	yes_approved
+100101	INDOMETACIN MR CAPSULES 75MG	100101	y	yes_approved
+100101	Indometacin Mr TABS 50MG	100101	y	yes_approved
+100101	Indometacin SUPPS 100MG	100101	y	yes_approved
+100101	INDOMETACIN SUPPS 100MG	100101	y	yes_approved
+1001010K0AAAAAA	Indomethacin  Capsules  25 mg	100101	y	yes_approved
+1001010K0AAABAB	Indomethacin  Capsules  50 mg	100101	y	yes_approved
+100101	Indomethacin  Capsules  75 mg	100101	y	yes_approved
+1001010K0AAALAL	Indomethacin  M/R Tablets  25 mg	100101	y	yes_approved
+1001010K0AAABAB	INDOMETHACIN TABLETS 50MG	100101	y	yes_approved
+100101	Indomethacin-P42 25mg capsule	100101	y	yes_approved
+100101	Indomethacin-P42 50mg capsule	100101	y	yes_approved
+1502010J0BDABBR	Instillagel  Gel	150201	n	
+1502010J0AABRBR	Instillagel  Gel (11 Ml Syringe)	150201	n	
+1502010J0AABQBQ	Instillagel  Gel (6 Ml Syringe)	150201	n	
+1502010J0AABRBR	INSTILLAGEL SYRINGE 11ML GEL	150201	n	
+100302000BBBBAA	Intralgin  Gel	100302	n	
+100302000BBBBAA	Intralgin GEL	100302	n	
+100302000BBBBAA	INTRALGIN GEL	100302	n	
+100302000BBBBAA	INTRALGIN GEL-P42 0	100302	n	
+100302	KAOLIN POULTICE -	100302	n	
+40701	Kapake  Capsules  30 mg/500 mg	40701	y	yes_approved
+0407010F0BHAAAH	Kapake  Tablets	40701	y	yes_approved
+0407010F0BHAAAH	Kapake  Tablets  30 mg/500 mg	40701	y	yes_approved
+4070100	Kapake 15mg/500mg tablets (Galen Ltd)	40701	y	yes_approved
+40701	Kapake 30mg/500mg CAPS	40701	y	yes_approved
+4070200	Kapake 30mg/500mg capsules (Galen Ltd)	40702	y	yes_approved
+4070100	Kapake 30mg/500mg capsules (Galen Ltd)	40701	y	yes_approved
+4070200	Kapake 30mg/500mg tablets (Galen Ltd)	40702	y	yes_approved
+4070100	Kapake 30mg/500mg tablets (Galen Ltd)	40701	y	yes_approved
+0407010F0BHAAAH	Kapake 30mg/500mg TABS	40701	y	yes_approved
+40701	KAPAKE CAPS	40701	y	yes_approved
+40701	KAPAKE capsules CAP 30mg+500mg-P42 0	40701	y	yes_approved
+0407010F0BHABAQ	Kapake Insts 30mg/500mg Effervescent Powder Lemon SACH	40701	y	yes_approved
+0407010F0BHABAQ	KAPAKE INSTS 30MG/500MG EFFERVESCENT POWDER LEMON SACH	40701	y	yes_approved
+0407010F0BHAAAH	KAPAKE TABLET	40701	y	yes_approved
+0407010F0BHAAAH	KAPAKE TABLETS	40701	y	yes_approved
+0407010F0BHAAAH	KAPAKE TABLETS 30/500MG	40701	y	yes_approved
+0407010F0BHAAAH	KAPAKE tablets TAB 30mg+500mg-P42 0	40701	y	yes_approved
+0407010F0BHAAAH	Kapake TABS	40701	y	yes_approved
+0407010F0BHAAAH	KAPAKE TABS	40701	y	yes_approved
+40801	Keppra  Tablets  250 mg	40801	n	
+40801	Keppra  Tablets  500 mg	40801	n	
+40801	Keppra  Tablets  750 mg	40801	n	
+4080100	Keppra 1g tablets (UCB Pharma Ltd)	40801	n	
+4080100	Keppra 250mg tablets (UCB Pharma Ltd)	40801	n	
+4080100	Keppra 500mg tablets (UCB Pharma Ltd)	40801	n	
+4080100	Keppra 500mg/5ml concentrate for solution for infusion vi...	40801	n	
+4080100	Keppra 750mg tablets (UCB Pharma Ltd)	40801	n	
+40801	KEPPRA TABLETS 250MG	40801	n	
+40801	KEPPRA TABLETS 500MG	40801	n	
+40801	KEPPRA TABLETS 750MG	40801	n	
+40801	Keppra TABS 250MG	40801	n	
+40801	Keppra TABS 500MG	40801	n	
+100101	Keral TABS 25MG	100101	y	yes_approved
+1001010L0AAAAAA	Ketoprofen  Capsules  50 mg	100101	y	yes_approved
+100302010AAAAAA	Ketoprofen  Gel  2.5 %	100302	n	
+1001010L0AAAIAI	Ketoprofen  M/R capsules  100 mg	100101	y	yes_approved
+10010100	Ketoprofen 100mg modified-release capsules	100101	y	yes_approved
+10010100	Ketoprofen 2.5% gel	100101	n	
+10010100	Ketoprofen 50mg capsules	100101	y	yes_approved
+1001010L0AAABAB	Ketoprofen CAPS 100MG	100101	y	yes_approved
+1001010L0AAAAAA	Ketoprofen CAPS 50MG	100101	y	yes_approved
+1001010L0AAABAB	KETOPROFEN CAPSULES 100MG	100101	y	yes_approved
+100302010AAAAAA	KETOPROFEN GEL 2.5%	100302	n	
+100302010AAAAAA	Ketoprofen GEL 2.5%	100302	n	
+1001010L0AAAIAI	Ketoprofen Mr CAPS 100MG	100101	y	yes_approved
+1001010L0AAALAL	Ketoprofen Mr CAPS 150MG	100101	y	yes_approved
+1001010L0AAAIAI	KETOPROFEN MR CAPSULES 100MG	100101	y	yes_approved
+15010402	Ketorolac 30mg/1ml solution for injection ampoules	150104	y	yes_approved
+40304	L-Tryptophan  Tablets  500 mg	40304	n	
+40304	L-TRYPTOPHAN TABLETS 500MG	40304	n	
+40801	Lacosamide  Tablets  100 mg	40801	n	
+40801	Lacosamide  Tablets  150 mg	40801	n	
+40801	Lacosamide  Tablets  200 mg	40801	n	
+40801	Lacosamide  Tablets  50 mg	40801	n	
+4080100	Lacosamide 100mg tablets	40801	n	
+4080100	Lacosamide 200mg tablets	40801	n	
+4080100	Lacosamide 50mg tablets	40801	n	
+40801	LACOSAMIDE TABLETS 50MG	40801	n	
+0408010H0BBACAC	Lamictal  Tablets  25 mg	40801	n	
+0408010H0BBAAAB	Lamictal  Tablets  50 mg	40801	n	
+4080100	Lamictal 200mg tablets (GlaxoSmithKline UK Ltd)	40801	n	
+4080100	Lamictal 25mg tablets (GlaxoSmithKline UK Ltd)	40801	n	
+4080100	Lamictal 50mg tablets (GlaxoSmithKline UK Ltd)	40801	n	
+0408010H0BBAAAB	LAMICTAL TABLETS 50MG	40801	n	
+0408010H0AAAWAW	Lamotrigine  Dispersible tablets  Sugar Free 100 mg	40801	n	
+0408010H0AAAQAQ	Lamotrigine  Dispersible tablets  Sugar Free 25 mg	40801	n	
+0408010H0AAAAAA	Lamotrigine  Tablets  100 mg	40801	n	
+0408010H0AAA1A1	Lamotrigine  Tablets  200 mg	40801	n	
+0408010H0AAACAC	Lamotrigine  Tablets  25 mg	40801	n	
+0408010H0AAABAB	Lamotrigine  Tablets  50 mg	40801	n	
+4080100	Lamotrigine 100mg tablets	40801	n	
+4080100	Lamotrigine 200mg tablets	40801	n	
+4080100	Lamotrigine 25mg dispersible tablets sugar free	40801	n	
+4080100	Lamotrigine 25mg tablets	40801	n	
+4080100	Lamotrigine 50mg tablets	40801	n	
+4080100	Lamotrigine 5mg dispersible tablets sugar free	40801	n	
+0408010H0AAAQAQ	LAMOTRIGINE SF DISPERSIBLE TABLETS 25MG	40801	n	
+0408010H0AAAQAQ	Lamotrigine Sf Dispersible TABS 25MG	40801	n	
+0408010H0AAAAAA	LAMOTRIGINE TABLETS 100MG	40801	n	
+0408010H0AAA1A1	LAMOTRIGINE TABLETS 200MG	40801	n	
+0408010H0AAACAC	LAMOTRIGINE TABLETS 25MG	40801	n	
+0408010H0AAABAB	LAMOTRIGINE TABLETS 50MG	40801	n	
+0408010H0AAAAAA	Lamotrigine TABS 100MG	40801	n	
+0408010H0AAA1A1	Lamotrigine TABS 200MG	40801	n	
+0408010H0AAACAC	Lamotrigine TABS 25MG	40801	n	
+0408010H0AAABAB	Lamotrigine TABS 50MG	40801	n	
+1001010F0BBADAC	Lederfen  Tablets  450 mg	100101	y	yes_approved
+1001010F0BBABAB	LEDERFEN TABLETS 300MG	100101	y	yes_approved
+1001010F0BBADAC	Lederfen TABS 450MG	100101	y	yes_approved
+1001010F0BBADAC	Lederfen-P42 450mg tab	100101	y	yes_approved
+0403010B0BDABAB	LENTIZOL CAPSULES 50MG	40301	y	
+40801	Levetiracetam  Tablets  1000 mg	40801	n	
+40801	Levetiracetam  Tablets  250 mg	40801	n	
+40801	Levetiracetam  Tablets  500 mg	40801	n	
+40801	Levetiracetam  Tablets  750 mg	40801	n	
+4080100	Levetiracetam 100mg/ml oral solution sugar free	40801	n	
+4080100	Levetiracetam 1g tablets	40801	n	
+4080100	Levetiracetam 250mg tablets	40801	n	
+4080100	Levetiracetam 500mg granules sachets sugar free	40801	n	
+4080100	Levetiracetam 500mg tablets	40801	n	
+4080100	Levetiracetam 750mg tablets	40801	n	
+40801	LEVETIRACETAM TABLETS 1000MG	40801	n	
+40801	LEVETIRACETAM TABLETS 250MG	40801	n	
+40801	LEVETIRACETAM TABLETS 500MG	40801	n	
+40801	LEVETIRACETAM TABLETS 750MG	40801	n	
+40801	Levetiracetam TABS 1000MG	40801	n	
+40801	Levetiracetam TABS 250MG	40801	n	
+40801	Levetiracetam TABS 500MG	40801	n	
+40801	Levetiracetam TABS 750MG	40801	n	
+1001010E0BBAAAA	LODINE CAPSULES 200MG	100101	y	yes_approved
+1001010E0BBACAC	LODINE CAPSULES 300MG	100101	y	yes_approved
+1001010E0BBADAD	Lodine Sr  M/R tablets  600 mg	100101	y	yes_approved
+10010100	Lodine SR 600mg tablets (Almirall Ltd)	100101	y	yes_approved
+1001010E0BBADAD	LODINE SR TABLETS 600MG	100101	y	yes_approved
+1001010E0BBADAD	Lodine Sr TABLETS 600MG	100101	y	yes_approved
+1001010E0BBADAD	Lodine Sr TABS 600MG	100101	y	yes_approved
+0403010R0AAAAAA	Lofepramine  Tablets  70 mg	40301	n	
+0403010R0AAAAAA	LOFEPRAMINE 70MG	40301	n	
+4030100	Lofepramine 70mg tablets	40301	n	
+0403010R0AAAAAA	LOFEPRAMINE TABLETS 70-P42 0	40301	n	
+0403010R0AAAAAA	LOFEPRAMINE TABLETS 70MG	40301	n	
+0403010R0AAAAAA	Lofepramine TABLETS 70MG	40301	n	
+0403010R0AAAAAA	LOFEPRAMINE TABLETS 70MG-P42 0	40301	n	
+0403010R0AAAAAA	LOFEPRAMINE TABLETS 70MG-P42 TABLETS 70 MG	40301	n	
+0403010R0AAAAAA	Lofepramine TABS 70MG	40301	n	
+0403010R0AAAAAA	LOFERPRAMINE-P42 70MG TABLET	40301	n	
+40702	Longtec  M/R tablets  10 mg	40702	y	yes_approved
+40702	Longtec  M/R tablets  120 mg	40702	y	yes_approved
+40702	Longtec  M/R tablets  15 mg	40702	y	yes_approved
+40702	Longtec  M/R tablets  20 mg	40702	y	yes_approved
+40702	Longtec  M/R tablets  30 mg	40702	y	yes_approved
+40702	Longtec  M/R tablets  40 mg	40702	y	yes_approved
+40702	Longtec  M/R tablets  5 mg	40702	y	yes_approved
+40702	Longtec  M/R tablets  60 mg	40702	y	yes_approved
+40702	Longtec  M/R tablets  80 mg	40702	y	yes_approved
+4070200	Longtec 10mg modified-release tablets (Qdem Pharmaceutica...	40702	y	yes_approved
+4070200	Longtec 15mg modified-release tablets (Qdem Pharmaceutica...	40702	y	yes_approved
+4070200	Longtec 20mg modified-release tablets (Qdem Pharmaceutica...	40702	y	yes_approved
+4070200	Longtec 30mg modified-release tablets (Qdem Pharmaceutica...	40702	y	yes_approved
+4070200	Longtec 40mg modified-release tablets (Qdem Pharmaceutica...	40702	y	yes_approved
+4070200	Longtec 5mg modified-release tablets (Qdem Pharmaceutical...	40702	y	yes_approved
+15010401	Lorazepam 1mg tablets	150104	n	
+40801	Lyrica  Capsules  100 mg	40801	y	
+40801	Lyrica  Capsules  150 mg	40801	y	
+40801	Lyrica  Capsules  200 mg	40801	y	
+40801	Lyrica  Capsules  25 mg	40801	y	
+40801	Lyrica  Capsules  300 mg	40801	y	
+40801	Lyrica  Capsules  50 mg	40801	y	
+40801	Lyrica  Capsules  75 mg	40801	y	
+4080100	Lyrica 100mg capsules (Pfizer Ltd)	40801	y	
+4080100	Lyrica 150mg capsules (Pfizer Ltd)	40801	y	
+4070300	Lyrica 150mg capsules (Pfizer Ltd)	40703	y	
+4080100	Lyrica 200mg capsules (Pfizer Ltd)	40801	y	
+4080100	Lyrica 25mg capsules (Pfizer Ltd)	40801	y	
+4070300	Lyrica 300mg capsules (Pfizer Ltd)	40703	y	
+4080100	Lyrica 300mg capsules (Pfizer Ltd)	40801	y	
+4080100	Lyrica 50mg capsules (Pfizer Ltd)	40801	y	
+4070300	Lyrica 50mg capsules (Pfizer Ltd)	40703	y	
+4080100	Lyrica 75mg capsules (Pfizer Ltd)	40801	y	
+4070300	Lyrica 75mg capsules (Pfizer Ltd)	40703	y	
+40801	LYRICA 75MG TABLETS	40801	y	
+40801	Lyrica CAPS 100MG	40801	y	
+40801	Lyrica CAPS 150MG	40801	y	
+40801	Lyrica CAPS 25MG	40801	y	
+40801	Lyrica CAPS 50MG	40801	y	
+40801	Lyrica CAPS 75MG	40801	y	
+40801	LYRICA CAPSULES 50MG	40801	y	
+40801	LYRICA CAPSULES 75MG	40801	y	
+0403010S0AAABAB	Maprotiline Hydrochloride TABS 25MG	40301	n	
+40702	Matrifen  Transdermal patches  100 micrograms/hour	40702	y	yes_approved
+40702	Matrifen  Transdermal patches  12 micrograms/hour	40702	y	yes_approved
+40702	Matrifen  Transdermal patches  25 micrograms/hour	40702	y	yes_approved
+40702	Matrifen  Transdermal patches  50 micrograms/hour	40702	y	yes_approved
+40702	Matrifen  Transdermal patches  75 micrograms/hour	40702	y	yes_approved
+4070200	Matrifen 100micrograms/hour transdermal patches (Teva UK ...	40702	y	yes_approved
+4070200	Matrifen 12micrograms/hour transdermal patches (Teva UK Ltd)	40702	y	yes_approved
+4070200	Matrifen 25micrograms/hour transdermal patches (Teva UK Ltd)	40702	y	yes_approved
+4070200	Matrifen 50micrograms/hour transdermal patches (Teva UK Ltd)	40702	y	yes_approved
+40702	Matrifen 75 Micrograms/Hour PATCH	40702	y	yes_approved
+0407041R0BBABAB	Maxalt  Tablets  10 mg	40704	n	
+0407041R0BBAAAA	Maxalt  Tablets  5 mg	40704	n	
+0407041R0BBACAC	Maxalt  Wafers  10 mg	40704	n	
+4070401	Maxalt Melt  Wafers (Oral Lyophilisate)  10 mg	40704	n	
+4070401	Maxalt Melt 10mg oral lyophilisates (Merck Sharp & Dohme ...	40704	n	
+4070401	Maxalt Melt WAFER 10MG	40704	n	
+0407041R0BBACAC	MAXALT MELT WAFER 10MG	40704	n	
+40702	Maxitram Sr  M/R capsules  100 mg	40702	y	yes_approved
+4070200	Maxitram SR 100mg capsules (Chiesi Ltd)	40702	y	yes_approved
+4070200	Maxitram SR 150mg capsules (Chiesi Ltd)	40702	y	yes_approved
+4070200	Maxitram SR 200mg capsules (Chiesi Ltd)	40702	y	yes_approved
+4070200	Maxitram SR 50mg capsules (Chiesi Ltd)	40702	y	yes_approved
+1001010N0AAAAAA	MEFANAMIC ACID-P42 250mg caps	100101	y	yes_approved
+1001010N0AAADAD	MEFANAMIC ACID-P42 forte 500mg tabs	100101	y	yes_approved
+1001010N0AAAAAA	Mefenamic Acid  Capsules  250 mg	100101	y	yes_approved
+1001010N0AAADAD	Mefenamic Acid  Tablets  500 mg	100101	y	yes_approved
+10010100	MEFENAMIC ACID -P42 FORTE 500mg cap	100101	y	yes_approved
+10010100	Mefenamic acid 250mg capsules	100101	y	yes_approved
+10010100	Mefenamic acid 500mg tablets	100101	y	yes_approved
+1001010N0AAAAAA	Mefenamic Acid CAPS 250MG	100101	y	yes_approved
+1001010N0AAAAAA	MEFENAMIC ACID CAPSULES 250MG	100101	y	yes_approved
+1001010N0AAAAAA	Mefenamic Acid CAPSULES 250MG	100101	y	yes_approved
+1001010N0AAADAD	MEFENAMIC ACID TABLETS 500MG	100101	y	yes_approved
+1001010N0AAADAD	Mefenamic Acid TABLETS 500MG	100101	y	yes_approved
+1001010N0AAADAD	Mefenamic Acid TABS 500MG	100101	y	yes_approved
+1001010N0AAAAAA	MEFENAMIC ACID-P42 250MG CAPSULE	100101	y	yes_approved
+1001010N0AAADAD	MEFENAMIC ACID-P42 500MG TABLET	100101	y	yes_approved
+1001010N0AAADAD	Mefenamic acid-P42 500mg tablet	100101	y	yes_approved
+1001010AAAAABAB	Meloxicam  Tablets  15 mg	100101	y	yes_approved
+1001010AAAAAAAA	Meloxicam  Tablets  7.5 mg	100101	y	yes_approved
+10010100	Meloxicam 15mg tablets	100101	y	yes_approved
+10010100	Meloxicam 7.5mg orodispersible tablets sugar free	100101	y	yes_approved
+1001010AAAAAAAA	MELOXICAM 7.5MG TABLET	100101	y	yes_approved
+10010100	Meloxicam 7.5mg tablets	100101	y	yes_approved
+1001010AAAAABAB	MELOXICAM TABLETS 15MG	100101	y	yes_approved
+1001010AAAAAAAA	MELOXICAM TABLETS 7.5MG	100101	y	yes_approved
+1001010AAAAABAB	Meloxicam TABS 15MG	100101	y	yes_approved
+10010100	MELOXICAM tabs 15mg	100101	y	yes_approved
+1001010AAAAAAAA	Meloxicam TABS 7.5MG	100101	y	yes_approved
+10010100	MELOXICAM tabs 7.5mg	100101	y	yes_approved
+100302	Menthol  Gel  2 %	100302	n	
+0407020L0AAABAB	Meptazinol  Tablets  200 mg	40702	y	yes_approved
+4070200	Meptazinol 200mg tablets	40702	y	yes_approved
+0407020L0AAABAB	MEPTAZINOL TABLETS 200MG	40702	y	yes_approved
+0407020L0AAABAB	Meptazinol TABS 200MG	40702	y	yes_approved
+0407020L0AAABAB	Meptazinol-P42 200mg tablet	40702	y	yes_approved
+4070200	Meptid 200mg tablets (Almirall Ltd)	40702	y	yes_approved
+0407020L0BBAAAB	MEPTID TABLETS 200MG	40702	y	yes_approved
+0407020L0BBAAAB	Meptid TABS 200MG	40702	y	yes_approved
+4070200	Methadone 5mg tablets	40702	y	yes_approved
+0407020M0AAAEAE	Methadone Hydrochloride  Tablets  5 mg	40702	y	yes_approved
+41003	Methadone Hydrochloride Sf Oral SOLN 1MG/ML	41003	y	yes_approved
+100302	Methyl Salicylate And Menthol  Cream  30 % + 8 %	100302	n	
+1003020N0AAABAB	Methyl Salicylate OINT 50%	100302	n	
+0407042L0AAAAAA	Methysergide  Tablets  1 mg	40704	n	
+0407042L0AAAAAA	METHYSERGIDE TABLETS 1MG	40704	n	
+4030100	Mianserin 10mg tablets	40301	n	
+0403010T0AAACAC	MIANSERIN HCL-P42 30MG TABLET	40301	n	
+0403010T0AAAAAA	Mianserin Hydrochloride  Tablets  10 mg	40301	n	
+0403010T0AAACAC	MIANSERIN HYDROCHLORIDE TABLETS 30MG	40301	n	
+0403010T0AAABAB	Mianserin Hydrochloride TABS 20MG	40301	n	
+0403010T0AAACAC	Mianserin Hydrochloride TABS 30MG	40301	n	
+1501041T0AAAAAA	Midazolam  Injection  10 mg/2 ml ampoule	150104	n	
+15010401	Midazolam  Injection  5 mg/ml  10 ml ampoule	150104	n	
+15010401	Midazolam 10mg/2ml solution for injection ampoules	150104	n	
+15010401	Midazolam 10mg/5ml solution for injection ampoules	150104	n	
+15010401	Midazolam 2mg/2ml solution for injection ampoules	150104	n	
+15010401	Midazolam 5mg/5ml solution for injection ampoules	150104	n	
+0407041N0BBAAAA	Midrid CAPS	40704	n	
+0407041N0BBAAAA	MIDRID CAPS	40704	n	
+0407041A0BBABAG	Migraleve  Pink tablets	40704	n	
+0407041A0BBABAG	Migraleve  Pink Tablets	40704	n	
+0407041A0BBAAAA	Migraleve  Tablets	40704	n	
+0407041A0BBACAH	Migraleve  Yellow tablets	40704	n	
+0407041A0BBAAAA	MIGRALEVE COMPLETE TABLETS	40704	n	
+0407041A0BBAAAA	Migraleve Complete TABS	40704	n	
+0407041A0BBAAAA	MIGRALEVE DUO-PACK-P42 TABLETS BLUE 24	40704	n	
+0407041A0BBAAAA	MIGRALEVE DUOPAK PINK YELLOW	40704	n	
+0407041A0BBABAG	MIGRALEVE PINK PACK TABLETS	40704	n	
+0407041A0BBABAG	Migraleve Pink Pack TABS	40704	n	
+0407041A0BBABAG	MIGRALEVE PINK TABLETS	40704	n	
+4070401	Migraleve Pink tablets (McNeil Products Ltd)	40704	n	
+4070401	MIGRALEVE PINK tabs	40704	n	
+0407041A0BBABAG	MIGRALEVE SUPPLEMENTARY-P42 TABLETS PINK 24	40704	n	
+4070401	Migraleve tablets (McNeil Products Ltd)	40704	n	
+0407041A0BBACAH	MIGRALEVE YELLOW PACK TABLETS	40704	n	
+0407041A0BBACAH	Migraleve Yellow Pack TABS	40704	n	
+4070200	Migraleve Yellow tablets (McNeil Products Ltd)	40702	n	
+4070100	Migraleve Yellow tablets (McNeil Products Ltd)	40701	n	
+0407041A0BBABAG	MIGRALEVE-P42 PINK TABLETS	40704	n	
+0407041A0BBABAG	MIGRALEVE-P42 pink tabs	40704	n	
+40701	Migramax  Oral powder sachets	40701	n	
+40701	Migramax  Sachets	40701	n	
+40701	Migramax SACH	40701	n	
+40701	MIGRAMAX SACH	40701	n	
+0407041A0BCAAAB	Migravess  Effervescent tablets	40704	n	
+0407041A0BCABAF	Migravess  Forte tablets	40704	n	
+0407041A0BCAAAB	Migravess  Tablets	40704	n	
+0407041A0BCABAF	MIGRAVESS FORTE TABLETS	40704	n	
+0407041A0BCABAF	Migravess Forte TABS	40704	n	
+0407041A0BCAAAB	MIGRAVESS TABLETS	40704	n	
+0407041A0BCAAAB	Migravess TABS	40704	n	
+0407041F0BGAAAJ	Migril  Tablets	40704	n	
+0407041F0BGAAAJ	MIGRIL TABLETS	40704	n	
+4070401	Migril tablets (Wockhardt UK Ltd)	40704	n	
+0407041F0BGAAAJ	Migril TABS	40704	n	
+0407041F0BGAAAJ	Migril-P42 tablet	40704	n	
+0407041F0BGAAAJ	MIGRIL-P42 tabs	40704	n	
+40304	Mirtazapine  Orodispersible tablets  15 mg	40304	n	
+40304	Mirtazapine  Orodispersible Tablets  15 mg	40304	n	
+40304	Mirtazapine  Orodispersible tablets  30 mg	40304	n	
+40304	Mirtazapine  Orodispersible tablets  45 mg	40304	n	
+40304	Mirtazapine  Orodispersible Tablets  45 mg	40304	n	
+40304	Mirtazapine  Tablets  15 mg	40304	n	
+0403010AAAAAAAA	Mirtazapine  Tablets  30 mg	40301	n	
+40304	Mirtazapine  Tablets  45 mg	40304	n	
+4030400	Mirtazapine 15mg orodispersible tablets	40304	n	
+4030400	Mirtazapine 15mg tablets	40304	n	
+40304	Mirtazapine 15mg TABS 15mg	40304	n	
+4030400	Mirtazapine 15mg/ml oral solution sugar free	40304	n	
+4030400	Mirtazapine 30mg orodispersible tablets	40304	n	
+4030400	Mirtazapine 30mg tablets	40304	n	
+0403010AAAAAAAA	MIRTAZAPINE 30MG TABLETS	40301	n	
+4030400	Mirtazapine 45mg orodispersible tablets	40304	n	
+4030400	Mirtazapine 45mg tablets	40304	n	
+40304	MIRTAZAPINE ORODISPERSIBLE 15MG TABLETS	40304	n	
+40304	MIRTAZAPINE ORODISPERSIBLE 30MG TABLETS	40304	n	
+40304	MIRTAZAPINE ORODISPERSIBLE TABLETS 15MG	40304	n	
+40304	MIRTAZAPINE ORODISPERSIBLE TABLETS 30MG	40304	n	
+40304	MIRTAZAPINE ORODISPERSIBLE TABLETS 45MG	40304	n	
+40304	Mirtazapine Orodispersible TABS 15MG	40304	n	
+40304	Mirtazapine Orodispersible TABS 30MG	40304	n	
+40304	Mirtazapine Orodispersible TABS 45MG	40304	n	
+40304	Mirtazapine Sf Oral SOLN 15MG/ML	40304	n	
+40304	MIRTAZAPINE TABLETS 15 MG	40304	n	
+40304	MIRTAZAPINE TABLETS 15MG	40304	n	
+0403010AAAAAAAA	MIRTAZAPINE TABLETS 30 MG	40301	n	
+0403010AAAAAAAA	MIRTAZAPINE TABLETS 30MG	40301	n	
+40304	MIRTAZAPINE TABLETS 45MG	40304	n	
+40304	Mirtazapine TABS 15MG	40304	n	
+40304	Mirtazapine TABS 15mg	40304	n	
+40304	mirtazapine TABS 15mg	40304	n	
+0403010AAAAAAAA	Mirtazapine TABS 30MG	40301	n	
+40304	Mirtazapine TABS 45MG	40304	n	
+40304	MIRTAZEPINE TABLETS 15MG	40304	n	
+0403010AAAAAAAA	MIRTAZIPINE  TABS 30MG	40301	n	
+1001010AABBAAAA	Mobic  Tablets  7.5 mg	100101	y	yes_approved
+1001010AABBABAB	MOBIC 15MG	100101	y	yes_approved
+1001010AABBABAB	MOBIC 15MG TAB	100101	y	yes_approved
+1001010AABBABAB	MOBIC TABLETS 15MG	100101	y	yes_approved
+1001010AABBAAAA	MOBIC TABLETS 7.5MG	100101	y	yes_approved
+1001010AABBABAB	Mobic TABS 15MG	100101	y	yes_approved
+100101040BBAAAA	Mobiflex  Tablets  20 mg	100101	y	yes_approved
+100101040BBAAAA	MOBIFLEX TABLETS 20MG	100101	y	yes_approved
+100101040BBAAAA	Mobiflex TABS 20MG	100101	y	yes_approved
+0403010X0BBABAB	MOLIPAXIN CAPSULES 100MG	40301	n	
+0403010X0BBAAAA	MOLIPAXIN CAPSULES 50MG	40301	n	
+0403010X0BBAEAE	MOLIPAXIN CR TABLETS 150MG	40301	n	
+0403010X0BBAEAE	Molipaxin Cr TABS 150MG	40301	n	
+0403010X0BBADAD	MOLIPAXIN TABLETS 150MG	40301	n	
+0403010X0BBADAD	Molipaxin TABS 150MG	40301	n	
+40702	Morphgesic Sr  M/R tablets  10 mg	40702	y	yes_approved
+4070200	Morphine 100mg modified-release capsules	40702	y	yes_approved
+4070200	Morphine 100mg modified-release granules sachets sugar free	40702	y	yes_approved
+4070200	Morphine 10mg modified-release capsules	40702	y	yes_approved
+4070200	Morphine 10mg modified-release tablets	40702	y	yes_approved
+4070200	Morphine 10mg tablets	40702	y	yes_approved
+4070200	Morphine 15mg modified-release tablets	40702	y	yes_approved
+4070200	Morphine 20mg modified-release granules sachets sugar free	40702	y	yes_approved
+4070200	Morphine 20mg tablets	40702	y	yes_approved
+4070200	Morphine 30mg modified-release capsules	40702	y	yes_approved
+4070200	Morphine 30mg modified-release tablets	40702	y	yes_approved
+4070200	Morphine 5mg modified-release tablets	40702	y	yes_approved
+4070200	Morphine 60mg modified-release capsules	40702	y	yes_approved
+4070200	Morphine 60mg modified-release granules sachets sugar free	40702	y	yes_approved
+4070200	Morphine 60mg modified-release tablets	40702	y	yes_approved
+40702	Morphine Sulfate  Injection  10 mg/ml  1 ml ampoule	40702	y	yes_approved
+40702	Morphine Sulfate  M/R capsules  10 mg	40702	y	yes_approved
+40702	Morphine Sulfate  M/R capsules  30 mg	40702	y	yes_approved
+40702	Morphine Sulfate  M/R suspension  20 mg/sachet  granules sugar free	40702	y	yes_approved
+40702	Morphine Sulfate  M/R tablets  10 mg	40702	y	yes_approved
+0407020Q0AACFCF	Morphine Sulfate  M/R tablets  15 mg	40702	y	yes_approved
+40702	Morphine Sulfate  M/R tablets  30 mg	40702	y	yes_approved
+0407020Q0AACGCG	Morphine Sulfate  M/R tablets  5 mg	40702	y	yes_approved
+0407020Q0AAAUAU	Morphine Sulfate  Oral solution  10 mg/5 ml	40702	y	yes_approved
+0407020Q0AACDCD	Morphine Sulfate  Tablets  10 mg	40702	y	yes_approved
+0407020Q0AACECE	Morphine Sulfate  Tablets  20 mg	40702	y	yes_approved
+4070200	Morphine sulfate 10mg/1ml solution for injection ampoules	40702	y	yes_approved
+4070200	Morphine sulfate 10mg/5ml oral solution	40702	y	yes_approved
+4070200	Morphine sulfate 15mg/1ml solution for injection ampoules	40702	y	yes_approved
+4070200	Morphine sulfate 20mg/1ml solution for injection ampoules	40702	y	yes_approved
+4070200	Morphine sulfate 30mg/1ml solution for injection ampoules	40702	y	yes_approved
+4070200	Morphine sulfate 60mg/2ml solution for injection ampoules	40702	y	yes_approved
+40702	Morphine Sulphate  M/R capsules  10 mg	40702	y	yes_approved
+40702	Morphine Sulphate  M/R capsules  30 mg	40702	y	yes_approved
+40702	Morphine Sulphate  M/R tablets  10 mg	40702	y	yes_approved
+0407020Q0AACFCF	Morphine Sulphate  M/R tablets  15 mg	40702	y	yes_approved
+40702	Morphine Sulphate  M/R tablets  30 mg	40702	y	yes_approved
+0407020Q0AACGCG	Morphine Sulphate  M/R tablets  5 mg	40702	y	yes_approved
+40702	Morphine Sulphate  M/R tablets  60 mg	40702	y	yes_approved
+0407020Q0AAAUAU	Morphine Sulphate  Oral solution  10 mg/5 ml	40702	y	yes_approved
+0407020Q0AACDCD	Morphine Sulphate  Tablets  10 mg	40702	y	yes_approved
+0407020Q0AACECE	Morphine Sulphate  Tablets  20 mg	40702	y	yes_approved
+4070200	Morphine sulphate 10mg/1ml solution for injection ampoules	40702	y	yes_approved
+4070200	Morphine sulphate 10mg/5ml oral solution	40702	y	yes_approved
+4070200	Morphine sulphate 20mg/1ml solution for injection ampoules	40702	y	yes_approved
+4070200	Morphine sulphate 30mg/1ml solution for injection ampoules	40702	y	yes_approved
+4070200	Morphine sulphate 60mg/2ml solution for injection ampoules	40702	y	yes_approved
+40702	Morphine Sulphate Mr CAPS 10MG	40702	y	yes_approved
+40702	Morphine Sulphate Mr TABS 10MG	40702	y	yes_approved
+0407020Q0AACFCF	Morphine Sulphate Mr TABS 15MG	40702	y	yes_approved
+0407020Q0AACGCG	Morphine Sulphate Mr TABS 5MG	40702	y	yes_approved
+0407020Q0AAAUAU	MORPHINE SULPHATE ORAL SOLN 10MG/5ML	40702	y	yes_approved
+0407020Q0AAAUAU	Morphine Sulphate Oral SOLN 10MG/5ML	40702	y	yes_approved
+0407020Q0AACSCS	MORPHINE SULPHATE SF ORAL UNIT DOSE VIAL 5ML  10MG/5ML	40702	y	yes_approved
+0407020Q0AACDCD	MORPHINE SULPHATE TABLETS 10MG	40702	y	yes_approved
+0407020Q0AACECE	MORPHINE SULPHATE TABLETS 20MG	40702	y	yes_approved
+0407020Q0AACDCD	Morphine Sulphate TABS 10MG	40702	y	yes_approved
+0407020Q0AACECE	Morphine Sulphate TABS 20MG	40702	y	yes_approved
+1001010C0BPAAAR	Motifene CAPS 75MG	100101	y	yes_approved
+1001010C0BPAAAR	MOTIFENE CAPSULES 75MG	100101	y	yes_approved
+0403010V0BDAAAL	Motipress TABS	40301	n	
+0403010V0BDAAAL	Motipress-P42 tablet	40301	n	
+0403010V0BEAAAM	Motival  Tablets	40301	n	
+0403010V0BEAAAM	MOTIVAL TABLETS	40301	n	
+0403010V0BEAAAM	Motival TABS	40301	n	
+1001010J0BHABAE	MOTRIN TABLETS 400MG	100101	y	yes_approved
+1001010J0BHACAF	MOTRIN TABLETS 600MG	100101	y	yes_approved
+1001010J0BHADAG	MOTRIN TABLETS 800MG	100101	y	yes_approved
+1001010J0BHACAF	Motrin TABS 600MG	100101	y	yes_approved
+1003020W0BBAAAB	Movelat  Cream	100302	n	
+1003020W0BBABAA	Movelat  Gel	100302	n	
+1003020W0BBAAAB	Movelat CREAM	100302	n	
+1003020W0BBAAAB	MOVELAT CREAM	100302	n	
+10030250	Movelat cream (Genus Pharmaceuticals Ltd)	100302	n	
+10030250	Movelat cream (Thornton & Ross Ltd)	100302	n	
+1003020W0BBABAA	Movelat GEL	100302	n	
+1003020W0BBABAA	MOVELAT GEL	100302	n	
+10030250	MOVELAT gel	100302	n	
+10030250	Movelat gel (Genus Pharmaceuticals Ltd)	100302	n	
+10030250	Movelat gel (Thornton & Ross Ltd)	100302	n	
+100302	Movelat Relief  Cream	100302	n	
+100302	Movelat Relief  Gel	100302	n	
+100302	MOVELAT RELIEF CREAM	100302	n	
+100302	Movelat Relief CREAM	100302	n	
+100302	Movelat Relief GEL	100302	n	
+100302	MOVELAT RELIEF GEL	100302	n	
+10030250	Movelat Relief gel (Genus Pharmaceuticals Ltd)	100302	n	
+10030250	Movelat Relief gel (Thornton & Ross Ltd)	100302	n	
+0407020Q0BBAFCV	Mst Continus  M/R suspension  20 mg	40702	y	yes_approved
+0407020Q0BBAGCP	Mst Continus  M/R suspension  30 mg	40702	y	yes_approved
+0407020Q0BBAAAK	Mst Continus  M/R tablets  10 mg	40702	y	yes_approved
+0407020Q0BBADAH	Mst Continus  M/R tablets  100 mg	40702	y	yes_approved
+0407020Q0BBALCF	Mst Continus  M/R tablets  15 mg	40702	y	yes_approved
+0407020Q0BBABAL	Mst Continus  M/R tablets  30 mg	40702	y	yes_approved
+0407020Q0BBAKCG	Mst Continus  M/R tablets  5 mg	40702	y	yes_approved
+0407020Q0BBACAI	Mst Continus  M/R tablets  60 mg	40702	y	yes_approved
+4070200	MST Continus 100mg tablets (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+4070200	MST Continus 10mg tablets (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+4070200	MST Continus 15mg tablets (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+4070200	MST Continus 30mg tablets (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+4070200	MST Continus 5mg tablets (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+4070200	MST Continus 60mg tablets (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+0407020Q0BBAFCV	MST CONTINUS SF SUSPENSION SACH 20MG	40702	y	yes_approved
+4070200	MST Continus Suspension 20mg granules sachets (Napp Pharm...	40702	y	yes_approved
+4070200	MST Continus Suspension 60mg granules sachets (Napp Pharm...	40702	y	yes_approved
+0407020Q0BBAAAK	MST CONTINUS TABLETS 10MG	40702	y	yes_approved
+0407020Q0BBABAL	MST CONTINUS TABLETS 30MG	40702	y	yes_approved
+0407020Q0BBAKCG	MST CONTINUS TABLETS 5MG	40702	y	yes_approved
+0407020Q0BBACAI	MST CONTINUS TABLETS 60MG	40702	y	yes_approved
+0407020Q0BBAAAK	Mst Continus TABS 10MG	40702	y	yes_approved
+0407020Q0BBALCF	Mst Continus TABS 15MG	40702	y	yes_approved
+0407020Q0BBABAL	Mst Continus TABS 30MG	40702	y	yes_approved
+0407020Q0BBAKCG	Mst Continus TABS 5MG	40702	y	yes_approved
+0407020Q0BBACAI	Mst Continus TABS 60MG	40702	y	yes_approved
+0408010U0BBAAAB	Mysoline  Tablets  250 mg	40801	n	
+4080102	Mysoline 250mg tablets (Acorus Therapeutics Ltd)	40801	n	
+4080102	Mysoline 250mg tablets (SERB)	40801	n	
+0408010U0BBAAAB	Mysoline TABS 250MG	40801	n	
+0408010U0BBAAAB	MYSOLINE-P42 250MG TABLET	40801	n	
+1001010X0AAAAAA	Nabumetone  Tablets  500 mg	100101	y	yes_approved
+10010100	Nabumetone 500mg tablets	100101	y	yes_approved
+1001010X0AAAAAA	NABUMETONE TABLETS 500MG	100101	y	yes_approved
+1001010X0AAAAAA	NABUMETONE TABLETS 500MG-P42 TABLETS 500 MG	100101	y	yes_approved
+1001010X0AAAAAA	Nabumetone TABS 500MG	100101	y	yes_approved
+41003	Naltrexone Hydrochloride  Capsules  2 mg	41003	n	
+41003	Naltrexone Hydrochloride  Capsules  3 mg	41003	n	
+41003	Naltrexone Hydrochloride  Capsules  4.5 mg	41003	n	
+41003	Naltrexone Hydrochloride  Oral solution  5 mg/5 ml	41003	n	
+1001010P0BKAAAL	NAPRATEC 500 MGM	100101	y	yes_approved
+1001010P0BKAAAL	Napratec Combination Pack TABS	100101	y	yes_approved
+1001010P0BKAAAL	Napratec OP  Tablets	100101	y	yes_approved
+1001010P0BCAGAH	Naprosyn  E/C Tablets  250 mg	100101	y	yes_approved
+1001010P0BCAGAH	Naprosyn  E/c tablets  250 mg	100101	y	yes_approved
+1001010P0BCAAAD	Naprosyn  Tablets  250 mg	100101	y	yes_approved
+1001010P0BCABAE	Naprosyn  Tablets  500 mg	100101	y	yes_approved
+10010100	Naprosyn 250mg tablets (Roche Products Ltd)	100101	y	yes_approved
+10010100	Naprosyn 500mg tablets (Roche Products Ltd)	100101	y	yes_approved
+10010100	Naprosyn EC 250mg tablets (Roche Products Ltd)	100101	y	yes_approved
+10010100	Naprosyn EC 375mg tablets (Roche Products Ltd)	100101	y	yes_approved
+10010100	Naprosyn EC 500mg tablets (Atnahs Pharma UK Ltd)	100101	y	yes_approved
+10010100	Naprosyn EC 500mg tablets (Roche Products Ltd)	100101	y	yes_approved
+1001010P0BCAGAH	NAPROSYN EC TABLETS 250MG	100101	y	yes_approved
+1001010P0BCAIAI	NAPROSYN EC TABLETS 500MG	100101	y	yes_approved
+1001010P0BCAGAH	Naprosyn Ec TABS 250MG	100101	y	yes_approved
+1001010P0BCAIAI	Naprosyn Ec TABS 500MG	100101	y	yes_approved
+1001010P0BCAJAQ	NAPROSYN SR TABLETS 500MG	100101	y	yes_approved
+1001010P0BCAJAQ	Naprosyn Sr TABS 500MG	100101	y	yes_approved
+1001010P0BCAAAD	NAPROSYN TABLETS 250MG	100101	y	yes_approved
+1001010P0BCAAAD	Naprosyn TABS 250MG	100101	y	yes_approved
+1001010P0BCABAE	Naprosyn TABS 500MG	100101	y	yes_approved
+1001010P0BCAAAD	Naprosyn-P42 250mg tablet	100101	y	yes_approved
+1001010P0BCABAE	Naprosyn-P42 500mg tablet	100101	y	yes_approved
+1001010P0AAAHAH	Naproxen  E/c tablets  250 mg	100101	y	yes_approved
+1001010P0AAAHAH	Naproxen  E/C Tablets  250 mg	100101	y	yes_approved
+1001010P0AAAJAJ	Naproxen  E/c tablets  375 mg	100101	y	yes_approved
+1001010P0AAAIAI	Naproxen  E/c tablets  500 mg	100101	y	yes_approved
+1001010P0AAAIAI	Naproxen  E/C Tablets  500 mg	100101	y	yes_approved
+1001010P0AAADAD	Naproxen  Tablets  250 mg	100101	y	yes_approved
+1001010P0AAAEAE	Naproxen  Tablets  500 mg	100101	y	yes_approved
+10010100	Naproxen 125mg/5ml oral suspension sugar free	100101	y	yes_approved
+10010100	Naproxen 250mg effervescent tablets sugar free	100101	y	yes_approved
+10010100	Naproxen 250mg gastro-resistant tablets	100101	y	yes_approved
+10010100	Naproxen 250mg tablets	100101	y	yes_approved
+10010100	Naproxen 375mg gastro-resistant tablets	100101	y	yes_approved
+10010100	Naproxen 500mg gastro-resistant tablets	100101	y	yes_approved
+10010100	Naproxen 500mg tablets	100101	y	yes_approved
+1001010P0AAAHAH	NAPROXEN EC TABLETS 250MG	100101	y	yes_approved
+1001010P0AAAHAH	Naproxen Ec TABLETS 250MG	100101	y	yes_approved
+1001010P0AAAJAJ	NAPROXEN EC TABLETS 375MG	100101	y	yes_approved
+1001010P0AAAIAI	Naproxen Ec TABLETS 500MG	100101	y	yes_approved
+1001010P0AAAIAI	NAPROXEN EC TABLETS 500MG	100101	y	yes_approved
+1001010P0AAAHAH	Naproxen Ec TABS 250MG	100101	y	yes_approved
+1001010P0AAAJAJ	Naproxen Ec TABS 375MG	100101	y	yes_approved
+1001010P0AAAIAI	Naproxen Ec TABS 500MG	100101	y	yes_approved
+1001010P0AAAIAI	NAPROXEN EC TABS 500MG	100101	y	yes_approved
+1001010P0AAAHAH	NAPROXEN enteric coated tablets TAB 250mg-P42 0	100101	y	yes_approved
+100101	NAPROXEN MR TABLETS 500MG	100101	y	yes_approved
+100101	Naproxen Mr TABS 500MG	100101	y	yes_approved
+100101070AAAAAA	Naproxen Sodium  Tablets  275 mg	100101	y	yes_approved
+100101070AAAAAA	NAPROXEN SODIUM TABLETS 275MG	100101	y	yes_approved
+100101070AAAAAA	Naproxen Sodium TABS 275MG	100101	y	yes_approved
+1001010P0AAADAD	NAPROXEN TABLETS 250MG	100101	y	yes_approved
+1001010P0AAAEAE	NAPROXEN TABLETS 500MG	100101	y	yes_approved
+1001010P0AAAEAE	Naproxen TABLETS 500MG	100101	y	yes_approved
+1001010P0AAAEAE	NAPROXEN tablets TAB 500mg-P42 0	100101	y	yes_approved
+1001010P0AAADAD	Naproxen TABS 250MG	100101	y	yes_approved
+10010100	NAPROXEN tabs 250mg	100101	y	yes_approved
+1001010P0AAAEAE	Naproxen TABS 500MG	100101	y	yes_approved
+10010100	NAPROXEN tabs 500mg	100101	y	yes_approved
+1001010P0AAAEAE	Naproxen-P42 500mg tablet	100101	y	yes_approved
+0407041M0BBAAAA	Naramig  Tablets  2.5 mg	40704	n	
+4070401	Naramig 2.5mg tablets (GlaxoSmithKline UK Ltd)	40704	n	
+0407041M0BBAAAA	NARAMIG TABLETS	40704	n	
+0407041M0BBAAAA	NARAMIG TABLETS 2.5MG	40704	n	
+0407041M0BBAAAA	Naramig TABS 2.5MG	40704	n	
+0407041M0AAAAAA	NARATRIPTAN 2.5MG TAB	40704	n	
+4070401	Naratriptan 2.5mg tablets	40704	n	
+0407041M0AAAAAA	Naratriptan Hydrochloride  Tablets  2.5 mg	40704	n	
+0407041M0AAAAAA	NARATRIPTAN TABLETS 2.5MG	40704	n	
+0407041M0AAAAAA	Naratriptan TABS 2.5MG	40704	n	
+4070401	NARATRIPTAN tabs 2.5mg	40704	n	
+4070100	Nefopam 30mg tablets	40701	y	yes_approved
+0407010P0AAABAB	Nefopam Hydrochloride  Tablets  30 mg	40701	y	yes_approved
+0407010P0AAABAB	NEFOPAM HYDROCHLORIDE TABLETS 30MG	40701	y	yes_approved
+0407010P0AAABAB	Nefopam Hydrochloride TABS 30MG	40701	y	yes_approved
+4080100	Neurontin 100mg capsules (Pfizer Ltd)	40801	y	
+4080100	Neurontin 300mg capsules (Pfizer Ltd)	40801	y	
+4080100	Neurontin 600mg tablets (Pfizer Ltd)	40801	y	
+40801	NEURONTIN 800MG TABLETS	40801	y	
+0408010G0BBABAB	NEURONTIN CAPSULES 300MG	40801	y	
+0403010V0AAADAD	Nortriptyline  Tablets  10 mg	40301	y	
+0403010V0AAAEAE	Nortriptyline  Tablets  25 mg	40301	y	
+4030100	Nortriptyline 10mg tablets	40301	y	
+4030100	Nortriptyline 25mg tablets	40301	y	
+40301	Nortriptyline And Fluphenazine  Tablets  10 mg + 500 micrograms	40301	n	
+0403010V0AAADAD	Nortriptyline TABLETS 10MG	40301	y	
+0403010V0AAADAD	NORTRIPTYLINE TABLETS 10MG	40301	y	
+0403010V0AAAEAE	NORTRIPTYLINE TABLETS 25MG	40301	y	
+0403010V0AAAEAE	Nortriptyline TABLETS 25MG	40301	y	
+0403010V0AAADAD	Nortriptyline TABS 10MG	40301	y	
+0403010V0AAAEAE	Nortriptyline TABS 25MG	40301	y	
+0407010B0BDAAA3	Nu-Seals Aspirin  E/C Tablets  300 mg	40701	y	yes_approved
+0407010B0BDAAA3	NUSEALS ASPIRIN EC TABLETS 300MG	40701	y	yes_approved
+0407010B0BDAAA3	Nuseals Aspirin Gastro Resistant TABS 300MG	40701	y	yes_approved
+1001010P0BGAAAH	NYCOPREN TABLETS 250MG	100101	y	yes_approved
+1001010P0BGABAI	NYCOPREN TABLETS 500MG	100101	y	yes_approved
+0403040S0BBAAAB	Optimax TABS 500MG	40304	n	
+0407020Q0BCAGCN	Oramorph  Oral solution  10 mg/5 ml	40702	y	yes_approved
+0407020Q0BCAGCN	Oramorph  Oral Solution  10 mg/5 ml	40702	y	yes_approved
+4070200	Oramorph 10mg/5ml oral solution (Boehringer Ingelheim Ltd)	40702	y	yes_approved
+4070200	ORAMORPH oral soln 10mg/5ml	40702	y	yes_approved
+0407020Q0BCAGCN	Oramorph Oral SOLN 10MG/5ML	40702	y	yes_approved
+100302010BBAAAA	Oruvail  Gel  2.5 %	100302	n	
+1001010L0BDABAJ	Oruvail  M/R capsules  200 mg	100101	y	yes_approved
+1001010L0BDAAAI	Oruvail CAPS 100MG	100101	y	yes_approved
+1001010L0BDABAJ	Oruvail CAPS 200MG	100101	y	yes_approved
+1001010L0BDAAAI	ORUVAIL CAPSULES 100MG	100101	y	yes_approved
+1001010L0BDADAL	ORUVAIL CAPSULES 150MG	100101	y	yes_approved
+1001010L0BDABAJ	ORUVAIL CAPSULES 200MG	100101	y	yes_approved
+100302010BBAAAA	ORUVAIL GEL 2.5%	100302	n	
+40801	Oxcarbazepine  Tablets  150 mg	40801	y	
+40801	Oxcarbazepine  Tablets  300 mg	40801	y	
+40801	Oxcarbazepine  Tablets  600 mg	40801	y	
+40801	Oxcarbazepine TABS 300MG	40801	y	
+4070200	Oxycodone 10mg capsules	40702	y	yes_approved
+4070200	Oxycodone 10mg modified-release tablets	40702	y	yes_approved
+4070200	Oxycodone 10mg/1ml solution for injection ampoules	40702	y	yes_approved
+4070200	Oxycodone 10mg/ml oral solution sugar free	40702	y	yes_approved
+4070200	Oxycodone 120mg modified-release tablets	40702	y	yes_approved
+4070200	Oxycodone 15mg modified-release tablets	40702	y	yes_approved
+4070200	Oxycodone 20mg capsules	40702	y	yes_approved
+4070200	Oxycodone 20mg modified-release tablets	40702	y	yes_approved
+4070200	Oxycodone 20mg/2ml solution for injection ampoules	40702	y	yes_approved
+4070200	Oxycodone 30mg modified-release tablets	40702	y	yes_approved
+4070200	Oxycodone 40mg modified-release tablets	40702	y	yes_approved
+4070200	Oxycodone 50mg/1ml solution for injection ampoules	40702	y	yes_approved
+4070200	Oxycodone 5mg capsules	40702	y	yes_approved
+4070200	Oxycodone 5mg modified-release tablets	40702	y	yes_approved
+4070200	Oxycodone 5mg/5ml oral solution sugar free	40702	y	yes_approved
+4070200	Oxycodone 60mg modified-release tablets	40702	y	yes_approved
+40702	Oxycodone And Naloxone  M/R tablets  10 mg + 5 mg	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  Capsules  10 mg	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  Capsules  20 mg	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  Capsules  5 mg	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  Injection  10 mg/ml  1 ml ampoule	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  M/R tablets  10 mg	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  M/R tablets  15 mg	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  M/R tablets  20 mg	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  M/R tablets  30 mg	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  M/R tablets  40 mg	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  M/R tablets  5 mg	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  M/R tablets  80 mg	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  Solution  Sugar Free 5 mg/5 ml	40702	y	yes_approved
+40702	Oxycodone Hydrochloride  Solution for injection  50 mg/ml  1 ml ampoule	40702	y	yes_approved
+40702	Oxycodone Hydrochloride CAPS 10MG	40702	y	yes_approved
+40702	Oxycodone Hydrochloride CAPS 5MG	40702	y	yes_approved
+40702	OXYCODONE HYDROCHLORIDE CAPSULES 10MG	40702	y	yes_approved
+40702	OXYCODONE HYDROCHLORIDE CAPSULES 20MG	40702	y	yes_approved
+40702	OXYCODONE HYDROCHLORIDE CAPSULES 5MG	40702	y	yes_approved
+40702	OXYCODONE HYDROCHLORIDE MR TABLETS 10MG	40702	y	yes_approved
+40702	OXYCODONE HYDROCHLORIDE MR TABLETS 20MG	40702	y	yes_approved
+40702	OXYCODONE HYDROCHLORIDE MR TABLETS 40MG	40702	y	yes_approved
+40702	Oxycodone Hydrochloride Mr TABS 10MG	40702	y	yes_approved
+40702	Oxycodone Hydrochloride Mr TABS 20MG	40702	y	yes_approved
+40702	Oxycodone Hydrochloride Mr TABS 40MG	40702	y	yes_approved
+40702	Oxycodone Hydrochloride Mr TABS 5MG	40702	y	yes_approved
+40702	Oxycodone Hydrochloride Mr TABS 80MG	40702	y	yes_approved
+40702	Oxycodone Hydrochloride Sf Oral LIQ 5MG/5ML	40702	y	yes_approved
+40702	Oxycontin  M/R tablets  10 mg	40702	y	yes_approved
+40702	OxyContin  M/R tablets  10 mg	40702	y	yes_approved
+40702	Oxycontin  M/R tablets  15 mg	40702	y	yes_approved
+40702	Oxycontin  M/R tablets  20 mg	40702	y	yes_approved
+40702	OxyContin  M/R tablets  20 mg	40702	y	yes_approved
+40702	Oxycontin  M/R tablets  30 mg	40702	y	yes_approved
+40702	Oxycontin  M/R tablets  40 mg	40702	y	yes_approved
+40702	Oxycontin  M/R tablets  5 mg	40702	y	yes_approved
+40702	OxyContin  M/R tablets  80 mg	40702	y	yes_approved
+40702	Oxycontin  M/R tablets  80 mg	40702	y	yes_approved
+4070200	OxyContin 10mg modified-release tablets (Napp Pharmaceuti...	40702	y	yes_approved
+40702	OXYCONTIN 10MG TABLETS	40702	y	yes_approved
+4070200	OxyContin 15mg modified-release tablets (Napp Pharmaceuti...	40702	y	yes_approved
+4070200	OxyContin 20mg modified-release tablets (Napp Pharmaceuti...	40702	y	yes_approved
+40702	OXYCONTIN 20MG TABLETS	40702	y	yes_approved
+4070200	OxyContin 30mg modified-release tablets (Napp Pharmaceuti...	40702	y	yes_approved
+4070200	OxyContin 40mg modified-release tablets (Napp Pharmaceuti...	40702	y	yes_approved
+4070200	OxyContin 5mg modified-release tablets (Napp Pharmaceutic...	40702	y	yes_approved
+4070200	OxyContin 60mg modified-release tablets (Napp Pharmaceuti...	40702	y	yes_approved
+4070200	OxyContin 80mg modified-release tablets (Napp Pharmaceuti...	40702	y	yes_approved
+40702	OXYCONTIN MODIFIED RELEASE TABLETS 10MG	40702	y	yes_approved
+40702	OXYCONTIN MODIFIED RELEASE TABLETS 20MG	40702	y	yes_approved
+40702	OXYCONTIN MODIFIED RELEASE TABLETS 40MG	40702	y	yes_approved
+40702	OXYCONTIN MODIFIED RELEASE TABLETS 5MG	40702	y	yes_approved
+40702	OXYCONTIN MODIFIED RELEASE TABLETS 80MG	40702	y	yes_approved
+40702	Oxycontin Modified Release TABS 10MG	40702	y	yes_approved
+40702	Oxycontin Modified Release TABS 20MG	40702	y	yes_approved
+40702	Oxycontin Modified Release TABS 40MG	40702	y	yes_approved
+40702	Oxycontin Modified Release TABS 5MG	40702	y	yes_approved
+40702	Oxycontin Modified Release TABS 80MG	40702	y	yes_approved
+40702	OxyNorm  Capsules  10 mg	40702	y	yes_approved
+40702	OxyNorm  Capsules  20 mg	40702	y	yes_approved
+40702	OxyNorm  Capsules  5 mg	40702	y	yes_approved
+40702	OxyNorm  Oral solution  5 mg/5 ml	40702	y	yes_approved
+40702	OxyNorm  Solution  5 mg/5 ml	40702	y	yes_approved
+40702	OXYNORM 10 MG CAP	40702	y	yes_approved
+4070200	OxyNorm 10mg capsules (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+4070200	OxyNorm 10mg/1ml solution for injection ampoules (Napp Ph...	40702	y	yes_approved
+4070200	OxyNorm 20mg capsules (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+4070200	OxyNorm 20mg/2ml solution for injection ampoules (Napp Ph...	40702	y	yes_approved
+4070200	OxyNorm 5mg capsules (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+40702	Oxynorm CAPS 10MG	40702	y	yes_approved
+40702	Oxynorm CAPS 20MG	40702	y	yes_approved
+40702	Oxynorm CAPS 5MG	40702	y	yes_approved
+40702	OXYNORM CAPSULES 10MG	40702	y	yes_approved
+4070200	OXYNORM liq 5mg/5ml	40702	y	yes_approved
+4070200	OxyNorm liquid 5mg/5ml oral solution (Napp Pharmaceutical...	40702	y	yes_approved
+4070200	Palexia 50mg tablets (Grunenthal Ltd)	40702	y	yes_approved
+4070100	Panadol ActiFast Soluble tablets (GlaxoSmithKline Consume...	40701	y	yes_approved
+40701	Panadol Oa  Tablets  1000 mg	40701	y	yes_approved
+40701	Paracetamol  Caplets  500 mg	40701	y	yes_approved
+40701	Paracetamol  Capsules  500 mg	40701	y	yes_approved
+0407010H0AAACAC	Paracetamol  Mixture  250 mg/5 ml	40701	y	yes_approved
+40701	Paracetamol  Oral solution  500 mg/5 ml	40701	y	yes_approved
+40701	Paracetamol  Oral suspension  250 mg/5 ml	40701	y	yes_approved
+40701	Paracetamol  Oral Suspension (Sugar-Free)  250 mg/5 ml	40701	y	yes_approved
+40701	Paracetamol  Orodispersible Tablets (Sugar Free)  250 mg	40701	y	yes_approved
+0407010H0AAAQAQ	Paracetamol  Soluble tablets  500 mg	40701	y	yes_approved
+0407010H0AAAQAQ	Paracetamol  Soluble Tablets  500 mg	40701	y	yes_approved
+0407010H0AAAWAW	Paracetamol  Sugar free suspension  120 mg/5 ml	40701	y	yes_approved
+40701	Paracetamol  Sugar free suspension  250 mg/5 ml	40701	y	yes_approved
+0407010H0AABUBU	Paracetamol  Suppositories  500 mg	40701	y	yes_approved
+0407010H0AAAMAM	Paracetamol  Tablets  500 mg	40701	y	yes_approved
+4070100	PARACETAMOL + DIHYDROCODEINE tabs 500mg + 20mg	40701	y	yes_approved
+4070100	Paracetamol 1g tablets	40701	y	yes_approved
+4070100	Paracetamol 250mg/5ml oral suspension	40701	y	yes_approved
+4070100	Paracetamol 250mg/5ml oral suspension sugar free	40701	y	yes_approved
+4070100	Paracetamol 500mg / Dihydrocodeine 20mg tablets	40701	y	yes_approved
+4070100	Paracetamol 500mg / Dihydrocodeine 30mg tablets	40701	y	yes_approved
+4070200	Paracetamol 500mg / Dihydrocodeine 30mg tablets	40702	y	yes_approved
+4070401	Paracetamol 500mg / Metoclopramide 5mg effervescent powde...	40704	y	
+4070401	Paracetamol 500mg / Metoclopramide 5mg tablets	40704	y	
+4070100	Paracetamol 500mg caplets (A A H Pharmaceuticals Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Accord Healthcare Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Actavis UK Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Alliance Healthcare (Distribut...	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Almus Pharmaceuticals Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Galpharm International Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (J M McGill Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Kent Pharmaceuticals Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Lloyds Pharmacy Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Numark Management Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Teva UK Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Vantage)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Wockhardt UK Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg caplets (Zentiva)	40701	y	yes_approved
+4070100	Paracetamol 500mg capsules	40701	y	yes_approved
+40701	Paracetamol 500mg capsules	40701	y	yes_approved
+4070100	Paracetamol 500mg soluble tablets	40701	y	yes_approved
+4070100	Paracetamol 500mg suppositories	40701	y	yes_approved
+4070100	Paracetamol 500mg tablets	40701	y	yes_approved
+0407010H0AAAMAM	Paracetamol 500mg tablets	40701	y	yes_approved
+4070100	Paracetamol 500mg tablets (Accord Healthcare Ltd)	40701	y	yes_approved
+4070100	Paracetamol 500mg/5ml oral solution sugar free	40701	y	yes_approved
+40701	Paracetamol And Dihydrocodeine  Tablets  500 mg + 20 mg	40701	y	yes_approved
+40701	Paracetamol And Dihydrocodeine  Tablets  500 mg + 30 mg	40701	y	yes_approved
+40701	Paracetamol And Metoclopramide  Oral Powder Sachets Sugar Free  500 mg + 5 mg	40701	y	
+40701	Paracetamol And Metoclopramide  Tablets  500 mg + 5 mg	40701	y	
+40701	PARACETAMOL CAPLET TABLETS 500MG	40701	y	yes_approved
+40701	Paracetamol Caplet TABLETS 500MG	40701	y	yes_approved
+40701	Paracetamol Caplet TABS 500MG	40701	y	yes_approved
+40701	Paracetamol CAPS 500MG	40701	y	yes_approved
+4070100	PARACETAMOL caps 500mg	40701	y	yes_approved
+40701	PARACETAMOL CAPSULES 500MG	40701	y	yes_approved
+40701	Paracetamol CAPSULES 500MG	40701	y	yes_approved
+0407010H0AAAQAQ	PARACETAMOL EFFERVESCENT TABLETS 500MG	40701	y	yes_approved
+0407010H0AAAQAQ	Paracetamol Effervescent TABS 500MG	40701	y	yes_approved
+40701	Paracetamol Oral SUSP 250MG/5ML	40701	y	yes_approved
+40701	Paracetamol Orodispersible TABS 250MG	40701	y	yes_approved
+0407010H0AAA7A7	PARACETAMOL SF ELIX 120MG/5ML	40701	y	yes_approved
+0407010H0AAAWAW	Paracetamol Sf Oral SUSP 120MG/5ML	40701	y	yes_approved
+40701	Paracetamol Sf Oral SUSP 250MG/5ML	40701	y	yes_approved
+40701	PARACETAMOL SF ORAL SUSP 250MG/5ML	40701	y	yes_approved
+0407010H0AAAQAQ	PARACETAMOL SOL TABLETS 500MG	40701	y	yes_approved
+0407010H0AAAQAQ	PARACETAMOL SOLUBLE TABLETS 500MG	40701	y	yes_approved
+0407010H0AAAQAQ	Paracetamol Soluble TABLETS 500MG	40701	y	yes_approved
+0407010H0AAAQAQ	Paracetamol Soluble TABS 500MG	40701	y	yes_approved
+0407010H0AACMCM	PARACETAMOL SUPPS 125MG	40701	y	yes_approved
+0407010H0AABUBU	Paracetamol SUPPS 500MG	40701	y	yes_approved
+0407010H0AABUBU	PARACETAMOL SUPPS 500MG	40701	y	yes_approved
+40701	PARACETAMOL SUSP 250MG/5ML	40701	y	yes_approved
+0407010H0AAAMAM	PARACETAMOL TABLETS 500MG	40701	y	yes_approved
+0407010H0AAAMAM	Paracetamol TABLETS 500MG	40701	y	yes_approved
+0407010H0AAAMAM	Paracetamol TABS 500MG	40701	y	yes_approved
+4070100	PARACETAMOL tabs 500mg	40701	y	yes_approved
+0407010H0AAAQAQ	Paracetamol-P42 500mg tab soluble	40701	y	yes_approved
+0407010H0AAAMAM	PARACETAMOL-P42 500MG TABLET	40701	y	yes_approved
+0407010H0AAAMAM	Paracetamol-P42 500mg tablet	40701	y	yes_approved
+0407010H0AAAQAQ	PARACETAMOL-P42 soluble 500mg tabs	40701	y	yes_approved
+40701	PARACETAMOLCAPLETS 500MG	40701	y	yes_approved
+0407041A0BDAAAC	Paramax  Sachets	40704	n	
+0407041A0BDABAD	Paramax  Tablets	40704	n	
+4070401	Paramax sachets (Zentiva)	40704	n	
+0407041A0BDAAAC	PARAMAX SF EFFERVESCENT SACH	40704	n	
+0407041A0BDAAAC	Paramax Sf Effervescent SACH	40704	n	
+0407041A0BDABAD	PARAMAX TABLETS	40704	n	
+4070401	Paramax tablets (Zentiva)	40704	n	
+0407041A0BDABAD	Paramax TABS	40704	n	
+0407041A0BDABAD	PARAMAX-P42 TABLET	40704	n	
+100302	Pennsaid  Cutaneous Solution  16 mg/ml	100302	n	
+100302	PENNSAID DROPS	100302	n	
+0407020T0AAABAB	Pentazocine  Tablets  25 mg	40702	y	yes_approved
+4070200	Pentazocine 25mg tablets	40702	y	yes_approved
+0407020T0AAABAB	PENTAZOCINE 25MG TABS	40702	y	yes_approved
+0407020T0AAABAB	PENTAZOCINE TABLETS 25MG	40702	y	yes_approved
+0407020T0AAABAB	Pentazocine TABS 25MG	40702	y	yes_approved
+40801	Perampanel  Tablets  10 mg	40801	n	
+40801	Perampanel  Tablets  12 mg	40801	n	
+40801	Perampanel  Tablets  2 mg	40801	n	
+40801	Perampanel  Tablets  4 mg	40801	n	
+40801	Perampanel  Tablets  6 mg	40801	n	
+40801	Perampanel  Tablets  8 mg	40801	n	
+0407020V0AAACAC	Pethidine  Tablets  50 mg	40702	y	yes_approved
+4070200	Pethidine 50mg tablets	40702	y	yes_approved
+0407020V0AAACAC	PETHIDINE TABLETS 50 MG	40702	y	yes_approved
+0407020V0AAACAC	PETHIDINE TABLETS 50MG	40702	y	yes_approved
+0407020V0AAACAC	Pethidine TABS 50MG	40702	y	yes_approved
+40801	Phenobarbital  Tablets  15 mg	40801	n	
+40801	Phenobarbital  Tablets  30 mg	40801	n	
+40801	Phenobarbital  Tablets  60 mg	40801	n	
+4080102	Phenobarbital 15mg tablets	40801	n	
+4080102	Phenobarbital 30mg tablets	40801	n	
+4080102	Phenobarbital 30mg tablets (Bristol Laboratories Ltd)	40801	n	
+4080102	Phenobarbital 60mg tablets	40801	n	
+4080102	Phenobarbital 60mg tablets (Teva UK Ltd)	40801	n	
+40801	PHENOBARBITAL TABLETS 15MG	40801	n	
+40801	PHENOBARBITAL TABLETS 30MG	40801	n	
+40801	Phenobarbital TABS 15MG	40801	n	
+40801	Phenobarbital TABS 30MG	40801	n	
+40801	Phenobarbital TABS 60MG	40801	n	
+0408010N0AAAJAJ	Phenobarbitone  Tablets  30 mg	40801	n	
+0408010N0AAALAL	Phenobarbitone  Tablets  60 mg	40801	n	
+40801	PHENOBARBITONE 30MG TABS	40801	n	
+40801	PHENOBARBITONE 30MG THIRTY MG TAB	40801	n	
+0408010Q0AAAAAA	Phenytoin Sodium  Capsules  100 mg	40801	n	
+0408010Q0AAADAD	Phenytoin Sodium  Capsules  25 mg	40801	n	
+0408010Q0AAAQAQ	Phenytoin Sodium  Capsules  300 mg	40801	n	
+0408010Q0AAAPAP	Phenytoin Sodium  Capsules  50 mg	40801	n	
+40801	Phenytoin Sodium (Flynn Pharma)  Capsules  300 mg	40801	n	
+4080100	Phenytoin sodium 100mg capsules	40801	n	
+4080100	Phenytoin sodium 100mg capsules (A A H Pharmaceuticals Ltd)	40801	n	
+4080100	Phenytoin sodium 100mg capsules (Flynn Pharma Ltd)	40801	n	
+4080100	Phenytoin sodium 100mg tablets	40801	n	
+4080100	Phenytoin sodium 25mg capsules	40801	n	
+4080100	Phenytoin sodium 300mg capsules	40801	n	
+4080100	Phenytoin sodium 50mg capsules	40801	n	
+4080100	Phenytoin sodium 50mg capsules (A A H Pharmaceuticals Ltd)	40801	n	
+4080100	Phenytoin sodium 50mg capsules (Flynn Pharma Ltd)	40801	n	
+0408010Q0AAAAAA	Phenytoin Sodium CAPS 100MG	40801	n	
+0408010Q0AAADAD	Phenytoin Sodium CAPS 25MG	40801	n	
+0408010Q0AAAQAQ	Phenytoin Sodium CAPS 300MG	40801	n	
+0408010Q0AAAPAP	Phenytoin Sodium CAPS 50MG	40801	n	
+0408010Q0AAAAAA	PHENYTOIN SODIUM CAPSULES 100MG	40801	n	
+0408010Q0AAADAD	PHENYTOIN SODIUM CAPSULES 25MG	40801	n	
+0408010Q0AAAQAQ	PHENYTOIN SODIUM CAPSULES 300MG	40801	n	
+0408010Q0AAAGAG	PHENYTOIN SODIUM TABLETS 100MG	40801	n	
+0408010Q0AAAGAG	Phenytoin Sodium TABS 100MG	40801	n	
+0408010Q0AAAFAF	Phenytoin Sodium TABS 50MG	40801	n	
+0408010Q0AAAAAA	PHENYTOIN SODIUM-P42 100mg caps	40801	n	
+1001010R0AAAAAA	Piroxicam  Capsules  10 mg	100101	y	yes_approved
+1001010R0AAABAB	Piroxicam  Capsules  20 mg	100101	y	yes_approved
+1003020R0AAAAAA	Piroxicam  Gel  0.5 %	100302	n	
+1001010R0AAAGAG	Piroxicam  Orodispersible tablets  20 mg	100101	y	yes_approved
+10010100	Piroxicam 0.5% gel	100101	n	
+10030250	Piroxicam 0.5% gel	100302	n	
+1001010R0AAABAB	PIROXICAM 20MG CAPSULE	100101	y	yes_approved
+10010100	Piroxicam 20mg capsules	100101	y	yes_approved
+10010100	Piroxicam 20mg orodispersible tablets sugar free	100101	y	yes_approved
+100101	PIROXICAM BETADEX TABLETS 20MG	100101	y	yes_approved
+100101	Piroxicam Betadex TABS 20MG	100101	y	yes_approved
+1001010R0AAAAAA	Piroxicam CAPS 10MG	100101	y	yes_approved
+1001010R0AAABAB	Piroxicam CAPS 20MG	100101	y	yes_approved
+1001010R0AAAAAA	PIROXICAM CAPSULES 10MG	100101	y	yes_approved
+1001010R0AAABAB	PIROXICAM CAPSULES 20MG	100101	y	yes_approved
+1003020R0AAAAAA	Piroxicam GEL 0.5%	100302	n	
+1003020R0AAAAAA	PIROXICAM GEL 0.5%	100302	n	
+1001010R0AAAGAG	PIROXICAM MELT 20MG TABLETS	100101	y	yes_approved
+1001010R0AAAGAG	PIROXICAM ORODISPERSIBLE TABLETS 20MG	100101	y	yes_approved
+1001010R0AAAGAG	Piroxicam Orodispersible TABS 20MG	100101	y	yes_approved
+1001010R0AAADAD	PIROXICAM SF DISPERSIBLE TABLETS 10MG	100101	y	yes_approved
+1001010R0AAAEAE	PIROXICAM SF DISPERSIBLE TABLETS 20MG	100101	y	yes_approved
+1001010R0AAADAD	Piroxicam Sf Dispersible TABS 10MG	100101	y	yes_approved
+1001010R0AAAEAE	Piroxicam Sf Dispersible TABS 20MG	100101	y	yes_approved
+100101	Piroxicam-Beta-Cyclodextrin  Tablets  20 mg	100101	y	yes_approved
+1001010R0AAAAAA	Piroxicam-P42 10mg capsule	100101	y	yes_approved
+1001010R0AAAEAE	Piroxicam-P42 20mg tab disp	100101	y	yes_approved
+0407042Q0AAACAC	Pizotifen  Tablets  1.5 mg	40704	n	
+0407042Q0AAABAB	Pizotifen  Tablets  500 micrograms	40704	n	
+4070402	Pizotifen 1.5mg tablets	40704	n	
+4070402	Pizotifen 500microgram tablets	40704	n	
+0407042Q0AAAAAA	Pizotifen Sf ELIX 250MCG/5ML	40704	n	
+0407042Q0AAACAC	PIZOTIFEN TABLETS 1.5MG	40704	n	
+0407042Q0AAACAC	Pizotifen TABLETS 1.5MG	40704	n	
+0407042Q0AAABAB	PIZOTIFEN TABLETS 500MICROGRAMS	40704	n	
+0407042Q0AAABAB	Pizotifen TABLETS 500MICROGRAMS	40704	n	
+0407042Q0AAACAC	Pizotifen TABS 1.5MG	40704	n	
+0407042Q0AAACAC	PIZOTIFEN tabs 1.5mg-P42 0	40704	n	
+0407042Q0AAABAB	Pizotifen TABS 500MICROGRAMS	40704	n	
+1001010N0BBAAAA	Ponstan  Capsules  250 mg	100101	y	yes_approved
+1001010N0BBABAD	Ponstan  Tablets Forte  500 mg	100101	y	yes_approved
+1001010N0BBABAD	Ponstan  Tablets forte  500 mg	100101	y	yes_approved
+10010100	Ponstan 250mg capsules (Chemidex Pharma Ltd)	100101	y	yes_approved
+1001010N0BBAAAA	Ponstan CAPS 250MG	100101	y	yes_approved
+1001010N0BBAAAA	Ponstan CAPSULES 250MG	100101	y	yes_approved
+1001010N0BBAAAA	PONSTAN CAPSULES 250MG	100101	y	yes_approved
+100101	Ponstan Dispersible  Dispersible tablets  250 mg	100101	y	yes_approved
+10010100	Ponstan Forte 500mg tablets (Chemidex Pharma Ltd)	100101	y	yes_approved
+1001010N0BBABAD	PONSTAN FORTE TABLETS 500MG	100101	y	yes_approved
+1001010N0BBABAD	Ponstan Forte TABS 500MG	100101	y	yes_approved
+1001010N0BBAAAA	PONSTAN-P42 250MG CAPSULE	100101	y	yes_approved
+1001010N0BBAAAA	Ponstan-P42 250mg capsule	100101	y	yes_approved
+1001010N0BBABAD	Ponstan-P42 500mg forte tab	100101	y	yes_approved
+1001010N0BBABAD	PONSTAN-P42 500MG FORTE TAB	100101	y	yes_approved
+10010100	Powergel 2.5% gel (A Menarini Pharma UK S.R.L.)	100101	n	
+10010100	Powergel 2.5% gel (A. Menarini Farmaceutica Internazional...	100101	n	
+100302010BCAAAA	Powergel GEL 2.5%	100302	n	
+100302010BCAAAA	POWERGEL GEL 2.5%	100302	n	
+40801	Pregabalin  Capsules  100 mg	40801	y	
+40801	Pregabalin  Capsules  150 mg	40801	y	
+40801	Pregabalin  Capsules  200 mg	40801	y	
+40801	Pregabalin  Capsules  225 mg	40801	y	
+40801	Pregabalin  Capsules  25 mg	40801	y	
+40801	Pregabalin  Capsules  300 mg	40801	y	
+40801	Pregabalin  Capsules  50 mg	40801	y	
+40801	Pregabalin  Capsules  75 mg	40801	y	
+40801	Pregabalin  Oral solution  75 mg/5 ml	40801	y	
+40801	Pregabalin  Oral Solution  Sugar Free  20 mg/ml	40801	y	
+4080100	Pregabalin 100mg capsules	40801	y	
+4070300	Pregabalin 100mg capsules	40703	y	
+4080100	Pregabalin 150mg capsules	40801	y	
+4070300	Pregabalin 150mg capsules	40703	y	
+4080100	Pregabalin 200mg capsules	40801	y	
+4080100	Pregabalin 20mg/ml oral solution sugar free	40801	y	
+4080100	Pregabalin 225mg capsules	40801	y	
+4080100	Pregabalin 25mg capsules	40801	y	
+4070300	Pregabalin 25mg capsules	40703	y	
+4080100	Pregabalin 300mg capsules	40801	y	
+4080100	Pregabalin 50mg capsules	40801	y	
+4070300	Pregabalin 50mg capsules	40703	y	
+4080100	Pregabalin 75mg capsules	40801	y	
+4070300	Pregabalin 75mg capsules	40703	y	
+40801	Pregabalin CAPS 100MG	40801	y	
+40801	Pregabalin CAPS 150MG	40801	y	
+40801	Pregabalin CAPS 200MG	40801	y	
+40801	Pregabalin CAPS 25MG	40801	y	
+40801	Pregabalin CAPS 25mg	40801	y	
+40801	Pregabalin CAPS 300MG	40801	y	
+40801	Pregabalin CAPS 50MG	40801	y	
+40801	Pregabalin CAPS 75mg	40801	y	
+40801	Pregabalin CAPS 75MG	40801	y	
+40801	PREGABALIN CAPSULES 100MG	40801	y	
+40801	Pregabalin CAPSULES 100MG	40801	y	
+40801	PREGABALIN CAPSULES 150MG	40801	y	
+40801	PREGABALIN CAPSULES 200MG	40801	y	
+40801	PREGABALIN CAPSULES 25MG	40801	y	
+40801	PREGABALIN CAPSULES 300MG	40801	y	
+40801	PREGABALIN CAPSULES 50MG	40801	y	
+40801	PREGABALIN CAPSULES 75MG	40801	y	
+40801	Pregabalin CAPSULES 75MG	40801	y	
+40801	PREGABALIN TABLETS 75MG	40801	y	
+100101080BBAAAA	Preservex TABS 100MG	100101	y	yes_approved
+0408010U0AAABAB	Primidone  Tablets  250 mg	40801	n	
+40801	Primidone  Tablets  50 mg	40801	n	
+4080102	Primidone 250mg tablets	40801	n	
+4080102	Primidone 250mg tablets (Alliance Healthcare (Distributio...	40801	n	
+4080102	Primidone 50mg tablets	40801	n	
+0408010U0AAABAB	PRIMIDONE TABLETS 250MG	40801	n	
+0408010U0AAABAB	Primidone TABS 250MG	40801	n	
+0408010U0AAABAB	PRIMIDONE-P42 250MG TABLET	40801	n	
+1003020P0BBAAAA	Proflex  Cream  5 %	100302	n	
+1003020P0BBAAAA	PROFLEX CREAM 5%	100302	n	
+1003020P0BBAAAA	Proflex CREAM 5%	100302	n	
+0403010J0BBAAAA	Prothiaden  Capsules  25 mg	40301	n	
+0403010J0BBABAI	Prothiaden  Tablets  75 mg	40301	n	
+4030100	Prothiaden 25mg capsules (Teofarma)	40301	n	
+4030100	Prothiaden 75mg tablets (Teofarma)	40301	n	
+0403010J0BBAAAA	Prothiaden CAPS 25MG	40301	n	
+0403010J0BBAAAA	PROTHIADEN CAPSULES 25MG	40301	n	
+0403010J0BBABAI	PROTHIADEN TABLETS 75MG	40301	n	
+0403010J0BBABAI	Prothiaden TABS 75MG	40301	n	
+0403010J0BBAAAA	PROTHIADEN-P42 25MG CAPSULE	40301	n	
+0403010J0BBABAI	PROTHIADEN-P42 75MG TABLET	40301	n	
+0403010J0BBABAI	Prothiaden-P42 75mg tablet	40301	n	
+1003020N0BFAFAY	Radian B Pump Action 100ml SPRAY	100302	n	
+1003020N0BFAFAY	RADIAN B SPRAY	100302	n	
+100302	Ralgex  Heat Spray	100302	n	
+100302	RALGEX FREEZE 125ML SPRAY	100302	n	
+100302	Ralgex Freeze 125ml SPRAY	100302	n	
+100302	Ralgex Heat 125ml SPRAY	100302	n	
+100302	RALGEX HEAT 125ML SPRAY	100302	n	
+15010403	Rapifen 5mg/10ml solution for injection ampoules (Janssen...	150104	y	yes_approved
+0403040U0AAAAAA	Reboxetine  Tablets  4 mg	40304	n	
+0403040U0AAAAAA	REBOXETINE 4MG TAB	40304	n	
+0403040U0AAAAAA	REBOXETINE TABLETS 4MG	40304	n	
+0403040U0AAAAAA	Reboxetine TABLETS 4MG	40304	n	
+0403040U0AAAAAA	Reboxetine TABS 4MG	40304	n	
+1001010X0BBAAAA	Relifex  Tablets  500 mg	100101	y	yes_approved
+1001010X0BBAAAA	RELIFEX TABLETS 500MG	100101	y	yes_approved
+1001010X0BBAAAA	Relifex TABS 500MG	100101	y	yes_approved
+0407010X0BIADAQ	Remedeine  Forte effervescent tablets	40701	y	yes_approved
+0407010X0BIABAI	Remedeine  Forte tablets	40701	y	yes_approved
+0407010X0BIAAAH	Remedeine  Tablets	40701	y	yes_approved
+0407010X0BIACAP	REMEDEINE EFF TABLETS	40701	y	yes_approved
+0407010X0BIACAP	REMEDEINE EFFERVESCENT TABLETS	40701	y	yes_approved
+0407010X0BIABAI	REMEDEINE FORTE 500MG TABLETS	40701	y	yes_approved
+0407010X0BIADAQ	Remedeine Forte Effervescent TABS	40701	y	yes_approved
+0407010X0BIABAI	REMEDEINE FORTE TABLETS	40701	y	yes_approved
+4070100	Remedeine Forte tablets (Crescent Pharma Ltd)	40701	y	yes_approved
+4070100	Remedeine Forte tablets (Napp Pharmaceuticals Ltd)	40701	y	yes_approved
+0407010X0BIABAI	Remedeine Forte TABS	40701	y	yes_approved
+0407010X0BIAAAH	REMEDEINE TABLETS	40701	y	yes_approved
+4070100	Remedeine tablets (Crescent Pharma Ltd)	40701	y	yes_approved
+4070100	Remedeine tablets (Napp Pharmaceuticals Ltd)	40701	y	yes_approved
+0407010X0BIAAAH	Remedeine TABS	40701	y	yes_approved
+1001010B0BBABAB	Rheumox  Tablets  600 mg	100101	y	yes_approved
+1001010B0BBAAAA	Rheumox CAPS 300MG	100101	y	yes_approved
+1001010B0BBAAAA	RHEUMOX CAPSULES 300MG	100101	y	yes_approved
+1001010B0BBABAB	RHEUMOX TABLETS 600MG	100101	y	yes_approved
+1001010B0BBABAB	Rheumox TABS 600MG	100101	y	yes_approved
+1001010B0BBAAAA	Rheumox-P42 300mg cap	100101	y	yes_approved
+1001010C0BDACAL	Rhumalgan Cr  M/R tablets  75 mg	100101	y	yes_approved
+10010100	Rhumalgan SR 75mg capsules (Sandoz Ltd)	100101	y	yes_approved
+4070401	Rizatriptan 10mg oral lyophilisates sugar free	40704	n	
+4070401	Rizatriptan 10mg orodispersible tablets sugar free	40704	n	
+4070401	Rizatriptan 10mg tablets	40704	n	
+4070401	Rizatriptan 5mg tablets	40704	n	
+4070401	Rizatriptan Benzoate  Orodispersible Tablets (Sugar Free)  10 mg	40704	n	
+0407041R0AAABAB	Rizatriptan Benzoate  Tablets  10 mg	40704	n	
+0407041R0AAAAAA	Rizatriptan Benzoate  Tablets  5 mg	40704	n	
+0407041R0AAACAC	Rizatriptan Benzoate  Wafers (Oral Lyophilisate)  10 mg	40704	n	
+0407041R0AAACAC	Rizatriptan Benzoate  Wafers (Oral Lyophilisate)  Sugar Free 10 mg	40704	n	
+0407041R0AAACAC	RIZATRIPTAN MELT 10MGS	40704	n	
+0407041R0AAABAB	RIZATRIPTAN TABLETS 10MG	40704	n	
+0407041R0AAAAAA	RIZATRIPTAN TABLETS 5MG	40704	n	
+0407041R0AAABAB	Rizatriptan TABS 10MG	40704	n	
+0407041R0AAAAAA	Rizatriptan TABS 5MG	40704	n	
+4070401	RIZATRIPTAN tabs 5mg	40704	n	
+0407041R0AAACAC	Rizatriptan WAFER 10MG	40704	n	
+0407041R0AAACAC	RIZATRIPTAN WAFER 10MG	40704	n	
+4070401	RIZATRIPTAN wafer 10mg	40704	n	
+100101	Rofecoxib  Tablets  12.5 mg	100101	y	yes_approved
+100101	Rofecoxib  Tablets  25 mg	100101	y	yes_approved
+100101	ROFECOXIB 12.5MG TAB	100101	y	yes_approved
+100101	ROFECOXIB 12.5MG TABLETS	100101	y	yes_approved
+100101	ROFECOXIB 12.5mg tabs-P42 0	100101	y	yes_approved
+100101	ROFECOXIB 25 mg tabs	100101	y	yes_approved
+100101	ROFECOXIB 25MG	100101	y	yes_approved
+100101	ROFECOXIB 25MG 25MG TABLETS	100101	y	yes_approved
+100101	ROFECOXIB 25mg Tab	100101	y	yes_approved
+100101	ROFECOXIB 25MG TABLETS	100101	y	yes_approved
+100101	Rofecoxib 25mg tabs	100101	y	yes_approved
+100101	ROFECOXIB 25mg tabs-P42 0	100101	y	yes_approved
+100101	ROFECOXIB ACUTE TABLETS 25MG	100101	y	yes_approved
+100101	ROFECOXIB ACUTE TABLETS 50MG	100101	y	yes_approved
+100101	Rofecoxib Acute TABS 25MG	100101	y	yes_approved
+100101	Rofecoxib Acute TABS 50MG	100101	y	yes_approved
+100101	ROFECOXIB TABLETS 12.5MG	100101	y	yes_approved
+100101	Rofecoxib TABLETS 12.5MG	100101	y	yes_approved
+100101	ROFECOXIB TABLETS 25MG	100101	y	yes_approved
+100101	Rofecoxib TABLETS 25MG	100101	y	yes_approved
+100101	Rofecoxib TABS 12.5MG	100101	y	yes_approved
+100101	Rofecoxib TABS 25MG	100101	y	yes_approved
+0408010X0BBAAAA	Sabril TABS 500MG	40801	n	
+10030250	Salicylic acid 2% / Mucopolysaccharide polysulfate 0.2% c...	100302	n	
+10030250	Salicylic acid 2% / Mucopolysaccharide polysulfate 0.2% gel	100302	n	
+10030250	Salicylic acid 2% / Mucopolysaccharide polysulphate 0.2% ...	100302	n	
+10030250	Salicylic acid 2% / Mucopolysaccharide polysulphate 0.2% gel	100302	n	
+100302	SALICYLIC ACID 2% MUCOPOLSACCHARIDE POLYSULPHATE 0.2% CREAM 100G	100302	n	
+100302	Salicylic Acid And Mucopolysaccharide Polysulfate  Cream  2 % + 0.2 %	100302	n	
+100302	Salicylic Acid And Mucopolysaccharide Polysulfate  Gel  2 % + 0.2 %	100302	n	
+100302	Salicylic Acid And Mucopolysaccharide Polysulphate  Cream  2 % + 0.2 %	100302	n	
+100302	Salicylic Acid And Mucopolysaccharide Polysulphate  Gel  2 % + 0.2 %	100302	n	
+0407042Q0BBABAC	Sanomigran  Tablets  1.5 mg	40704	n	
+0407042Q0BBAAAB	Sanomigran  Tablets  500 micrograms	40704	n	
+0407042Q0BBAAAB	SANOMIGRAN 0.5MG TABLETS	40704	n	
+4070402	Sanomigran 500microgram tablets (Novartis Pharmaceuticals...	40704	n	
+0407042Q0BBABAC	SANOMIGRAN TABLETS 1.5MG	40704	n	
+0407042Q0BBAAAB	SANOMIGRAN TABLETS 500MICROGRAMS	40704	n	
+0407042Q0BBABAC	SANOMIGRAN tablets TAB 1.5mg-P42 0	40704	n	
+0407042Q0BBABAC	Sanomigran TABS 1.5MG	40704	n	
+0407042Q0BBAAAB	Sanomigran TABS 500MICROGRAMS	40704	n	
+0407042Q0BBABAC	SANOMIGRAN-P42 1.5MG TABLET	40704	n	
+0407042Q0BBAAAB	Sanomigran-P42 500mcg tablet	40704	n	
+0407020Q0BHACCD	Sevredol  Tablets  10 mg	40702	y	yes_approved
+0407020Q0BHACCD	SEVREDOL 10MG TABLET	40702	y	yes_approved
+4070200	Sevredol 10mg tablets (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+4070200	Sevredol 20mg tablets (Napp Pharmaceuticals Ltd)	40702	y	yes_approved
+0407020Q0BHADCE	SEVREDOL 20MG TABS	40702	y	yes_approved
+0407020Q0BHACCD	SEVREDOL TABLETS 10MG	40702	y	yes_approved
+0407020Q0BHADCE	SEVREDOL TABLETS 20MG	40702	y	yes_approved
+0407020Q0BHACCD	Sevredol TABS 10MG	40702	y	yes_approved
+40702	Shortec  Capsules  10 mg	40702	y	yes_approved
+40702	Shortec  Capsules  20 mg	40702	y	yes_approved
+40702	Shortec  Capsules  5 mg	40702	y	yes_approved
+4070200	Shortec 10mg capsules (Qdem Pharmaceuticals Ltd)	40702	y	yes_approved
+4070200	Shortec 5mg capsules (Qdem Pharmaceuticals Ltd)	40702	y	yes_approved
+0408010W0BBAJAZ	SODIUM VALPORATE CHRONO 200MGS	40801	n	
+0408010W0AAABAB	Sodium Valproate  Crushable tablets  100 mg	40801	n	
+0408010W0AAACAC	Sodium Valproate  E/c tablets  200 mg	40801	n	
+0408010W0AAACAC	Sodium Valproate  E/C Tablets  200 mg	40801	n	
+0408010W0AAADAD	Sodium Valproate  E/c tablets  500 mg	40801	n	
+40801	Sodium Valproate  M/R capsules  300 mg	40801	n	
+0408010W0AAAZAZ	Sodium Valproate  M/R tablets  200 mg	40801	n	
+0408010W0AAA1A1	Sodium Valproate  M/R tablets  300 mg	40801	n	
+0408010W0AAA2A2	Sodium Valproate  M/R tablets  500 mg	40801	n	
+0408010W0AAAAAA	Sodium Valproate  Sugar-free liquid  200 mg/5 ml	40801	n	
+4080100	Sodium valproate 100mg modified-release granules sachets ...	40801	n	
+4080100	Sodium valproate 100mg tablets	40801	n	
+4080100	Sodium valproate 200mg gastro-resistant tablets	40801	n	
+4080100	Sodium valproate 200mg modified-release tablets	40801	n	
+4080100	Sodium valproate 200mg/5ml oral solution sugar free	40801	n	
+4080100	Sodium valproate 300mg modified-release capsules	40801	n	
+4080100	Sodium valproate 300mg modified-release tablets	40801	n	
+4080100	Sodium valproate 500mg gastro-resistant tablets	40801	n	
+4080100	Sodium valproate 500mg modified-release tablets	40801	n	
+0408010W0AAABAB	SODIUM VALPROATE CRUSHABLE TABLETS 100MG	40801	n	
+0408010W0AAABAB	Sodium Valproate Crushable TABS 100MG	40801	n	
+4080100	SODIUM VALPROATE ec tab 500mg	40801	n	
+0408010W0AAACAC	SODIUM VALPROATE EC TABLETS 200MG	40801	n	
+0408010W0AAADAD	SODIUM VALPROATE EC TABLETS 500MG	40801	n	
+0408010W0AAACAC	Sodium Valproate Ec TABS 200MG	40801	n	
+0408010W0AAADAD	Sodium Valproate Ec TABS 500MG	40801	n	
+0408010W0AAA1A1	SODIUM VALPROATE MR TABLETS 300MG	40801	n	
+0408010W0AAA2A2	SODIUM VALPROATE MR TABLETS 500MG	40801	n	
+0408010W0AAAZAZ	Sodium Valproate Mr TABS 200MG	40801	n	
+0408010W0AAA1A1	Sodium Valproate Mr TABS 300MG	40801	n	
+0408010W0AAA2A2	Sodium Valproate Mr TABS 500MG	40801	n	
+0408010W0AAAAAA	SODIUM VALPROATE SF LIQ 200MG/5ML	40801	n	
+40701	Solpadeine  Tablets	40701	y	yes_approved
+0407010F0BGABAH	Solpadol  Caplets	40701	y	yes_approved
+0407010F0BGABAH	Solpadol  Caplets  30 mg/500 mg	40701	y	yes_approved
+0407010F0BGACAD	Solpadol  Capsules  30 mg/500 mg	40701	y	yes_approved
+0407010F0BGAAAF	Solpadol  Effervescent Tablets	40701	y	yes_approved
+0407010F0BGAAAF	Solpadol  Effervescent Tablets  30 mg/500 mg	40701	y	yes_approved
+0407010F0BGAAAF	Solpadol  Effervescent tablets  30 mg/500 mg	40701	y	yes_approved
+4070100	Solpadol 30mg/500mg caplets (Sanofi)	40701	y	yes_approved
+4070200	Solpadol 30mg/500mg caplets (Sanofi)	40702	y	yes_approved
+4070200	Solpadol 30mg/500mg capsules (Sanofi)	40702	y	yes_approved
+4070200	Solpadol 30mg/500mg effervescent tablets (Sanofi)	40702	y	yes_approved
+4070100	Solpadol 30mg/500mg effervescent tablets (Sanofi)	40701	y	yes_approved
+0407010F0BGABAH	SOLPADOL CAPLET TABLETS	40701	y	yes_approved
+0407010F0BGACAD	SOLPADOL CAPS	40701	y	yes_approved
+0407010F0BGAAAF	SOLPADOL EFFERVESCENT TABLETS	40701	y	yes_approved
+0407010F0BGAAAF	Solpadol Effervescent TABS	40701	y	yes_approved
+0407010F0BGABAH	SOLPADOL TABS	40701	y	yes_approved
+1001010S0AAAAAA	SULINDAC TABLETS 100MG	100101	y	yes_approved
+1001010S0AAABAB	SULINDAC TABLETS 200MG	100101	y	yes_approved
+1001010S0AAABAB	Sulindac TABS 200MG	100101	y	yes_approved
+4070401	Sumatriptan 100mg tablets	40704	n	
+4070401	Sumatriptan 10mg/0.1ml nasal spray unit dose	40704	n	
+4070401	Sumatriptan 20mg/0.1ml nasal spray unit dose	40704	n	
+4070401	Sumatriptan 50mg tablets	40704	n	
+4070403	Sumatriptan 6mg/0.5ml solution for injection pre-filled d...	40704	n	
+4070403	Sumatriptan 6mg/0.5ml solution for injection pre-filled s...	40704	n	
+4070403	Sumatriptan 6mg/0.5ml solution for injection syringe refill	40704	n	
+0407041T0AAAGAG	SUMATRIPTAN AQUEOUS NASAL SPRAY 20MG/ACT	40704	n	
+0407041T0AAAGAG	SUMATRIPTAN AQUEOUS NASAL SPRAY 20MG/ACT[2 DOSE NASAL SPRAY]	40704	n	
+4070401	SUMATRIPTAN aqueous nasal spray 20mg/actuation	40704	n	
+0407041T0AAAFAF	Sumatriptan Fast Disintegrating TABS 50MG	40704	n	
+4070401	Sumatriptan Nasal SPRAY 10MG	40704	n	
+4070401	SUMATRIPTAN NASAL SPRAY 10MG	40704	n	
+0407041T0AAAGAG	SUMATRIPTAN NASAL SPRAY 20MG	40704	n	
+0407041T0AAAGAG	Sumatriptan Nasal SPRAY 20MG	40704	n	
+4070401	Sumatriptan Prefilled Syringe With Device 0.5ml INJ 12MG/ML	40704	n	
+4070401	Sumatriptan Refill Syringe 0.5ml INJ 12MG/ML	40704	n	
+4070401	SUMATRIPTAN REFILL SYRINGE 0.5ML INJ 12MG/ML	40704	n	
+4070401	Sumatriptan Succinate  Injection  6 mg/0.5 ml pre-filled disposable device	40704	n	
+4070401	Sumatriptan Succinate  Injection  6 mg/0.5 ml pre-filled syringe	40704	n	
+4070401	Sumatriptan Succinate  Injection  6 mg/0.5 ml pre-filled syringe with device	40704	n	
+4070401	Sumatriptan Succinate  Nasal spray  10 mg/0.1 ml unit dose	40704	n	
+0407041T0AAAGAG	Sumatriptan Succinate  Nasal Spray  20 mg/0.1 ml	40704	n	
+0407041T0AAAGAG	Sumatriptan Succinate  Nasal spray  20 mg/0.1 ml unit dose	40704	n	
+4070401	Sumatriptan Succinate  Refill pack  6 mg/0.5 ml pre-filled syringe	40704	n	
+0407041T0AAACAC	Sumatriptan Succinate  Tablets  100 mg	40704	n	
+0407041T0AAAFAF	Sumatriptan Succinate  Tablets  50 mg	40704	n	
+0407041T0AAACAC	SUMATRIPTAN TABLETS 100MG	40704	n	
+0407041T0AAACAC	Sumatriptan TABLETS 100MG	40704	n	
+0407041T0AAAFAF	SUMATRIPTAN TABLETS 50MG	40704	n	
+0407041T0AAAFAF	Sumatriptan TABLETS 50MG	40704	n	
+0407041T0AAACAC	Sumatriptan TABS 100MG	40704	n	
+0407041T0AAAFAF	Sumatriptan TABS 50MG	40704	n	
+4070401	SUMATRIPTAN tabs 50mg	40704	n	
+1001010T0BBADAD	Surgam Sa CAPS 300MG	100101	y	yes_approved
+1001010T0BBADAD	SURGAM SA CAPSULES 300MG	100101	y	yes_approved
+0403010Y0BBAAAA	Surmontil  Capsules  50 mg	40301	n	
+0403010Y0BBAAAA	Surmontil CAPS 50MG	40301	n	
+0403010Y0BBACAC	SURMONTIL TABLETS 25MG	40301	n	
+0403010Y0BBACAC	Surmontil TABS 25MG	40301	n	
+100101070BBAAAA	Synflex  Tablets  275 mg	100101	y	yes_approved
+100101070BBAAAA	SYNFLEX TABLETS 275MG	100101	y	yes_approved
+100101070BBAAAA	Synflex TABS 275MG	100101	y	yes_approved
+40702	Tapentadol  M/R tablets  100 mg	40702	y	yes_approved
+40702	Tapentadol  M/R tablets  150 mg	40702	y	yes_approved
+40702	Tapentadol  M/R tablets  200 mg	40702	y	yes_approved
+40702	Tapentadol  M/R tablets  50 mg	40702	y	yes_approved
+40702	Tapentadol  Tablets  50 mg	40702	y	yes_approved
+4070200	Tapentadol 100mg modified-release tablets	40702	y	yes_approved
+4070200	Tapentadol 150mg modified-release tablets	40702	y	yes_approved
+4070200	Tapentadol 200mg modified-release tablets	40702	y	yes_approved
+4070200	Tapentadol 250mg modified-release tablets	40702	y	yes_approved
+4070200	Tapentadol 50mg modified-release tablets	40702	y	yes_approved
+4070200	Tapentadol 50mg tablets	40702	y	yes_approved
+40702	Targinact  M/R tablets  10 mg + 5 mg	40702	y	yes_approved
+40702	Targinact  M/R tablets  20 mg + 10 mg	40702	y	yes_approved
+40702	Targinact  M/R tablets  40 mg + 20 mg	40702	y	yes_approved
+4070200	Targinact 20mg/10mg modified-release tablets (Napp Pharma...	40702	y	yes_approved
+4070200	Targinact 40mg/20mg modified-release tablets (Napp Pharma...	40702	y	yes_approved
+0408010C0BBADAP	Tegretol  Sugar-free liquid  100 mg/5 ml	40801	y	
+0408010C0BBAAAB	Tegretol  Tablets  100 mg	40801	y	
+0408010C0BBABAC	Tegretol  Tablets  200 mg	40801	y	
+0408010C0BBACAD	Tegretol  Tablets  400 mg	40801	y	
+4080100	Tegretol 100mg tablets (Novartis Pharmaceuticals UK Ltd)	40801	y	
+4070300	Tegretol 100mg tablets (Novartis Pharmaceuticals UK Ltd)	40703	y	
+4080100	Tegretol 200mg tablets (Novartis Pharmaceuticals UK Ltd)	40801	y	
+4070300	Tegretol 200mg tablets (Novartis Pharmaceuticals UK Ltd)	40703	y	
+4080100	Tegretol 400mg tablets (Novartis Pharmaceuticals UK Ltd)	40801	y	
+0408010C0BBAGAJ	TEGRETOL CHEWABLE TABLETS 100MG	40801	y	
+0408010C0BBAGAJ	Tegretol Chewtabs  Chewable tablets  100 mg	40801	y	
+0408010C0BBAHAK	Tegretol Chewtabs  Chewable tablets  200 mg	40801	y	
+0408010C0BBAEAG	Tegretol Prolonged Release  M/R tablets  200 mg	40801	y	
+0408010C0BBAFAH	Tegretol Prolonged Release  M/R tablets  400 mg	40801	y	
+4080100	Tegretol Prolonged Release 200mg tablets (Novartis Pharma...	40801	y	
+4080100	Tegretol Prolonged Release 400mg tablets (Novartis Pharma...	40801	y	
+4080100	TEGRETOL PROLONGED RELEASE tabs 200mg	40801	y	
+0408010C0BBAFAH	Tegretol Prolonged Release TABS 400MG	40801	y	
+0408010C0BBAEAG	Tegretol Retard  M/R tablets  200 mg	40801	y	
+0408010C0BBAFAH	Tegretol Retard  M/R tablets  400 mg	40801	y	
+0408010C0BBAEAG	TEGRETOL RETARD TABLETS 200MG	40801	y	
+0408010C0BBAFAH	TEGRETOL RETARD TABLETS 400MG	40801	y	
+0408010C0BBAEAG	Tegretol Retard TABS 200MG	40801	y	
+0408010C0BBAFAH	Tegretol Retard TABS 400MG	40801	y	
+0408010C0BBAAAB	TEGRETOL TABLETS 100MG	40801	y	
+0408010C0BBABAC	TEGRETOL TABLETS 200MG	40801	y	
+0408010C0BBACAD	TEGRETOL TABLETS 400MG	40801	y	
+0408010C0BBAAAB	Tegretol TABS 100MG	40801	y	
+0408010C0BBABAC	Tegretol TABS 200MG	40801	y	
+0408010C0BBAAAB	TEGRETOL-P42 100MG TABLET	40801	y	
+0408010C0BBAAAB	Tegretol-P42 100mg tablet	40801	y	
+0408010C0BBABAC	Tegretol-P42 200mg tablet	40801	y	
+100101040AAAAAA	Tenoxicam  Tablets  20 mg	100101	y	yes_approved
+100101040AAAAAA	TENOXICAM TABLETS 20MG	100101	y	yes_approved
+100101040AAAAAA	Tenoxicam TABS 20MG	100101	y	yes_approved
+100101040AAAAAA	Tenoxicam-P42 20mg tab	100101	y	yes_approved
+100101040AAAAAA	TENOXICAM-P42 20MG TAB	100101	y	yes_approved
+4070200	Tephine 200microgram sublingual tablets (Sandoz Ltd)	40702	y	yes_approved
+1001010T0AAABAB	Tiaprofenic Acid TABS 200MG	100101	y	yes_approved
+100302	Tiloket  Gel  2.5 %	100302	n	
+0403010N0BCABAE	Tofranil TABS 25MG	40301	n	
+4070401	Tolfenamic acid 200mg tablets	40704	y	
+0407041U0AAABAB	TOLFENAMIC ACID TABLETS 200MG	40704	y	
+0407041U0AAABAB	Tolfenamic Acid TABS 200MG	40704	y	
+4080100	Topamax 200mg tablets (Janssen-Cilag Ltd)	40801	n	
+4080100	Topamax 25mg tablets (Janssen-Cilag Ltd)	40801	n	
+4080100	Topamax 50mg sprinkle capsules (Janssen-Cilag Ltd)	40801	n	
+40801	Topamax Sprinkle  Capsules  50 mg	40801	n	
+40801	Topamax Sprinkle CAPS 15MG	40801	n	
+40801	Topamax Sprinkle CAPS 25MG	40801	n	
+40801	Topamax Sprinkle CAPS 50MG	40801	n	
+40801	Topiramate  Capsules  15 mg	40801	n	
+40801	Topiramate  Capsules  25 mg	40801	n	
+40801	Topiramate  Capsules  50 mg	40801	n	
+40801	Topiramate  Capsules+e/c pellets  25 mg	40801	n	
+40801	Topiramate  Capsules+e/c pellets  50 mg	40801	n	
+040801050AAABAB	Topiramate  Tablets  100 mg	40801	n	
+040801050AAACAC	Topiramate  Tablets  200 mg	40801	n	
+040801050AAADAD	Topiramate  Tablets  25 mg	40801	n	
+040801050AAAAAA	Topiramate  Tablets  50 mg	40801	n	
+4080100	Topiramate 100mg tablets	40801	n	
+4080100	Topiramate 15mg capsules	40801	n	
+4080100	Topiramate 200mg tablets	40801	n	
+4080100	Topiramate 25mg capsules	40801	n	
+4080100	Topiramate 25mg tablets	40801	n	
+4070402	Topiramate 25mg tablets	40704	n	
+4080100	Topiramate 50mg capsules	40801	n	
+4070402	Topiramate 50mg capsules	40704	n	
+4070402	Topiramate 50mg tablets	40704	n	
+4080100	Topiramate 50mg tablets	40801	n	
+40801	Topiramate CAPS 15MG	40801	n	
+40801	Topiramate CAPS 25MG	40801	n	
+40801	Topiramate CAPS 50MG	40801	n	
+4080100	TOPIRAMATE caps 50mg	40801	n	
+40801	TOPIRAMATE CAPSULES 15MG	40801	n	
+40801	TOPIRAMATE CAPSULES 25MG	40801	n	
+40801	TOPIRAMATE CAPSULES 50MG	40801	n	
+040801050AAABAB	TOPIRAMATE TABLETS 100MG	40801	n	
+040801050AAADAD	TOPIRAMATE TABLETS 25MG	40801	n	
+040801050AAAAAA	TOPIRAMATE TABLETS 50MG	40801	n	
+040801050AAABAB	Topiramate TABS 100MG	40801	n	
+040801050AAACAC	Topiramate TABS 200MG	40801	n	
+040801050AAADAD	Topiramate TABS 25MG	40801	n	
+040801050AAAAAA	Topiramate TABS 50MG	40801	n	
+40701	Tramacet  Tablets  37.5 mg + 325 mg	40701	y	yes_approved
+40701	TRAMACET 325MG/37.5MG TABLETS	40701	y	yes_approved
+40701	Tramacet 325mg/37.5mg TABS	40701	y	yes_approved
+4070200	Tramacet 37.5mg/325mg effervescent tablets (Grunenthal Ltd)	40702	y	yes_approved
+4070200	Tramacet 37.5mg/325mg tablets (Grunenthal Ltd)	40702	y	yes_approved
+4070200	Tramadol 100mg modified-release capsules	40702	y	yes_approved
+4070200	Tramadol 100mg modified-release tablets	40702	y	yes_approved
+040702040AAACAC	TRAMADOL 100MG SR TABS	40702	y	yes_approved
+4070200	Tramadol 150mg modified-release capsules	40702	y	yes_approved
+4070200	Tramadol 200mg modified-release capsules	40702	y	yes_approved
+4070200	Tramadol 200mg modified-release tablets	40702	y	yes_approved
+4070200	Tramadol 37.5mg / Paracetamol 325mg tablets	40702	y	yes_approved
+4070200	Tramadol 50mg capsules	40702	y	yes_approved
+040702040AAAAAA	Tramadol 50mg capsules	40702	y	yes_approved
+4070200	Tramadol 50mg modified-release capsules	40702	y	yes_approved
+4070200	Tramadol 50mg orodispersible tablets sugar free	40702	y	yes_approved
+4070200	Tramadol 50mg soluble tablets sugar free	40702	y	yes_approved
+40701	Tramadol And Paracetamol  Effervescent Tablets Sugar Free  37.5 mg + 325 mg	40701	y	yes_approved
+40701	Tramadol And Paracetamol  Tablets  37.5 mg + 325 mg	40701	y	yes_approved
+4070200	TRAMADOL caps 50mg	40702	y	yes_approved
+040702040AAAAAA	TRAMADOL CAPSULES 50MG	40702	y	yes_approved
+040702040AAAGAG	TRAMADOL CAPSULESS/R 50MG-P42 0	40702	y	yes_approved
+040702040AAACAC	TRAMADOL HCL SR 100MG TABS	40702	y	yes_approved
+040702040AAAAAA	Tramadol Hydrochloride  Capsules  50 mg	40702	y	yes_approved
+040702040AAAHAH	Tramadol Hydrochloride  M/R capsules  100 mg	40702	y	yes_approved
+040702040AAAHAH	Tramadol Hydrochloride  M/R Capsules  100 mg	40702	y	yes_approved
+040702040AAAIAI	Tramadol Hydrochloride  M/R capsules  150 mg	40702	y	yes_approved
+040702040AAAJAJ	Tramadol Hydrochloride  M/R capsules  200 mg	40702	y	yes_approved
+040702040AAAJAJ	Tramadol Hydrochloride  M/R Capsules  200 mg	40702	y	yes_approved
+040702040AAAGAG	Tramadol Hydrochloride  M/R capsules  50 mg	40702	y	yes_approved
+040702040AAAGAG	Tramadol Hydrochloride  M/R Capsules  50 mg	40702	y	yes_approved
+040702040AAACAC	Tramadol Hydrochloride  M/R tablets  100 mg	40702	y	yes_approved
+040702040AAADAD	Tramadol Hydrochloride  M/R tablets  150 mg	40702	y	yes_approved
+040702040AAADAD	Tramadol Hydrochloride  M/R Tablets  150 mg	40702	y	yes_approved
+040702040AAAEAE	Tramadol Hydrochloride  M/R tablets  200 mg	40702	y	yes_approved
+40702	Tramadol Hydrochloride  M/R tablets  50 mg	40702	y	yes_approved
+40702	Tramadol Hydrochloride  M/R tablets  75 mg	40702	y	yes_approved
+040702040AAAFAF	Tramadol Hydrochloride  Soluble tablets  Sugar Free 50 mg	40702	y	yes_approved
+040702040AAAAAA	Tramadol Hydrochloride CAPS 50MG	40702	y	yes_approved
+040702040AAAAAA	TRAMADOL HYDROCHLORIDE CAPSULES 50MG	40702	y	yes_approved
+040702040AAAAAA	Tramadol Hydrochloride CAPSULES 50MG	40702	y	yes_approved
+4070200	Tramadol Hydrochloride Capsules 50mg	40702	y	yes_approved
+040702040AAAKAK	Tramadol Hydrochloride Effervescent Powder Lemon SACH 50MG	40702	y	yes_approved
+040702040AAAHAH	Tramadol Hydrochloride Mr CAPS 100MG	40702	y	yes_approved
+040702040AAAIAI	Tramadol Hydrochloride Mr CAPS 150MG	40702	y	yes_approved
+040702040AAAJAJ	Tramadol Hydrochloride Mr CAPS 200MG	40702	y	yes_approved
+040702040AAAGAG	Tramadol Hydrochloride Mr CAPS 50MG	40702	y	yes_approved
+040702040AAAHAH	TRAMADOL HYDROCHLORIDE MR CAPSULES 100MG	40702	y	yes_approved
+040702040AAAIAI	TRAMADOL HYDROCHLORIDE MR CAPSULES 150MG	40702	y	yes_approved
+040702040AAAJAJ	TRAMADOL HYDROCHLORIDE MR CAPSULES 200MG	40702	y	yes_approved
+040702040AAAGAG	TRAMADOL HYDROCHLORIDE MR CAPSULES 50MG	40702	y	yes_approved
+040702040AAACAC	Tramadol Hydrochloride Mr TABLETS 100MG	40702	y	yes_approved
+040702040AAACAC	TRAMADOL HYDROCHLORIDE MR TABLETS 100MG	40702	y	yes_approved
+040702040AAADAD	TRAMADOL HYDROCHLORIDE MR TABLETS 150MG	40702	y	yes_approved
+040702040AAAEAE	TRAMADOL HYDROCHLORIDE MR TABLETS 200MG	40702	y	yes_approved
+40702	TRAMADOL HYDROCHLORIDE MR TABLETS 50MG	40702	y	yes_approved
+040702040AAACAC	Tramadol Hydrochloride Mr TABS 100MG	40702	y	yes_approved
+040702040AAADAD	Tramadol Hydrochloride Mr TABS 150MG	40702	y	yes_approved
+040702040AAAEAE	Tramadol Hydrochloride Mr TABS 200MG	40702	y	yes_approved
+40702	Tramadol Hydrochloride Mr TABS 50MG	40702	y	yes_approved
+40702	Tramadol Hydrochloride Mr TABS 75MG	40702	y	yes_approved
+40702	TRAMADOL HYDROCHLORIDE ORODISPERSIBLE TABLETS 50MG	40702	y	yes_approved
+40702	Tramadol Hydrochloride Orodispersible TABS 50MG	40702	y	yes_approved
+040702040AAAFAF	TRAMADOL HYDROCHLORIDE SF SOLUBLE TABLETS 50MG	40702	y	yes_approved
+040702040AAAFAF	Tramadol Hydrochloride Sf Soluble TABS 50MG	40702	y	yes_approved
+040702040AAAEAE	TRAMADOL SR 200MG TABLET	40702	y	yes_approved
+040702040AAACAC	Tramadol SR TABS 100MGS	40702	y	yes_approved
+040702040AAACAC	TRAMADOL TABLETS 100MG M/R-P42 0	40702	y	yes_approved
+040702040AAACAC	TRAMADOL TABLETS 100MG SR	40702	y	yes_approved
+040702040AAACAC	TRAMADOL tabs 100mg m/r-P42 0	40702	y	yes_approved
+40702	Tramulief Sr  M/R tablets  100 mg	40702	y	yes_approved
+40702	Transtec  Transdermal patches  52.5 micrograms/hour	40702	y	yes_approved
+40702	Transtec  Transdermal patches  70 micrograms/hour	40702	y	yes_approved
+40702	TRANSTEC 35 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+40702	TRANSTEC 52.5 MICROGRAMS/HOUR PATCH	40702	y	yes_approved
+40702	Transtec 52.5 Micrograms/Hour PATCH	40702	y	yes_approved
+40702	Transtec 70 Micrograms/Hour PATCH	40702	y	yes_approved
+1003020T0BBAAAA	Transvasin Heat  Rub (Cream)	100302	n	
+1003020T0BBABA0	Transvasin Heat  Spray application	100302	n	
+1003020T0BBABA0	Transvasin Heat 125ml SPRAY	100302	n	
+1003020T0BBABA0	TRANSVASIN HEAT 125ML SPRAY	100302	n	
+1003020T0BBAAAA	TRANSVASIN HEAT RUB	100302	n	
+1003020T0BBAAAA	Transvasin Heat RUB	100302	n	
+1003020M0BBABAB	Traxam  Foam  3.17 %	100302	n	
+1003020M0BBAAAA	Traxam  Gel  3 %	100302	n	
+10030250	Traxam 3% gel (AMCo)	100302	n	
+10030250	Traxam 3% gel (Mercury Pharma Group Ltd)	100302	n	
+1003020M0BBABAB	Traxam FOAM	100302	n	
+1003020M0BBABAB	TRAXAM FOAM	100302	n	
+1003020M0BBAAAA	TRAXAM GEL 3%	100302	n	
+1003020M0BBAAAA	Traxam GEL 3%	100302	n	
+0403010X0AAADAD	TRAZADONE 150MG TABS	40301	n	
+0403010X0AAADAD	TRAZADONE CAPSULES 150MGM	40301	n	
+4030100	Trazodone 100mg capsules	40301	n	
+4030100	Trazodone 150mg tablets	40301	n	
+0403010X0AAAAAA	TRAZODONE 50MG CAP	40301	n	
+4030100	Trazodone 50mg capsules	40301	n	
+4030100	Trazodone 50mg/5ml oral solution sugar free	40301	n	
+0403010X0AAAAAA	TRAZODONE CAPSULES 50MG	40301	n	
+0403010X0AAABAB	Trazodone Hydrochloride  Capsules  100 mg	40301	n	
+0403010X0AAAAAA	Trazodone Hydrochloride  Capsules  50 mg	40301	n	
+0403010X0AAAFAF	Trazodone Hydrochloride  Liquid  Sugar Free 50 mg/5 ml	40301	n	
+0403010X0AAAEAE	Trazodone Hydrochloride  M/R tablets  150 mg	40301	n	
+0403010X0AAAFAF	Trazodone Hydrochloride  Oral Solution  Sugar Free  50 mg/5 ml	40301	n	
+0403010X0AAADAD	Trazodone Hydrochloride  Tablets  150 mg	40301	n	
+0403010X0AAABAB	Trazodone Hydrochloride CAPS 100MG	40301	n	
+0403010X0AAAAAA	Trazodone Hydrochloride CAPS 50MG	40301	n	
+0403010X0AAABAB	TRAZODONE HYDROCHLORIDE CAPSULES 100MG	40301	n	
+0403010X0AAAAAA	TRAZODONE HYDROCHLORIDE CAPSULES 50MG	40301	n	
+0403010X0AAAEAE	TRAZODONE HYDROCHLORIDE MR TABLETS 150MG	40301	n	
+0403010X0AAAEAE	Trazodone Hydrochloride Mr TABS 150MG	40301	n	
+0403010X0AAAAAA	Trazodone Hydrochloride Non Tariff CAPS 50MG	40301	n	
+0403010X0AAAAAA	TRAZODONE HYDROCHLORIDE NON TARIFF CAPSULES 50MG	40301	n	
+0403010X0AAAFAF	Trazodone Hydrochloride Sf LIQ 50MG/5ML	40301	n	
+0403010X0AAAFAF	TRAZODONE HYDROCHLORIDE SF LIQ 50MG/5ML	40301	n	
+0403010X0AAADAD	TRAZODONE HYDROCHLORIDE TABLETS 150MG	40301	n	
+0403010X0AAADAD	Trazodone Hydrochloride TABLETS 150MG	40301	n	
+0403010X0AAADAD	Trazodone Hydrochloride TABS 150MG	40301	n	
+0403010Y0AAAAAA	Trimipramine  Capsules  50 mg	40301	n	
+0403010Y0AAACAC	Trimipramine  Tablets  25 mg	40301	n	
+4030100	Trimipramine 50mg capsules	40301	n	
+0403010Y0AAAAAA	Trimipramine Maleate CAPS 50MG	40301	n	
+0403010Y0AAACAC	TRIMIPRAMINE MALEATE TABLETS 25MG	40301	n	
+0403010Y0AAABAB	Trimipramine Maleate TABS 10MG	40301	n	
+0403010Y0AAACAC	Trimipramine Maleate TABS 25MG	40301	n	
+0403010B0BIABA9	Triptafen M TABS	40301	n	
+0403010B0BIAAA8	Triptafen TABS	40301	n	
+0403010B0BEAAAC	Tryptizol  Capsules  75 mg	40301	y	
+0403010B0BEABAG	Tryptizol-P42 10mg tablet	40301	y	
+40304	Tryptophan  Capsules  500 mg	40304	n	
+4030400	Tryptophan 500mg capsules	40304	n	
+0407010F0BEAAAD	Tylex  Capsules	40701	y	yes_approved
+4070200	Tylex 30mg/500mg capsules (UCB Pharma Ltd)	40702	y	yes_approved
+0407010F0BEAAAD	TYLEX CAPS	40701	y	yes_approved
+0407010F0BEAAAD	Tylex CAPS	40701	y	yes_approved
+0407010F0BEAAAD	TYLEX CAPSULE	40701	y	yes_approved
+0407010F0BEABAF	TYLEX EFFERVESCENT TABLETS	40701	y	yes_approved
+0407010F0BEAAAD	Tylex-P42 capsule	40701	y	yes_approved
+0407010F0BEAAAD	TYLEX-P42 CAPSULE	40701	y	yes_approved
+100101	VALDECOXIB TABLETS 10 MG	100101	y	yes_approved
+100101	VALDECOXIB TABLETS 10MG	100101	y	yes_approved
+100101	VALDECOXIB TABLETS 20MG	100101	y	yes_approved
+100101	Valdecoxib TABS 10MG	100101	y	yes_approved
+100101	Valdecoxib TABS 20MG	100101	y	yes_approved
+040801020AAACAC	Valproic Acid  E/c capsules  500 mg	40801	n	
+4080100	Valproic acid 500mg gastro-resistant capsules	40801	n	
+4030400	Venlablue XL 150mg capsules (Bluefish Pharmaceuticals AB)	40304	y	
+4030400	Venlablue XL 37.5mg capsules (Bluefish Pharmaceuticals AB)	40304	y	
+4030400	Venlablue XL 75mg capsules (Bluefish Pharmaceuticals AB)	40304	y	
+40304	Venlafaxine  M/R capsules  225 mg	40304	y	
+40304	Venlafaxine  M/R capsules  37.5 mg	40304	y	
+40304	Venlafaxine  M/R tablets  150 mg	40304	y	
+40304	Venlafaxine  M/R tablets  225 mg	40304	y	
+40304	Venlafaxine  M/R tablets  37.5 mg	40304	y	
+40304	Venlafaxine  M/R tablets  75 mg	40304	y	
+40304	venlafaxine  xl TABS 75mg	40304	y	
+4030400	Venlafaxine 150mg modified-release capsules	40304	y	
+4030400	Venlafaxine 150mg modified-release tablets	40304	y	
+4030400	Venlafaxine 225mg modified-release capsules	40304	y	
+4030400	Venlafaxine 225mg modified-release tablets	40304	y	
+4030400	Venlafaxine 37.5mg modified-release capsules	40304	y	
+4030400	Venlafaxine 37.5mg modified-release tablets	40304	y	
+4030400	Venlafaxine 37.5mg tablets	40304	y	
+4030400	Venlafaxine 75mg modified-release capsules	40304	y	
+4030400	Venlafaxine 75mg modified-release tablets	40304	y	
+4030400	Venlafaxine 75mg tablets	40304	y	
+40304	VENLAFAXINE MR TABLETS 150MG	40304	y	
+40304	VENLAFAXINE MR TABLETS 75MG	40304	y	
+40304	Venlafaxine Mr TABS 150MG	40304	y	
+40304	Venlafaxine Mr TABS 225MG	40304	y	
+40304	Venlafaxine Mr TABS 75MG	40304	y	
+4030400	VENLAFAXINE tabs 37.5mg	40304	y	
+4030400	VENLAFAXINE tabs 75mg	40304	y	
+40304	VENLAFAXINE XL 75 MG TAB	40304	y	
+40304	venlafaxine XL TABS 75mg	40304	y	
+40304	VENLAFAXINE XL TABS 75MG TAB	40304	y	
+40304	Venlalic Xl  M/R tablets  150 mg	40304	y	
+40304	Venlalic Xl  M/R tablets  225 mg	40304	y	
+40304	Venlalic Xl  M/R tablets  75 mg	40304	y	
+4030400	Venlalic XL 150mg tablets (Dallas Burston Ashbourne Ltd)	40304	y	
+4030400	Venlalic XL 150mg tablets (DB Ashbourne Ltd)	40304	y	
+4030400	Venlalic XL 150mg tablets (Ethypharm UK Ltd)	40304	y	
+4030400	Venlalic XL 225mg tablets (DB Ashbourne Ltd)	40304	y	
+4030400	Venlalic XL 37.5mg tablets (Dallas Burston Ashbourne Ltd)	40304	y	
+4030400	Venlalic XL 37.5mg tablets (DB Ashbourne Ltd)	40304	y	
+4030400	Venlalic XL 75mg tablets (Dallas Burston Ashbourne Ltd)	40304	y	
+4030400	Venlalic XL 75mg tablets (DB Ashbourne Ltd)	40304	y	
+4030400	Venlalic XL 75mg tablets (Ethypharm UK Ltd)	40304	y	
+4070300	Versatis 5% medicated plasters (Grunenthal Ltd)	40703	n	
+4070300	VERSATIS MEDICATED plaster 5%	40703	n	
+4080100	Vigabatrin 500mg tablets	40801	n	
+0408010X0AAAAAA	Vigabatrin TABS 500MG	40801	n	
+100101	Vioxx  Tablets  12.5 mg	100101	y	yes_approved
+100101	Vioxx  Tablets  25 mg	100101	y	yes_approved
+100101	VIOXX 12.5 MG	100101	y	yes_approved
+100101	VIOXX 12.5 MG TABLET	100101	y	yes_approved
+100101	VIOXX 12.5MG	100101	y	yes_approved
+100101	vioxx 12.5mg	100101	y	yes_approved
+100101	Vioxx 12.5mg tab	100101	y	yes_approved
+100101	vioxx 12.5mg tab	100101	y	yes_approved
+100101	VIOXX 12.5MG TAB	100101	y	yes_approved
+100101	VIOXX 12.5MG TABLETS	100101	y	yes_approved
+100101	VIOXX 25MG TAB	100101	y	yes_approved
+100101	VIOXX 25MG TABLET	100101	y	yes_approved
+100101	vioxx 25mg Tabs	100101	y	yes_approved
+100101	Vioxx TAB 25MG 28	100101	y	yes_approved
+100101	VIOXX TABLETS 12.5MG	100101	y	yes_approved
+100101	VIOXX TABLETS 25MG	100101	y	yes_approved
+100101	Vioxx TABLETS 25MG	100101	y	yes_approved
+100101	VIOXX tablets TAB 12.5mg-P42 0	100101	y	yes_approved
+100101	Vioxx TABS 12.5MG	100101	y	yes_approved
+100101	Vioxx TABS 25mg	100101	y	yes_approved
+100101	Vioxx TABS 25MG	100101	y	yes_approved
+100101	Vioxxacute  Tablets  25 mg	100101	y	yes_approved
+100101	VIOXXACUTE TABLETS 25MG	100101	y	yes_approved
+100101	VIOXXACUTE TABLETS 50MG	100101	y	yes_approved
+100101	vioxxacute TABS 50mg	100101	y	yes_approved
+100101	Volsaid Retard 100  M/R tablets  100 mg	100101	y	yes_approved
+10010100	Volsaid Retard 100 tablets (Chiesi Ltd)	100101	y	yes_approved
+100101	Volsaid Retard 75  M/R tablets  75 mg	100101	y	yes_approved
+10010100	Volsaid Retard 75 tablets (Chiesi Ltd)	100101	y	yes_approved
+100101	VOLSAID RETARD TABLETS 100MG	100101	y	yes_approved
+100101	Volsaid Retard TABS 100MG	100101	y	yes_approved
+100101	Volsaid Retard TABS 75MG	100101	y	yes_approved
+1001010C0BBAGAJ	Voltarol  Dispersible tablets  50 mg	100101	y	yes_approved
+1003020U0BBAAAA	Voltarol  Emulgel  1.16 %	100302	n	
+1001010C0BBADAC	Voltarol  Suppositories  100 mg	100101	y	yes_approved
+1001010C0BBAJAU	Voltarol  Suppositories  50 mg	100101	y	yes_approved
+1001010C0BBAAAD	Voltarol  Tablets  25 mg	100101	y	yes_approved
+1001010C0BBABAE	Voltarol  Tablets  50 mg	100101	y	yes_approved
+10030250	Voltarol 1.16% Emulgel (GlaxoSmithKline Consumer Healthcare)	100302	n	
+10030250	Voltarol 1.16% Emulgel (Novartis Consumer Health UK Ltd)	100302	n	
+10030250	Voltarol 1.16% Emulgel P (Novartis Consumer Health UK Ltd)	100302	n	
+10030250	Voltarol 1% Emulgel (Novartis Consumer Health UK Ltd)	100302	n	
+10030250	Voltarol 1% Emulgel P (Novartis Consumer Health UK Ltd)	100302	n	
+10030250	Voltarol 12 Hour 2% Emulgel P (Novartis Consumer Health U...	100302	n	
+100302	Voltarol 12 Hour Emulgel P  Gel  2.32 %	100302	n	
+10030250	Voltarol 12 Hour Emulgel P 2.32% gel (GlaxoSmithKline Con...	100302	n	
+10030250	Voltarol 12 Hour Emulgel P 2.32% gel (Novartis Consumer H...	100302	n	
+10030250	Voltarol 140mg medicated plasters (Novartis Consumer Heal...	100302	n	
+10010100	Voltarol 25mg gastro-resistant tablets (Novartis Pharmace...	100101	y	yes_approved
+10010100	Voltarol 50mg dispersible tablets (Novartis Pharmaceutica...	100101	y	yes_approved
+10010100	Voltarol 50mg gastro-resistant tablets (Novartis Pharmace...	100101	y	yes_approved
+10010100	Voltarol 75mg SR tablets (Novartis Pharmaceuticals UK Ltd)	100101	y	yes_approved
+1001010C0BBAGAJ	VOLTAROL DISPERSIBLE TABLETS 50MG	100101	y	yes_approved
+1001010C0BBAAAD	Voltarol Ec TABLETS 25MG	100101	y	yes_approved
+1001010C0BBAAAD	VOLTAROL EC TABLETS 25MG	100101	y	yes_approved
+1001010C0BBABAE	VOLTAROL EC TABLETS 50MG	100101	y	yes_approved
+1001010C0BBAAAD	Voltarol Ec TABS 25MG	100101	y	yes_approved
+1001010C0BBABAE	Voltarol Ec TABS 50MG	100101	y	yes_approved
+1003020U0BBAAAA	Voltarol Emulgel Aqueous GEL 1%	100302	n	
+1003020U0BBAAAA	VOLTAROL EMULGEL AQUEOUS GEL 1%	100302	n	
+100302	Voltarol Emulgel P  Gel	100302	n	
+100302	Voltarol Gel PATCH	100302	n	
+100302	Voltarol Gel Patch  Medicated Plaster  1 %	100302	n	
+10030250	Voltarol Pain-eze 1.16% Emulgel (Novartis Consumer Health...	100302	n	
+10030250	Voltarol Pain-eze 1% Emulgel (Novartis Consumer Health UK...	100302	n	
+100302	Voltarol Pain-Eze Emulgel  Gel  1 %	100302	n	
+100101	Voltarol Rapid  Tablets  25 mg	100101	y	yes_approved
+100101	VOLTAROL RAPID TABLETS 50MG	100101	y	yes_approved
+1001010C0BBAFAF	Voltarol Retard  M/R Tablets  100 mg	100101	y	yes_approved
+1001010C0BBAFAF	Voltarol Retard  M/R tablets  100 mg	100101	y	yes_approved
+10010100	Voltarol Retard 100mg tablets (Novartis Pharmaceuticals U...	100101	y	yes_approved
+1001010C0BBAHAL	VOLTAROL RETARD TABLET 75MG	100101	y	yes_approved
+1001010C0BBAFAF	VOLTAROL RETARD TABLETS 100MG	100101	y	yes_approved
+1001010C0BBAFAF	Voltarol Retard TABS 100MG	100101	y	yes_approved
+1001010C0BBAFAF	Voltarol Retard-P42 100mg tablet SR	100101	y	yes_approved
+1001010C0BBAFAF	VOLTAROL RETARD-P42 100mg tablet SR	100101	y	yes_approved
+1001010C0BBAFAF	Voltarol retard-P42 100mg tablet SR	100101	y	yes_approved
+1001010C0BBAHAL	Voltarol Sr  M/R Tablets  75 mg	100101	y	yes_approved
+1001010C0BBAHAL	Voltarol Sr  M/R tablets  75 mg	100101	y	yes_approved
+1001010C0BBAHAL	VOLTAROL SR TABLETS 75MG	100101	y	yes_approved
+1001010C0BBAHAL	Voltarol Sr TABLETS 75MG	100101	y	yes_approved
+1001010C0BBAHAL	VOLTAROL SR tablets TAB 75mg-P42 0	100101	y	yes_approved
+1001010C0BBAHAL	Voltarol Sr TABS 75MG	100101	y	yes_approved
+1001010C0BBAJAU	VOLTAROL SUPPS 50MG	100101	y	yes_approved
+1001010C0BBABAE	VOLTAROL-P42 50MG TABLETS EC	100101	y	yes_approved
+1502010I0BCABAC	XYLOCAINE 500 DOSE PUMP 50ML SPRAY 10%	150201	n	
+1502010J0BBALAP	XYLOCAINE GEL 2%	150201	n	
+1502010J0BBAXAY	Xylocaine With Adrenaline  Injection  1 %	150201	n	
+1003020AABDAAAB	Zacin  Cream  0.025 %	100302	n	
+10030251	Zacin 0.025% cream (Teva UK Ltd)	100302	n	
+1003020AABDAAAB	ZACIN CREAM 0.025%	100302	n	
+040702040BDAAAA	Zamadol  Capsules  50 mg	40702	y	yes_approved
+40702	Zamadol 24hr  M/R tablets  400 mg	40702	y	yes_approved
+040702040BDAEAJ	Zamadol Sr  M/R capsules  200 mg	40702	y	yes_approved
+040702040BDABAG	Zamadol Sr CAPS 50MG	40702	y	yes_approved
+040702040BDACAH	ZAMADOL SR CAPSULES 100MG	40702	y	yes_approved
+040702040BDAEAJ	ZAMADOL SR CAPSULES 200MG	40702	y	yes_approved
+4070200	Zapain 30mg/500mg caplets (Mercury Pharma Group Ltd)	40702	y	yes_approved
+4070100	Zapain 30mg/500mg capsules (AMCo)	40701	y	yes_approved
+4070100	Zapain 30mg/500mg capsules (Mercury Pharma Group Ltd)	40701	y	yes_approved
+4070200	Zapain 30mg/500mg tablets (AMCo)	40702	y	yes_approved
+4070100	Zapain 30mg/500mg tablets (AMCo)	40701	y	yes_approved
+4070200	Zapain 30mg/500mg tablets (Mercury Pharma Group Ltd)	40702	y	yes_approved
+40701	ZAPAIN CAPS	40701	y	yes_approved
+0403010AABBAAAA	Zispin  Tablets  30 mg	40301	n	
+0403010AABBAAAA	ZISPIN 30MG TABLET	40301	n	
+4030400	ZISPIN SOLTAB 30mg	40304	n	
+4030400	Zispin SolTab 30mg orodispersible tablets (Merck Sharp & ...	40304	n	
+40304	Zispin Soltab TABS 30MG	40304	n	
+40304	Zispin SolTab TABS 30mg	40304	n	
+40304	zispin soltab TABS 30mg	40304	n	
+0403010AABBAAAA	Zispin TABS 30MG	40301	n	
+0407041Z0AAAAAA	ZOLMATRIPTAN 2.5MG TABLETS	40704	n	
+4070401	Zolmitriptan  Nasal spray  5 mg/0.1 ml unit dose	40704	n	
+4070401	Zolmitriptan  Nasal Spray  5 mg/dose	40704	n	
+4070401	Zolmitriptan  Orodispersible tablets  2.5 mg	40704	n	
+4070401	Zolmitriptan  Orodispersible Tablets (Sugar Free)  2.5 mg	40704	n	
+4070401	Zolmitriptan  Orodispersible Tablets (Sugar Free)  5 mg	40704	n	
+0407041Z0AAAAAA	Zolmitriptan  Tablets  2.5 mg	40704	n	
+4070401	Zolmitriptan  Tablets  5 mg	40704	n	
+4070401	Zolmitriptan 2.5mg orodispersible tablets sugar free	40704	n	
+4070401	Zolmitriptan 2.5mg tablets	40704	n	
+4070401	Zolmitriptan 5mg orodispersible tablets sugar free	40704	n	
+4070401	Zolmitriptan 5mg tablets	40704	n	
+4070401	Zolmitriptan 5mg/0.1ml nasal spray unit dose	40704	n	
+4070401	ZOLMITRIPTAN SF ORODISPERSIBLE TABLETS 2.5MG	40704	n	
+4070401	Zolmitriptan Sf Orodispersible TABS 2.5MG	40704	n	
+4070401	Zolmitriptan Sf Orodispersible TABS 5MG	40704	n	
+0407041Z0AAAAAA	ZOLMITRIPTAN TABLETS 2.5MG	40704	n	
+0407041Z0AAAAAA	Zolmitriptan TABLETS 2.5MG	40704	n	
+0407041Z0AAAAAA	Zolmitriptan TABS 2.5MG	40704	n	
+4070401	Zolmitriptan Unit Dose Nasal SPRAY 5MG/0.1ML	40704	n	
+0407041Z0BBAAAA	Zomig  Tablets  2.5 mg	40704	n	
+0407041Z0BBAAAA	ZOMIG 2.5MG TAB	40704	n	
+4070401	Zomig 5mg/0.1ml nasal spray 0.1ml unit dose (AstraZeneca ...	40704	n	
+4070401	Zomig Rapimelt 2.5mg orodispersible tablets (AstraZeneca ...	40704	n	
+4070401	Zomig Rapimelt Sf Orodispersible TABS 2.5MG	40704	n	
+0407041Z0BBAAAA	ZOMIG TABLETS 2.5MG	40704	n	
+0407020Q0BKAAEF	Zomorph  M/R capsules  10 mg	40702	y	yes_approved
+4070200	Zomorph 10mg modified-release capsules (Archimedes Pharma...	40702	y	yes_approved
+0407020Q0BKAAEF	ZOMORPH CAPSULES 10MG	40702	y	yes_approved
+40801	Zonisamide  Capsules  100 mg	40801	n	
+40801	Zonisamide  Capsules  25 mg	40801	n	
+40801	Zonisamide  Capsules  50 mg	40801	n	
+4080100	Zonisamide 100mg capsules	40801	n	
+4080100	Zonisamide 25mg capsules	40801	n	
+40801	Zonisamide CAPS 100MG	40801	n	
+40801	Zonisamide CAPS 50MG	40801	n	
+40801	ZONISAMIDE CAPSULES 100MG	40801	n	
+40801	ZONISAMIDE CAPSULES 25MG	40801	n	
+40801	ZONISAMIDE CAPSULES 50MG	40801	n	
+040702040BBAFAF	Zydol  Soluble tablets  50 mg	40702	y	yes_approved
+4070200	Zydol 50mg capsules (Grunenthal Ltd)	40702	y	yes_approved
+040702040BBAAAA	Zydol CAPS 50MG	40702	y	yes_approved
+040702040BBAAAA	ZYDOL CAPSULES 50MG	40702	y	yes_approved
+4070200	Zydol SR 150mg tablets (Grunenthal Ltd)	40702	y	yes_approved
+040702040BBACAC	ZYDOL SR TABLETS 100MG	40702	y	yes_approved
+040702040BBADAD	ZYDOL SR TABLETS 150MG	40702	y	yes_approved
+040702040BBACAC	Zydol Sr TABS 100MG	40702	y	yes_approved
+040702040BBADAD	Zydol Sr TABS 150MG	40702	y	yes_approved
+040702040BBAEAE	Zydol Sr TABS 200MG	40702	y	yes_approved
+40702	ZYDOL XL TABLETS 200MG	40702	y	yes_approved
+	Diclofenac  Medicated Plaster  140 mg		y	
+	Zapain  Tablets  30 mg + 500 mg		y	
+	Fentanyl  Transdermal patches  37.5 micrograms/hour		y	
+	Diclofenac Mr (Trinity)  75Mg Tablets		y	
+	Yentreve CAPS 40mg		y	
+	Yentreve  Gastro-resistant Capsules  40 mg		y	
+	Yentreve  Gastro-resistant Capsules  20 mg		y	
