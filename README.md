@@ -5,7 +5,8 @@ In the scr folder, there are three scripts:
 1.define_CPSP_abd.py: define chronic postsurgical pain based on operation and prescription data.
 2.add_operation_category.py: assign surgery category based on operation codes chapters.
 3.prepare_gwas_phenotype.py: prepare phenotype files for GWAS analysis.
-In the subfolder LMM, it contains the scripts for running linear mixed model of the GWAS on chronic postsurgical pain development.
+
+In the subfolder called LMM within in scr, it contains the scripts for running linear mixed model of the GWAS on chronic postsurgical pain development.
 
 In the input folder, there are two subfolders:
 
